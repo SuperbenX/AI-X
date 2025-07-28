@@ -1,12 +1,12 @@
-# Notion AI
+# Gemini
 
-![Notion AI 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=Notion AI&font=lobster)
+![Gemini 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=Gemini&font=lobster)
 
 ## 💡 简介
-集成在 Notion 的智能写作助手，适用于会议记录、头脑风暴、总结和写作。
+由 Google 推出的多模态 AI 助手，适用于查资料、写作、图像生成等场景。
 
 ## 👥 适用人群
-职场人士, 内容编辑, 产品经理
+学生, 教育者, 研究者
 
 ## ✅ 推荐用途
 - 文案创作
@@ -26,4 +26,4 @@
 - 建议科学上网（如适用）
 
 ## 🔗 官方网站
-👉 [https://www.notion.so/product/ai](https://www.notion.so/product/ai)
+👉 [https://gemini.google.com](https://gemini.google.com)

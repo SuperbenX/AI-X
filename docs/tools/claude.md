@@ -1,12 +1,12 @@
-# Notion AI
+# Claude
 
-![Notion AI 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=Notion AI&font=lobster)
+![Claude 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=Claude&font=lobster)
 
 ## 💡 简介
-集成在 Notion 的智能写作助手，适用于会议记录、头脑风暴、总结和写作。
+Anthropic 推出的语言模型，具备强大的长文处理能力与安全控制。
 
 ## 👥 适用人群
-职场人士, 内容编辑, 产品经理
+内容创作者, 研究者, 高阶办公用户
 
 ## ✅ 推荐用途
 - 文案创作
@@ -26,4 +26,4 @@
 - 建议科学上网（如适用）
 
 ## 🔗 官方网站
-👉 [https://www.notion.so/product/ai](https://www.notion.so/product/ai)
+👉 [https://claude.ai](https://claude.ai)

@@ -1,12 +1,12 @@
-# HeyGen
+# Descript
 
-![HeyGen 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=HeyGen&font=lobster)
+![Descript 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=Descript&font=lobster)
 
 ## 💡 简介
-AI 数字人视频生成工具，适用于营销视频、教学讲解和多语种内容制作。
+集转录、剪辑、配音于一体的多功能音视频内容创作平台。
 
 ## 👥 适用人群
-讲师, 创业者, 短视频达人
+播客主, 剪辑师, 内容创作者
 
 ## ✅ 推荐用途
 - 视频剪辑 / 生成
@@ -25,4 +25,4 @@ AI 数字人视频生成工具，适用于营销视频、教学讲解和多语�
 - 建议上传素材尺寸控制在推荐规格内
 
 ## 🔗 官方网站
-👉 [https://www.heygen.com](https://www.heygen.com)
+👉 [https://www.descript.com](https://www.descript.com)

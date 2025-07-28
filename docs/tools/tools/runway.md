@@ -1,12 +1,12 @@
-# HeyGen
+# Runway ML
 
-![HeyGen 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=HeyGen&font=lobster)
+![Runway ML 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=Runway ML&font=lobster)
 
 ## 💡 简介
-AI 数字人视频生成工具，适用于营销视频、教学讲解和多语种内容制作。
+强大的 AI 视频处理平台，支持视频背景替换、字幕生成、风格迁移等功能。
 
 ## 👥 适用人群
-讲师, 创业者, 短视频达人
+视频创作者, 内容制作人, 后期剪辑师
 
 ## ✅ 推荐用途
 - 视频剪辑 / 生成
@@ -25,4 +25,4 @@ AI 数字人视频生成工具，适用于营销视频、教学讲解和多语�
 - 建议上传素材尺寸控制在推荐规格内
 
 ## 🔗 官方网站
-👉 [https://www.heygen.com](https://www.heygen.com)
+👉 [https://runwayml.com](https://runwayml.com)

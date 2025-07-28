@@ -1,12 +1,12 @@
-# HeyGen
+# DALL·E
 
-![HeyGen 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=HeyGen&font=lobster)
+![DALL·E 封面](https://fakeimg.pl/1200x400/1f4ba0/ffffff/?text=DALL·E&font=lobster)
 
 ## 💡 简介
-AI 数字人视频生成工具，适用于营销视频、教学讲解和多语种内容制作。
+由 OpenAI 推出的文本生成图像工具，支持图片编辑和图像扩展功能。
 
 ## 👥 适用人群
-讲师, 创业者, 短视频达人
+视觉创作者, 广告人员, 品牌设计师
 
 ## ✅ 推荐用途
 - 视频剪辑 / 生成
@@ -25,4 +25,4 @@ AI 数字人视频生成工具，适用于营销视频、教学讲解和多语�
 - 建议上传素材尺寸控制在推荐规格内
 
 ## 🔗 官方网站
-👉 [https://www.heygen.com](https://www.heygen.com)
+👉 [https://openai.com/dall-e](https://openai.com/dall-e)

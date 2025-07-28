@@ -1,14 +1,29 @@
----
-title: AI 工具大全
----
+# AI 工具导航索引
 
-# 🧰 AI 工具导航页
+以下是目前已收录的主流 AI 工具，点击进入详细介绍页面：
 
-以下是我们整理的主流 AI 工具，点击查看详细介绍与使用方法：
+## ✍️ 文本生成 / 写作工具
+- [ChatGPT](./chatgpt)
+- [Claude](./claude)
+- [Gemini](./gemini)
+- [Writesonic](./writesonic)
 
-- [ChatGPT](tools/chatgpt.md)
-- [Notion AI](tools/notion-ai.md)
-- [Midjourney](tools/midjourney.md)
-- [HeyGen](tools/heygen.md)
-- [Canva AI](tools/canva.md)
-- [Clipchamp](tools/clipchamp.md)
+## 🎨 图像生成工具
+- [Midjourney](./midjourney)
+- [DALL·E](./dalle)
+- [Canva AI](./canva)
+
+## 📹 视频与数字人工具
+- [Runway ML](./runway)
+- [HeyGen](./heygen)
+- [Descript](./descript)
+- [Synthesia](./synthesia)
+- [Clipchamp](./clipchamp)
+
+## 🧠 搜索与助手工具
+- [Perplexity AI](./perplexity)
+- [Notion AI](./notion-ai)
+- [Gamma.app](./gamma)
+
+## 🔊 语音工具
+- [ElevenLabs](./elevenlabs)

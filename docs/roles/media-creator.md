@@ -31,34 +31,37 @@
 
 ## 🛠 必备 AI 工具推荐
 
-| 工具名称 | 一句话亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 | 上手难度 | 建议使用场景 |
-| :---: | --- | --- | :---: | :---: | :---: | :---: | --- | --- |
-| **ChatGPT** | 文本生成、写作助手、脚本优化 | 视频脚本、标题文案、创意点子 | 免费+付费 | ⭐ | [访问](https://chat.openai.com) | [DeepSeek Chat](https://chat.deepseek.com/) | ⭐ | 适合快速上手 |
-| **Claude** | 长文本处理强、逻辑严谨 | 长篇文章、策划案撰写 | 免费+付费 | ⭐⭐ | [访问](https://claude.ai) | [通义千问](https://tongyi.aliyun.com/qianwen/) | ⭐ | 适合快速上手 |
-| **Notion AI** | 笔记与自动化写作结合 | 内容归档、创作流程管理 | 付费 | ⭐⭐ | [访问](https://www.notion.so/product/ai) | [WPS AI](https://ai.wps.cn/) | ⭐ | 适合快速上手 |
-| **Canva** | 图文设计一体化 | 封面图、社交媒体配图 | 免费+付费 | ⭐ | [访问](https://www.canva.com) | [创客贴](https://www.chuangkit.com/) | ⭐ | 适合快速上手 |
-| **CapCut** | 全能短视频剪辑 | 视频剪辑、字幕、特效 | 免费 | ⭐⭐ | [访问](https://www.capcut.com) | - | ⭐ | 适合快速上手 |
+| 工具名称 | 一句话亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 |
+|:---:|---|---|:---:|:---:|:---:|:---:|
+| **ChatGPT** | 文本生成、写作助手、脚本优化 | 视频脚本、标题文案、创意点子 | 免费+付费 | ⭐ | [访问](https://chat.openai.com) | [DeepSeek Chat](https://chat.deepseek.com/) |
+| **Claude** | 长文本处理强、逻辑严谨 | 长篇文章、策划案撰写 | 免费+付费 | ⭐⭐ | [访问](https://claude.ai) | [通义千问](https://tongyi.aliyun.com/qianwen/) |
+| **Notion AI** | 笔记与自动化写作结合 | 内容归档、创作流程管理 | 付费 | ⭐⭐ | [访问](https://www.notion.so/product/ai) | [WPS AI](https://ai.wps.cn/) |
+| **Canva** | 图文设计一体化 | 封面图、社交媒体配图 | 免费+付费 | ⭐ | [访问](https://www.canva.com) | [创客贴](https://www.chuangkit.com/) |
+| **CapCut** | 全能短视频剪辑 | 视频剪辑、字幕、特效 | 免费 | ⭐⭐ | [访问](https://www.capcut.com) | - |
+
 > 💡 **建议**：从 ChatGPT + Canva + CapCut 三件套开始，能立刻覆盖文案、设计、视频三个核心环节。
 
 ---
 
 ## ⚡ 提升效率工具
 
-| 工具名称 | 亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 | 上手难度 | 建议使用场景 |
-| :---: | --- | --- | :---: | :---: | :---: | :---: | --- | --- |
-| **Zapier** | 多平台自动化 | 自动发帖、数据同步 | 付费 | ⭐⭐⭐ | [访问](https://zapier.com) | [简道云自动化](https://www.jiandaoyun.com/) | ⭐ | 适合快速上手 |
-| **Make.com** | 可视化自动化流程 | 跨平台 AI 工作流 | 免费+付费 | ⭐⭐ | [访问](https://www.make.com) | [钉钉宜搭](https://www.dingtalk.com/product/yida) | ⭐ | 适合快速上手 |
-| **Grammarly** | 英文写作优化 | 海外内容发布 | 免费+付费 | ⭐ | [访问](https://www.grammarly.com) | [秘塔写作猫](https://xiezuocat.com/) | ⭐ | 适合快速上手 |
-| **Descript** | 音视频转文字+编辑 | 播客剪辑、配音替换 | 付费 | ⭐⭐ | [访问](https://www.descript.com) | [讯飞听见](https://www.iflyrec.com/) | ⭐ | 适合快速上手 |
+| 工具名称 | 亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 |
+|:---:|---|---|:---:|:---:|:---:|:---:|
+| **Zapier** | 多平台自动化 | 自动发帖、数据同步 | 付费 | ⭐⭐⭐ | [访问](https://zapier.com) | [简道云自动化](https://www.jiandaoyun.com/) |
+| **Make.com** | 可视化自动化流程 | 跨平台 AI 工作流 | 免费+付费 | ⭐⭐ | [访问](https://www.make.com) | [钉钉宜搭](https://www.dingtalk.com/product/yida) |
+| **Grammarly** | 英文写作优化 | 海外内容发布 | 免费+付费 | ⭐ | [访问](https://www.grammarly.com) | [秘塔写作猫](https://xiezuocat.com/) |
+| **Descript** | 音视频转文字+编辑 | 播客剪辑、配音替换 | 付费 | ⭐⭐ | [访问](https://www.descript.com) | [讯飞听见](https://www.iflyrec.com/) |
+
 ---
 
 ## 🎨 创意与设计工具
 
-| 工具名称 | 亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 | 上手难度 | 建议使用场景 |
-| :---: | --- | --- | :---: | :---: | :---: | :---: | --- | --- |
-| **Midjourney** | 高质量 AI 绘图 | 封面图、背景图 | 付费 | ⭐⭐⭐ | [访问](https://www.midjourney.com) | [文心一格](https://yige.baidu.com/) | ⭐ | 适合快速上手 |
-| **Leonardo AI** | 多风格插画生成 | 社交海报、插画 | 免费+付费 | ⭐⭐ | [访问](https://leonardo.ai) | [通义万相](https://tongyi.aliyun.com/wanxiang/) | ⭐ | 适合快速上手 |
-| **Runway** | 视频生成与特效 | 短视频特效、动态背景 | 免费+付费 | ⭐⭐ | [访问](https://runwayml.com) | [万兴喵影·AI](https://www.wondershare.cn/filmora/) | ⭐ | 适合快速上手 |
+| 工具名称 | 亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 |
+|:---:|---|---|:---:|:---:|:---:|:---:|
+| **Midjourney** | 高质量 AI 绘图 | 封面图、背景图 | 付费 | ⭐⭐⭐ | [访问](https://www.midjourney.com) | [文心一格](https://yige.baidu.com/) |
+| **Leonardo AI** | 多风格插画生成 | 社交海报、插画 | 免费+付费 | ⭐⭐ | [访问](https://leonardo.ai) | [通义万相](https://tongyi.aliyun.com/wanxiang/) |
+| **Runway** | 视频生成与特效 | 短视频特效、动态背景 | 免费+付费 | ⭐⭐ | [访问](https://runwayml.com) | [万兴喵影·AI](https://www.wondershare.cn/filmora/) |
+
 ---
 
 ## ✍ 高频 Prompt 模板
@@ -135,15 +138,16 @@
 
 ## 🗓 7 天入门计划
 
-| 天数 | 任务 | 上手难度 | 建议使用场景 |
-| ------ | ------ | --- | --- |
-| 第 1 天 | 注册 ChatGPT、Canva、CapCut | ⭐ | 适合快速上手 |
-| 第 2 天 | 用 ChatGPT 生成 1 条脚本并尝试剪辑 | ⭐ | 适合快速上手 |
-| 第 3 天 | 设计 1 张视频封面图 | ⭐ | 适合快速上手 |
-| 第 4 天 | 用 Midjourney 生成 1 张主题图 | ⭐ | 适合快速上手 |
-| 第 5 天 | 尝试用 Make.com 或 Zapier 做简单自动化 | ⭐ | 适合快速上手 |
-| 第 6 天 | 产出并发布 1 条完整内容 | ⭐ | 适合快速上手 |
-| 第 7 天 | 回顾并优化工作流 | ⭐ | 适合快速上手 |
+| 天数 | 任务 |
+|------|------|
+| 第 1 天 | 注册 ChatGPT、Canva、CapCut |
+| 第 2 天 | 用 ChatGPT 生成 1 条脚本并尝试剪辑 |
+| 第 3 天 | 设计 1 张视频封面图 |
+| 第 4 天 | 用 Midjourney 生成 1 张主题图 |
+| 第 5 天 | 尝试用 Make.com 或 Zapier 做简单自动化 |
+| 第 6 天 | 产出并发布 1 条完整内容 |
+| 第 7 天 | 回顾并优化工作流 |
+
 ---
 
 ## 🚀 下一步行动

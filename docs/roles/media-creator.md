@@ -31,6 +31,9 @@
 
 ---
 
+**国内可替代**：[DeepSeek Chat](https://chat.deepseek.com/)
+
+
 ## ⚡ 提升效率工具
 
 | 工具名称 | 亮点 | 适用场景 | 费用 | 难度 | 官网 |
@@ -42,6 +45,9 @@
 
 ---
 
+**国内可替代**：[火山引擎智能配音](https://www.volcengine.com/product/tts)
+
+
 ## 🎨 创意与设计工具
 
 | 工具名称 | 亮点 | 适用场景 | 费用 | 难度 | 官网 |
@@ -51,6 +57,9 @@
 | **Runway** | 视频生成与特效 | 短视频特效、动态背景 | 免费+付费 | ⭐⭐ | [访问](https://runwayml.com) |
 
 ---
+
+**国内可替代**：[文心一格](https://yige.baidu.com/)
+
 
 ## ✍ 高频 Prompt 模板
 

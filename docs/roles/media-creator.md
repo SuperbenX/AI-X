@@ -37,7 +37,7 @@
 ## ✨ 从 0 到 1 入门路线图
 
 <p align="center">
-  <img src="assets/cover-roadmap.png" alt="从 0 到 1 入门路线图" width="800">
+  <img src="../assets/cover-roadmap.png" alt="从 0 到 1 入门路线图" width="800">
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## ✨ ##🛠 必备 AI 工具推荐
 
 <p align="center">
-  <img src="assets/cover-ai-tools.png" alt="AI 工具速查" width="800">
+  <img src="../assets/cover-ai-tools.png" alt="AI 工具速查" width="800">
 </p>
 
 ---
@@ -143,7 +143,7 @@
 ## ✨ ##高频 Prompt 模板
 
 <p align="center">
-  <img src="assets/cover-prompts.png" alt="Prompt 模板" width="800">
+  <img src="../assets/cover-prompts.png" alt="Prompt 模板" width="800">
 </p>
 
 ---
@@ -533,7 +533,7 @@
 ## ✨ 💥 爆款输出流程
 
 <p align="center">
-  <img src="assets/cover-workflow.png" alt="爆款输出流程" width="800">
+  <img src="../assets/cover-workflow.png" alt="爆款输出流程" width="800">
 </p>
 
 ---
@@ -542,31 +542,31 @@
 
 ---
 
-### <img src="assets/step-1.png" width="20"> 🔹 📌 步骤 1：确定主题
+### <img src="../assets/step-1.png" width="20"> 🔹 📌 步骤 1：确定主题
 - 明确内容的主线（如热点话题、垂直领域知识点）。
 - 用一句话概括主题，让读者秒懂。
 
 ---
 
-### <img src="assets/step-2.png" width="20"> 🔹 📌 步骤 2：选择工具 & Prompt
+### <img src="../assets/step-2.png" width="20"> 🔹 📌 步骤 2：选择工具 & Prompt
 - 选择适合的 AI 工具（文字生成 / 图像生成 / 视频剪辑等）。
 - 根据主题选择或定制 Prompt。
 
 ---
 
-### <img src="assets/step-3.png" width="20"> 🔹 📌 步骤 3：生成初稿
+### <img src="../assets/step-3.png" width="20"> 🔹 📌 步骤 3：生成初稿
 - 在 AI 工具中运行 Prompt。
 - 不追求一次到位，先生成可用的基础版本。
 
 ---
 
-### <img src="assets/step-4.png" width="20"> 🔹 📌 步骤 4：人工优化
+### <img src="../assets/step-4.png" width="20"> 🔹 📌 步骤 4：人工优化
 - 调整结构和细节，让内容更易读。
 - 检查是否符合你的账号风格。
 
 ---
 
-### <img src="assets/step-5.png" width="20"> 🔹 📌 步骤 5：排版 & 发布
+### <img src="../assets/step-5.png" width="20"> 🔹 📌 步骤 5：排版 & 发布
 - 应用统一的排版模板（标题、配色、图片比例）。
 - 在目标平台一次性发布或定时发布。
 

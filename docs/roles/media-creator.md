@@ -524,49 +524,63 @@
 - 应用统一的排版模板（标题、配色、图片比例）。
 - 在目标平台一次性发布或定时发布。
 
----
 
+---
 
 ### 💡 先试一次的爆款案例路径
 
-> 如果你第一次接触，建议先跟着这个案例完整走一遍，从零到发出第一条内容，快速获得成就感。
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; margin-bottom:16px;">
+<strong>📌 步骤 1：图片生成（视觉素材）</strong>  
+<b>工具：</b>Canva 或 Midjourney  
+<b>操作：</b>  
+- Canva：选择适合平台的模板（如小红书封面、视频号封面），替换图片与文字即可。  
+- Midjourney：输入指令生成图片，例如：  
+<pre><code>a minimalistic and aesthetic flatlay photo of a coffee cup and a book, warm lighting --ar 4:5</code></pre>
+</div>
 
-1. **图片生成（视觉素材）**  
-   - 工具：Canva 或 Midjourney  
-   - 操作：  
-     - 如果用 Canva：选择一个适合的平台模板（如小红书封面、视频号封面），替换图片与文字即可。  
-     - 如果用 Midjourney：输入指令生成图片，例如：  
-       ```
-       a minimalistic and aesthetic flatlay photo of a coffee cup and a book, warm lighting --ar 4:5
-       ```
-2. **文案生成（标题 + 正文）**  
-   - 工具：ChatGPT（网页版或 App）  
-   - 操作：  
-     - 提示词示例：  
-       ```
-       请帮我写一条适合小红书发布的文案，风格温暖治愈，主题是“清晨咖啡的美好时光”，50-80字，并给我3个吸引人的标题。
-       ```
-     - 从生成的文案中挑选最符合你调性的版本。
-3. **发布与优化**  
-   - 平台：小红书 / 微信视频号 / 抖音  
-   - 操作：直接上传图片 + 文案，并加上相关话题标签（如 #早晨仪式感 #咖啡时光）。
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; margin-bottom:16px;">
+<strong>📌 步骤 2：文案生成（标题 + 正文）</strong>  
+<b>工具：</b>ChatGPT（网页版或 App）  
+<b>操作：</b>  
+- 提示词示例：  
+<pre><code>请帮我写一条适合小红书发布的文案，风格温暖治愈，主题是“清晨咖啡的美好时光”，50-80字，并给我3个吸引人的标题。</code></pre>  
+- 从生成的文案中挑选最符合你调性的版本。
+</div>
+
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; margin-bottom:16px;">
+<strong>📌 步骤 3：发布与优化</strong>  
+<b>平台：</b>小红书 / 微信视频号 / 抖音  
+<b>操作：</b>直接上传图片 + 文案，并加上相关话题标签（如 <code>#早晨仪式感</code> <code>#咖啡时光</code>）。
+</div>
 
 ---
 
 ### ⚠ 常见低级错误提醒 & 解决方案
 
-1. **图片被裁切**  
-   - 问题：发布后封面或关键信息被平台自动裁掉。  
-   - 解决：在 Canva 中提前选择该平台的标准尺寸模板（如小红书 1080x1350）。
-2. **标题没有吸引力**  
-   - 问题：标题过长、无重点或全是大写。  
-   - 解决：用 ChatGPT 生成多个标题，挑选一个简短有记忆点的。
-3. **文案与图片风格不一致**  
-   - 问题：温暖治愈的图片配了冷酷的文案，造成反差。  
-   - 解决：发布前对照一下图片氛围，必要时用 ChatGPT 调整文案语气。
-4. **忘记加话题标签**  
-   - 问题：流量入口减少，曝光不足。  
-   - 解决：发布前在平台搜索相关话题，选取 3-5 个热度适中的标签。
+<div style="border:1px solid #f5c6cb; border-radius:8px; padding:16px; margin-bottom:16px;">
+<strong>❌ 图片被裁切</strong>  
+<b>问题：</b>发布后封面或关键信息被平台自动裁掉。  
+<b>解决：</b>在 Canva 中提前选择该平台的标准尺寸模板（如小红书 1080x1350）。
+</div>
+
+<div style="border:1px solid #f5c6cb; border-radius:8px; padding:16px; margin-bottom:16px;">
+<strong>❌ 标题没有吸引力</strong>  
+<b>问题：</b>标题过长、无重点或全是大写。  
+<b>解决：</b>用 ChatGPT 生成多个标题，挑选一个简短有记忆点的。
+</div>
+
+<div style="border:1px solid #f5c6cb; border-radius:8px; padding:16px; margin-bottom:16px;">
+<strong>❌ 文案与图片风格不一致</strong>  
+<b>问题：</b>温暖治愈的图片配了冷酷的文案，造成反差。  
+<b>解决：</b>发布前对照一下图片氛围，必要时用 ChatGPT 调整文案语气。
+</div>
+
+<div style="border:1px solid #f5c6cb; border-radius:8px; padding:16px;">
+<strong>❌ 忘记加话题标签</strong>  
+<b>问题：</b>流量入口减少，曝光不足。  
+<b>解决：</b>发布前在平台搜索相关话题，选取 3-5 个热度适中的标签。
+</div>
+
 
 ---
 

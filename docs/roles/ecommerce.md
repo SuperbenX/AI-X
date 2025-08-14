@@ -109,43 +109,53 @@ nav_order: 2
 
 ---
 
-## 🧭 爆款运营流程
+## 三、爆款运营流程
 
-<p align="center">
-  <img src="../assets/cover-workflow.png?v=20250814181437" alt="爆款运营流程" width="800">
-</p>
+![流程图](../assets/ecommerce-workflow.png)
 
-> **思路**：用“数据决定方向，内容驱动转化”的原则跑通一次；第一次不用追求完美，先跑出正反馈。
+### **步骤 1 — 选品与市场调研**
+- **工具推荐**：Jungle Scout / 卖家精灵 / 阿里指数
+- **操作要点**：
+  1. 分析热销品类与季节性趋势
+  2. 评估价格带与毛利空间
+  3. 调查竞争对手的优势与弱点
 
-<div style="border:1px solid #e5e7eb;border-radius:10px;padding:14px;margin:12px 0;">
-<strong>📌 步骤 1：选品与市场调研</strong><br/>
-工具：Jungle Scout / 卖家精灵 / Google Trends / 百度指数<br/>
-要点：看需求曲线、价格带、评价结构与上新频率，优先“高需求/中等竞争”的细分场景。
-</div>
+---
 
-<div style="border:1px solid #e5e7eb;border-radius:10px;padding:14px;margin:12px 0;">
-<strong>📌 步骤 2：商品优化与内容策划</strong><br/>
-工具：ChatGPT / DeepSeek / Canva / Midjourney<br/>
-要点：标题 3 版 A/B、主图一屏讲清卖点，对比图+证据（材质/认证/质保）。
-</div>
+### **步骤 2 — 商品优化与内容策划**
+- **工具推荐**：ChatGPT / Copy.ai / Canva
+- **操作要点**：
+  1. 优化标题和关键词布局
+  2. 提炼差异化卖点
+  3. 制作高转化主图与详情页
 
-<div style="border:1px solid #e5e7eb;border-radius:10px;padding:14px;margin:12px 0;">
-<strong>📌 步骤 3：广告与投放管理</strong><br/>
-工具：Facebook Ads / Google Ads / 巨量千川 / 京东快车<br/>
-要点：小预算多素材测试 → 找到胜出创意 → 放大预算；分人群、分关键词做分组。
-</div>
+---
 
-<div style="border:1px solid #e5e7eb;border-radius:10px;padding:14px;margin:12px 0;">
-<strong>📌 步骤 4：客服与用户运营</strong><br/>
-工具：ManyChat / 企业微信 / Zendesk<br/>
-要点：建“下单+3 天”触达；沉睡客户唤醒；差评拦截模板 + 补偿机制。
-</div>
+### **步骤 3 — 广告与投放管理**
+- **工具推荐**：Facebook Ads Manager / Google Ads / 巨量千川
+- **操作要点**：
+  1. 精准人群定向
+  2. 广告创意 A/B 测试
+  3. 按 ROI 调整预算分配
 
-<div style="border:1px solid #e5e7eb;border-radius:10px;padding:14px;margin:12px 0;">
-<strong>📌 步骤 5：数据分析与复盘</strong><br/>
-工具：Data Studio / 商家中心数据 / 表单工具<br/>
-要点：建立“曝光→点击→到达→加购→下单”漏斗，看掉点并对症优化。
-</div>
+---
+
+### **步骤 4 — 客服与用户运营**
+- **工具推荐**：ManyChat / Zendesk / 企业微信
+- **操作要点**：
+  1. 快速响应客户咨询
+  2. 个性化推荐与关怀
+  3. 售后挽回与差评管理
+
+---
+
+### **步骤 5 — 数据分析与复盘**
+- **工具推荐**：Data Studio / 商家后台数据中心
+- **操作要点**：
+  1. 跟踪转化率、ROI、复购率
+  2. 分析广告和内容表现
+  3. 形成优化闭环
+
 
 ---
 
@@ -200,8 +210,28 @@ nav_order: 2
 
 ---
 
-> **建议书签**：  
-> - AI 选品/趋势：Jungle Scout / 卖家精灵 / Google Trends / 百度指数  
-> - 文案与设计：ChatGPT / DeepSeek / Canva / Midjourney  
-> - 投放与数据：Facebook/Google Ads / 巨量千川 / Data Studio
+## 五、常用工具速查表
 
+| 功能类别 | 工具名称 | 主要用途 |
+|----------|----------|----------|
+| 选品调研 | Jungle Scout / 卖家精灵 | 分析市场趋势、热销品类 |
+| 文案生成 | ChatGPT / Copy.ai | 生成标题、卖点、广告文案 |
+| 设计制作 | Canva / Figma | 制作商品图、广告图 |
+| 广告投放 | Facebook Ads Manager / 巨量千川 | 广告管理与数据分析 |
+| 客服管理 | ManyChat / Zendesk | 智能客服与私域运营 |
+| 数据分析 | Data Studio / 商家后台 | 销售、广告效果分析 |
+
+---
+
+## 六、应急方案卡
+
+- **广告成本突然飙升**  
+  立即暂停低效广告，保留高 ROI 广告组
+- **转化率明显下滑**  
+  检查网站加载速度与移动端适配，优化支付流程
+- **库存告急**  
+  启动 AI 补货预测模型，提前备货
+- **客诉爆发**  
+  用 AI 客服分流，优先处理高风险投诉
+
+---

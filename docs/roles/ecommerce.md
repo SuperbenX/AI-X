@@ -1,3 +1,9 @@
+---
+layout: default
+title: 电商运营从 0 到 1
+nav_order: 2
+---
+
 # 电商运营从 0 到 1：用 AI 提升效率与转化
 ![cover](../assets/ecommerce-cover.png)
 

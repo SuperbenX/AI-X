@@ -31,27 +31,27 @@
 
 ---
 
-## 📚 入门书籍推荐（10 本）
+## 📖 入门书籍推荐（AI & 大模型方向）
 
-	1.	《人工智能简史》 – 李开复
+1.	《人工智能简史》 – 李开复
 入门了解 AI 发展脉络，适合小白快速建立概念。
-	2.	《深度学习入门：基于Python的理论与实现》 – 斋藤康毅
+2.	《深度学习入门：基于Python的理论与实现》 – 斋藤康毅
 经典的实操入门书，帮助理解神经网络基础。
-	3.	《百页机器学习小书》 – Andriy Burkov
+3.	《百页机器学习小书》 – Andriy Burkov
 一本浓缩版 ML 入门，速读很合适。
-	4.	《Hands-On Machine Learning》 – Aurélien Géron
+4.	《Hands-On Machine Learning》 – Aurélien Géron
 谷歌前工程师写的实战派教程。
-	5.	《Deep Learning》 – Ian Goodfellow 等
+5.	《Deep Learning》 – Ian Goodfellow 等
 被称为“深度学习圣经”，适合有一定基础的人。
-	6.	《Generative Deep Learning》 – David Foster
+6.	《Generative Deep Learning》 – David Foster
 专门讲生成式模型（GAN、Diffusion 等）的应用。
-	7.	《You Look Like a Thing and I Love You》 – Janelle Shane
+7.	《You Look Like a Thing and I Love You》 – Janelle Shane
 用趣味实验讲解 AI 的局限和可能性，适合轻松入门。
-	8.	《The Age of AI》 – Henry Kissinger, Eric Schmidt, Daniel Huttenlocher
+8.	《The Age of AI》 – Henry Kissinger, Eric Schmidt, Daniel Huttenlocher
 从哲学、国际关系、科技三重视角讲 AI 的未来。
-	9.	《Architects of Intelligence》 – Martin Ford
+9.	《Architects of Intelligence》 – Martin Ford
 访谈多位 AI 领军人物，适合理解行业格局。
-	10.	《Prompt Engineering for Generative AI》 – 业内教程合辑
+10.	《Prompt Engineering for Generative AI》 – 业内教程合辑
 专注 Prompt 的系统方法，适合直接落地实践。
 
 

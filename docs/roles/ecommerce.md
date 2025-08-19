@@ -235,3 +235,47 @@ nav_order: 2
   用 AI 客服分流，优先处理高风险投诉
 
 ---
+
+
+
+<!-- Interactivity Enhancements -->
+<script>
+// Open all links in a new tab
+document.querySelectorAll('a').forEach(link => {
+    link.setAttribute('target', '_blank');
+});
+
+// Enable one-click copy for prompts
+function copyToClipboard(id) {
+    const text = document.getElementById(id).innerText;
+    navigator.clipboard.writeText(text).then(() => {
+        alert('Prompt copied to clipboard!');
+    });
+}
+
+// Enable image click to enlarge
+document.querySelectorAll('img').forEach(img => {
+    img.style.cursor = 'zoom-in';
+    img.addEventListener('click', () => {
+        const modal = document.createElement('div');
+        modal.style.position = 'fixed';
+        modal.style.top = 0;
+        modal.style.left = 0;
+        modal.style.width = '100%';
+        modal.style.height = '100%';
+        modal.style.background = 'rgba(0,0,0,0.8)';
+        modal.style.display = 'flex';
+        modal.style.alignItems = 'center';
+        modal.style.justifyContent = 'center';
+        modal.style.zIndex = 9999;
+
+        const imgClone = img.cloneNode();
+        imgClone.style.maxWidth = '90%';
+        imgClone.style.maxHeight = '90%';
+        modal.appendChild(imgClone);
+
+        modal.addEventListener('click', () => document.body.removeChild(modal));
+        document.body.appendChild(modal);
+    });
+});
+</script>

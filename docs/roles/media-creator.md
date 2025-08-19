@@ -171,10 +171,9 @@
 ---
 > 标签：#视频脚本 #内容策划  ·  适用：抖音/视频号/小红书 30–60 秒  
 **复制这个 Prompt：**  
-```text
+```
 为{平台}生成一个{时长}秒的短视频脚本，主题是「{主题}」，受众是{目标人群}，语气{风格}。请输出：①3–5秒开场钩子②主体三点（每点附一句镜头建议）③结尾互动语。
 ```
-{: .copyable}
 **示例输入**：平台=视频号；时长=45；主题=AI 提效；受众=上班族；风格=轻松  
 **示例输出（片段）**：开场：“每天加班？3 个 AI 小招让你准点下班。” → 主体三点… → 结尾：“收藏这条，明天就用！”
 
@@ -186,7 +185,7 @@
 
 > 标签：#标题优化 #提升点击  ·  适用：短视频/图文/公众号  
 **复制这个 Prompt：**  
-```prompt copyable
+```
 围绕「{主题}」生成 10 个高点击标题（≤12 字），包含【数字】【对比】【悬念】三类各≥2条，并按吸引力排序。
 ```
 **示例输入**：主题=AI 办公技巧  
@@ -200,7 +199,7 @@
 
 > 标签：#图文排版 #图文文案  ·  适用：小红书/公众号/知乎  
 **复制这个 Prompt：**  
-```prompt copyable
+```
 把下面内容改写为适合{平台}的图文：输出【≤16字标题】【3 段正文（短句）】【2 条配色/版式建议】。内容：{原文}
 ```
 **示例输入**：平台=小红书；原文=（粘贴你的长段文字）  
@@ -215,7 +214,7 @@
 
 > 标签：#封面文案 #视觉创意  ·  适用：封面/海报缩略图  
 **复制这个 Prompt：**  
-```prompt copyable
+```
 为主题「{主题}」生成 5 条封面主标题（≤10 字）+ 1 条视觉建议（配色/元素/构图比例）。平台：{平台}；风格：{风格}。
 ```
 **示例输入**：主题=AI 提升学习效率；平台=视频号；风格=商务简洁  
@@ -230,7 +229,7 @@
 
 > 标签：#评论互动 #提升停留  ·  适用：所有平台  
 **复制这个 Prompt：**  
-```prompt copyable
+```
 围绕「{主题}」生成 6 条评论区互动问题（≤15 字），语气{风格}，适配 {平台}。
 ```
 **示例输入**：主题=时间管理；风格=轻松；平台=抖音  
@@ -245,7 +244,7 @@
 
 > 标签：#分发适配 #再利用  ·  适用：B 站/视频号/知乎/小红书  
 **复制这个 Prompt：**  
-```prompt copyable
+```
 请把下文改写成适合{目标平台}的风格，输出：标题 / 分行正文 / 结尾互动问题。保持信息不变但语气贴合平台。文本：{原文}
 ```
 **示例输入**：目标平台=知乎；原文=（贴你的公众号内容）  
@@ -260,7 +259,7 @@
 
 > 标签：#发布描述 #话题标签  ·  适用：短视频/图文平台  
 **复制这个 Prompt：**  
-```prompt copyable
+```
 为{平台}生成 1 条发布文案（≤80 字）+ 10 个标签（长短词搭配），主题「{主题}」，受众{人群}，语气{风格}。请按检索量排序标签。
 ```
 **示例输入**：平台=小红书；主题=提高拍照构图；人群=新手；风格=友好  
@@ -275,7 +274,7 @@
 
 > 标签：#数据复盘 #内容优化  ·  适用：周更/日更复盘  
 **复制这个 Prompt：**  
-```prompt copyable
+```
 根据下列数据（标题/播放/完播/互动），总结：①表现最佳的 3 个主题②失败共性③下周 5 条实验建议（含预期指标）。数据：{粘贴数据}
 ```
 **示例输入**：粘贴你的后台数据  
@@ -294,7 +293,7 @@
 
 **标签**：#视频脚本 #内容策划  
 **示例输入**：  
-```prompt copyable
+```
 帮我生成一个3分钟的视频脚本，主题是“如何用AI提升工作效率”，分三段，每段30秒。
 ```  
 **示例输出**：  
@@ -311,7 +310,7 @@
 
 **标签**：#短视频 #爆款标题  
 **示例输入**：  
-```prompt copyable
+```
 为一个关于ChatGPT办公技巧的视频生成10个吸引人的标题。
 ```  
 **示例输出**：  
@@ -684,9 +683,8 @@
 
 ---
 
-<!-- ↓↓↓ UX ENHANCE: open-in-new, copy prompt, image zoom ↓↓↓ -->
+<!-- === UX ENHANCE START: open-in-new / copy prompt / image zoom === -->
 <style>
-/* ---- Copy button styling ---- */
 .copy-btn{
   display:inline-flex;align-items:center;gap:6px;
   padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;
@@ -694,16 +692,14 @@
 }
 .copy-btn:hover{background:#eef2ff;border-color:#6366f1}
 .copy-btn.copied{background:#dcfce7;border-color:#16a34a}
+
 .prompt-card{
-  border:1px solid #e5e7eb;border-radius:12px;padding:12px 14px;margin:12px 0;
-  background:#fafafa;
+  border:1px solid #e5e7eb;border-radius:12px;padding:12px 14px;margin:12px 0;background:#fafafa;
 }
 .prompt-title{font-weight:600;margin:0 0 8px 0}
-.prompt-text{white-space:pre-wrap;word-break:break-word;font-family:ui-monospace, SFMono-Regular, Menlo, monospace;font-size:14px;}
+.prompt-text{white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14px;}
 
-/* ---- Lightbox (image zoom) ---- */
-#_lightboxBackdrop{position:fixed;inset:0;background:rgba(0,0,0,.85);
-  display:none;align-items:center;justify-content:center;z-index:9999}
+#_lightboxBackdrop{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:9999}
 #_lightboxBackdrop img{max-width:92vw;max-height:92vh;border-radius:10px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
 #_lightboxBackdrop.active{display:flex}
 .zoomable{cursor:zoom-in;transition:transform .15s}
@@ -714,61 +710,59 @@
 
 <script>
 (function(){
-  // 1) 外链统一新标签页打开（内部锚点/站内链接不改）
-  const isInternal = href => {
-    if(!href) return true;
-    if(href.startsWith('#')) return true;
-    try{
-      const u = new URL(href, location.href);
-      return u.host === location.host && (u.pathname.startsWith(location.pathname.split('/').slice(0,2).join('/')) || u.pathname.startsWith('/'));
-    }catch(e){ return false; }
-  };
+  // 1) All links (except hash anchors) open in a new tab – includes nav entries
   document.querySelectorAll('a[href]').forEach(a=>{
-    const href = a.getAttribute('href');
-    // 站外或以 http(s) 开头的链接 → 新标签；.md/.pdf 也可改为新标签（可按需）
-    const looksExternal = /^https?:\/\//i.test(href) && !isInternal(href);
-    if(looksExternal){
-      a.setAttribute('target','_blank');
-      a.setAttribute('rel','noopener noreferrer');
-    }
+    const href=(a.getAttribute('href')||'').trim();
+    if(!href || href.startsWith('#')) return;
+    a.setAttribute('target','_blank');
+    a.setAttribute('rel','noopener noreferrer');
   });
 
-  // 2) 为“可复制 Prompt”的容器自动插入复制按钮
-  // 用法：给要复制的块加 class="prompt-card"，其中装一个 class="prompt-text" 的元素即可
-  function addCopyButtons(){
-    document.querySelectorAll('.prompt-card').forEach(card=>{
-      if(card.dataset._copyBound) return;
-      const textEl = card.querySelector('.prompt-text');
-      if(!textEl) return;
-      const btn = document.createElement('button');
-      btn.className = 'copy-btn';
-      btn.type = 'button';
-      btn.innerHTML = '📋 Copy';
-      btn.addEventListener('click', async ()=>{
-        try{
-          await navigator.clipboard.writeText(textEl.innerText.trim());
-          const old = btn.innerHTML;
-          btn.innerHTML = '✅ Copied';
-          btn.classList.add('copied');
-          setTimeout(()=>{ btn.innerHTML = old; btn.classList.remove('copied'); }, 1500);
-        }catch(err){
-          btn.innerHTML = '❗Failed';
-          setTimeout(()=>{ btn.innerHTML = '📋 Copy'; }, 1500);
-        }
-      });
-      // 插到标题后或最上方
-      const title = card.querySelector('.prompt-title');
-      if(title){
-        title.insertAdjacentElement('afterend', btn);
-      }else{
-        card.insertAdjacentElement('afterbegin', btn);
+  // 2) Add Copy button to ALL code blocks and to .prompt-card .prompt-text
+  // 2A) Code blocks: <pre><code>…</code></pre>
+  document.querySelectorAll('pre > code').forEach(code=>{
+    const pre = code.parentElement;
+    if(pre.dataset._copyBound) return;
+    const btn = document.createElement('button');
+    btn.className='copy-btn'; btn.type='button'; btn.style.float='right'; btn.style.margin='6px';
+    btn.innerHTML='📋 Copy';
+    btn.addEventListener('click', async ()=>{
+      try{
+        await navigator.clipboard.writeText(code.innerText.trim());
+        const old = btn.innerHTML; btn.innerHTML='✅ Copied'; btn.classList.add('copied');
+        setTimeout(()=>{ btn.innerHTML=old; btn.classList.remove('copied'); }, 1500);
+      }catch(e){
+        btn.innerHTML='❗Failed'; setTimeout(()=>{ btn.innerHTML='📋 Copy'; }, 1500);
       }
-      card.dataset._copyBound = '1';
     });
-  }
-  addCopyButtons();
+    pre.insertAdjacentElement('afterbegin', btn);
+    pre.dataset._copyBound='1';
+  });
 
-  // 3) 图片点击放大（给 img 或其父链接加 .zoomable 即可）
+  // 2B) Prompt cards
+  function mountCopyForCard(card){
+    if(card.dataset._copyBound) return;
+    const textEl = card.querySelector('.prompt-text');
+    if(!textEl) return;
+    const btn = document.createElement('button');
+    btn.className='copy-btn'; btn.type='button';
+    btn.innerHTML='📋 Copy';
+    btn.addEventListener('click', async ()=>{
+      try{
+        await navigator.clipboard.writeText(textEl.innerText.trim());
+        const old = btn.innerHTML; btn.innerHTML='✅ Copied'; btn.classList.add('copied');
+        setTimeout(()=>{ btn.innerHTML=old; btn.classList.remove('copied'); }, 1500);
+      }catch(e){
+        btn.innerHTML='❗Failed'; setTimeout(()=>{ btn.innerHTML='📋 Copy'; }, 1500);
+      }
+    });
+    const title = card.querySelector('.prompt-title');
+    (title? title: card).insertAdjacentElement(title?'afterend':'afterbegin', btn);
+    card.dataset._copyBound='1';
+  }
+  document.querySelectorAll('.prompt-card').forEach(mountCopyForCard);
+
+  // 3) Image Lightbox (click to zoom)
   const backdrop = document.getElementById('_lightboxBackdrop');
   const bigImg = backdrop.querySelector('img');
   function openZoom(src, alt){ bigImg.src = src; bigImg.alt = alt||''; backdrop.classList.add('active'); }
@@ -776,23 +770,23 @@
   backdrop.addEventListener('click', closeZoom);
   document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeZoom(); });
 
-  document.querySelectorAll('img, a > img').forEach(img=>{
-    // 只给合理尺寸的图片添加 zoomable，可按需放宽
-    if(img.naturalWidth >= 300 || img.width >= 300) img.classList.add('zoomable');
+  document.querySelectorAll('img, a>img').forEach(img=>{
+    // Only zoom reasonably-sized images
+    if((img.naturalWidth||img.width) >= 300) img.classList.add('zoomable');
     img.addEventListener('click', (e)=>{
-      // 若图片被链接包裹且是外链，仍按外链处理；否则打开大图
-      const parentA = img.closest('a');
-      if(parentA && parentA.getAttribute('href') && parentA.getAttribute('target') === '_blank'){ return; }
+      const a = img.closest('a');
+      if(a && a.getAttribute('href')) return; // follow link if wrapped by <a>
       e.preventDefault();
       const src = img.currentSrc || img.src;
       openZoom(src, img.alt || '');
     }, {passive:false});
   });
 
-  // 4) 支持后续动态插入的 Prompt（如果你后面用脚本渲染）
-  const mo = new MutationObserver(addCopyButtons);
-  mo.observe(document.body, { childList: true, subtree: true });
+  // 4) Observe dynamic changes (optional)
+  const mo = new MutationObserver(()=>{
+    document.querySelectorAll('.prompt-card').forEach(mountCopyForCard);
+  });
+  mo.observe(document.body, {childList:true, subtree:true});
 })();
 </script>
-<!-- ↑↑↑ UX ENHANCE END ↑↑↑ -->
-
+<!-- === UX ENHANCE END === -->

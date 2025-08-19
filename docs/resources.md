@@ -31,55 +31,77 @@
 
 ---
 
-## 📖 入门书籍推荐（AI & 大模型方向）
+## 📚 入门书籍推荐（10 本）
 
-1.	《人工智能简史》 – 李开复
-入门了解 AI 发展脉络，适合小白快速建立概念。
-2.	《深度学习入门：基于Python的理论与实现》 – 斋藤康毅
-经典的实操入门书，帮助理解神经网络基础。
-3.	《百页机器学习小书》 – Andriy Burkov
-一本浓缩版 ML 入门，速读很合适。
-4.	《Hands-On Machine Learning》 – Aurélien Géron
-谷歌前工程师写的实战派教程。
-5.	《Deep Learning》 – Ian Goodfellow 等
-被称为“深度学习圣经”，适合有一定基础的人。
-6.	《Generative Deep Learning》 – David Foster
-专门讲生成式模型（GAN、Diffusion 等）的应用。
-7.	《You Look Like a Thing and I Love You》 – Janelle Shane
-用趣味实验讲解 AI 的局限和可能性，适合轻松入门。
-8.	《The Age of AI》 – Henry Kissinger, Eric Schmidt, Daniel Huttenlocher
-从哲学、国际关系、科技三重视角讲 AI 的未来。
-9.	《Architects of Intelligence》 – Martin Ford
-访谈多位 AI 领军人物，适合理解行业格局。
-10.	《Prompt Engineering for Generative AI》 – 业内教程合辑
-专注 Prompt 的系统方法，适合直接落地实践。
-
+1. 《人工智能简史》 – 李开复  
+2. 《深度学习入门》 – 斋藤康毅  
+3. 《Python 机器学习》 – Sebastian Raschka  
+4. 《人工智能：一种现代的方法》 – Stuart Russell & Peter Norvig  
+5. 《深度学习》 – Ian Goodfellow 等  
+6. 《机器学习》 – 周志华  
+7. 《神经网络与深度学习》 – Michael Nielsen  
+8. 《数据科学实战》 – Joel Grus  
+9. 《统计学习方法》 – 李航  
+10. 《AI 未来》 – Kai-Fu Lee  
 
 ---
 
 ## 🎥 YouTube & 官方开发者频道推荐
 
-### 🎬 AI 大神创作者（入门 & 实战类）
-| 名字 | 简介 | 链接 |
-|------|------|------|
-| **Matt Wolfe** | AI 工具测评、趋势分享 | [频道](https://www.youtube.com/@mreflow) |
-| **Two Minute Papers** | 前沿 AI 科研解读 | [频道](https://www.youtube.com/@TwoMinutePapers) |
-| **Nick St. Pierre** | MidJourney & 生成式艺术 | [频道](https://www.youtube.com/@nickfloats) |
-| **Ali Abdaal** | 学习 & AI 效率工具 | [频道](https://www.youtube.com/@aliabdaal) |
-| **AI Explained** | 深入分析 AI 技术和影响 | [频道](https://www.youtube.com/@AIExplained) |
+### 🎬 创作者 & 教程类（入门/实战）
+- **Matt Wolfe** — AI 工具测评、趋势解读。  
+  频道：<https://www.youtube.com/@mreflow>
+
+- **Two Minute Papers** — 通俗解读最新 AI 论文与研究进展。  
+  频道：<https://www.youtube.com/@TwoMinutePapers>
+
+- **Nick St. Pierre** — MidJourney & 生成式艺术工作流与技巧。  
+  频道：<https://www.youtube.com/@nickfloats>
+
+- **Ali Abdaal** — 学习与效率、AI 在个人生产力中的应用。  
+  频道：<https://www.youtube.com/@aliabdaal>
+
+- **AI Explained** — 深入分析 AI 技术路线与影响。  
+  频道：<https://www.youtube.com/@AIExplained>
+
+- **Andrej Karpathy** — 前 OpenAI / Tesla 研究员，深度学习实战与代码讲解。  
+  频道：<https://www.youtube.com/@AndrejKarpathy>
+
+- **Liam Ottley** — MidJourney、Prompt 设计和 AI 艺术方向，快速实操教程。  
+  频道：<https://www.youtube.com/@liamottley>
+
+- **Jeff Su** — AI 在工作流、效率提升方面的实际应用案例。  
+  频道：<https://www.youtube.com/@JeffSu>
 
 ---
 
-### 🏢 官方开发者 / 技术团队频道
-| 平台 | 简介 | 链接 |
-|------|------|------|
-| **OpenAI Official** | ChatGPT / GPT 模型官方教程 & 更新 | [频道](https://www.youtube.com/@OpenAI) |
-| **Anthropic** | Claude 开发公司官方频道 | [频道](https://www.youtube.com/@AnthropicAI) |
-| **xAI (Elon Musk)** | Grok 官方演示与动态 | [频道](https://x.ai) |
-| **Google DeepMind** | AI 科研 & Alpha 系列成果 | [频道](https://www.youtube.com/@DeepMind) |
-| **Microsoft Research** | Copilot & AI 应用研究 | [频道](https://www.youtube.com/@MicrosoftResearch) |
-| **Meta AI** | LLaMA 模型 & 研究分享 | [频道](https://www.youtube.com/@MetaAIResearch) |
-| **Stability AI** | Stable Diffusion 官方演示 | [频道](https://www.youtube.com/@StabilityAI) |
-| **Runway Official** | Runway AI 视频生成教程 | [频道](https://www.youtube.com/@RunwayML) |
-| **Perplexity AI** | AI 搜索引擎的应用演示 | [频道](https://www.youtube.com/@perplexity_ai) |
-| **Hugging Face** | 开发者工具库与模型教学 | [频道](https://www.youtube.com/@HuggingFace) |
+### 🏢 官方开发者 / 技术团队频道（更新/教程为主）
+- **OpenAI Official** — ChatGPT / GPT 模型官方更新与演示。  
+  频道：<https://www.youtube.com/@OpenAI>
+
+- **Anthropic** — Claude 官方教学与技术分享。  
+  频道：<https://www.youtube.com/@AnthropicAI>
+
+- **xAI (Grok)** — Grok 与 xAI 动态（以官网与 X 为主阵地）。  
+  官网：<https://x.ai>
+
+- **Google DeepMind** — 深度研究、Alpha 系列与论文讲解。  
+  频道：<https://www.youtube.com/@DeepMind>
+
+- **Microsoft Research** — Copilot / 研究成果与开发者内容。  
+  频道：<https://www.youtube.com/@MicrosoftResearch>
+
+- **Meta AI** — LLaMA 模型、研究与生态。  
+  频道：<https://www.youtube.com/@MetaAIResearch>
+
+- **Stability AI** — Stable Diffusion 官方演示与教学。  
+  频道：<https://www.youtube.com/@StabilityAI>
+
+- **Runway Official** — Runway 视频生成功能演示与教程。  
+  频道：<https://www.youtube.com/@RunwayML>
+
+- **Perplexity AI** — AI 搜索产品演示与使用技巧。  
+  频道：<https://www.youtube.com/@perplexity_ai>
+
+- **Hugging Face** — 开发者工具、模型教学与社区活动。  
+  频道：<https://www.youtube.com/@HuggingFace>

@@ -173,12 +173,14 @@ Futuristic dashboard UI, minimalism, blue and white, isometric view
 
 ---
 
-## 🧩 最终链路图解（Mermaid）
-```mermaid
+## 🧩 最终链路图解
+
+<div class="mermaid">
 flowchart TD
- A[Figma: 设计系统生成] --> B[MidJourney: 概念图探索]
- B --> C[ChatGPT: 提案文案输出]
- C --> D[Notion: 归档与知识沉淀]
+  A[Figma: 设计系统生成] --> B[MidJourney: 概念图探索]
+  B --> C[ChatGPT: 提案文案输出]
+  C --> D[Notion: 归档与知识沉淀]
+</div>]
 
 ---
 
@@ -257,4 +259,9 @@ flowchart TD
 
 ---
 
-*最后更新：2025-08*  
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true, theme: "default" });
+</script>
+
+

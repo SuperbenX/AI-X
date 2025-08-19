@@ -44,6 +44,150 @@
 
 ---
 
+## 🔧 常用 AI 工具上手流程
+
+### 1. Figma（界面设计 / 协作）
+- **快速上手步骤**
+  1. 注册 [Figma](https://figma.com)，选择个人免费版即可。  
+  2. 在社区（Community）搜索关键词：`UI Kit`、`Wireframe`、`Design System`。  
+  3. 点击 **Duplicate** 一键导入到个人工作区。  
+  4. 使用 AI 插件（如 [Magician](https://magician.design/)）直接生成图标/插画。  
+
+- **标准路径**
+  - 模板导入：`Figma → Community → Duplicate → 自己的工作区`  
+  - Prompt 使用：在插件输入 `{风格/图标/布局}` → 自动生成 → 拖拽到画布  
+
+---
+
+### 2. MidJourney（视觉生成 / 概念图）
+- **快速上手步骤**
+  1. 注册 Discord 并加入 [MidJourney](https://midjourney.com)。  
+  2. 在 `#newbies` 频道输入 `/imagine prompt: {关键词}`。  
+  3. 点击 **U**（放大）或 **V**（变体）来选择。  
+  4. 下载高清图 → 导入 Figma / Photoshop 二次修改。  
+
+- **标准路径**
+  - 模板导入：在 Notion 里建立「常用 Prompt 模板库」。  
+  - Prompt 使用：复制 `风格 + 主题 + 构图 + 色调` → 粘贴到 Discord。  
+
+**🎨 高频 Prompt 示例**
+/imagine prompt: A futuristic office interior, minimalism, white and silver color palette, wide-angle lens, cinematic lighting
+
+---
+
+### 3. ChatGPT（文案 / 创意生成）
+- **快速上手步骤**
+  1. 打开 [ChatGPT](https://chat.openai.com)。  
+  2. 输入角色化指令，例如：  
+     ```
+     你是一个资深平面设计师，请帮我生成一组海报文案，
+     主题是 {活动名称}，风格偏向 {复古/科技/极简}。
+     ```  
+  3. 将生成的文案复制到 Figma / PPT 使用。  
+
+- **标准路径**
+  - 模板导入：在 Notion 建立「高频 Prompt 卡片库」。  
+  - Prompt 使用：结构 = `角色设定 + 任务描述 + 输出格式`  
+
+**💡 高频 Prompt 示例**
+你是一名顶级品牌设计顾问，请生成一份 LOGO 设计 briefing，
+要求包含：品牌定位、目标用户、推荐配色、可选字体。
+
+---
+
+### 4. Notion（知识库 / 模板管理）
+- **快速上手步骤**
+  1. 打开 [Notion](https://notion.so)，新建一个数据库。  
+  2. 建立栏目：`工具库 / Prompt 库 / 模板库 / 案例库`。  
+  3. 从 Notion Template Gallery 导入「设计工作流管理」模版。  
+  4. 每次用到的新 Prompt / 模板 → 记录到数据库，逐步沉淀。  
+
+- **标准路径**
+  - 模板导入：`Notion → Templates → Duplicate`  
+  - Prompt 使用：在数据库条目里添加「复制按钮」，一键粘贴到 ChatGPT / MidJourney  
+
+---
+
+## 🧩 设计师 AI 工具使用逻辑
+
+1. **Figma**：用来搭建流程 & 界面协作；  
+2. **MidJourney**：生成概念图、风格探索；  
+3. **ChatGPT**：生成文案、设计说明、客户提案；  
+4. **Notion**：做工具库 & Prompt 知识库，形成长期生产力。  
+
+
+## 🚀 进阶案例链路：从设计到归档的一站式工作流
+
+以下是一个设计师利用 AI 工具完成 **概念设计 → 文案输出 → 知识沉淀** 的完整链路示例。  
+适合小白直接上手，也能帮助进阶用户快速形成 **个人化的高效工作流**。
+
+---
+
+### 🔹 Step 1. Figma 自动生成设计系统
+1. 打开 [Figma](https://figma.com) 并新建项目。  
+2. 在 **Community** 搜索：`Design System` → Duplicate → 导入到自己的工作区。  
+3. 使用 AI 插件（推荐：[Magician](https://magician.design/)）输入关键词：  ## 🚀 进阶案例链路：从设计到归档的一站式工作流
+
+以下是一个设计师利用 AI 工具完成 **概念设计 → 文案输出 → 知识沉淀** 的完整链路示例。  
+适合小白直接上手，也能帮助进阶用户快速形成 **个人化的高效工作流**。
+
+---
+
+### 🔹 Step 1. Figma 自动生成设计系统
+1. 打开 [Figma](https://figma.com) 并新建项目。  
+2. 在 **Community** 搜索：`Design System` → Duplicate → 导入到自己的工作区。  
+3. 使用 AI 插件（推荐：[Magician](https://magician.design/)）输入关键词：
+   Generate a modern design system for a SaaS dashboard  
+
+即可自动生成颜色、字体、按钮、输入框等组件。  
+4. 产出结果：一份完整的 **设计系统模板**，可直接复用。  
+
+---
+
+### 🔹 Step 2. MidJourney 概念图探索
+1. 打开 Discord → `/imagine prompt` 输入关键词：  
+Futuristic dashboard UI, minimalism, blue and white, isometric view
+2. 选择最满意的方案 → **U（放大）** 或 **V（变体）**。  
+3. 将生成的图导入 Figma → 放在 Moodboard 中作为 **视觉灵感参考**。  
+4. 产出结果：多套风格化的 **概念图**，辅助设计决策。  
+
+---
+
+### 🔹 Step 3. ChatGPT 生成设计文案
+1. 打开 [ChatGPT](https://chat.openai.com)。  
+2. 输入角色化 Prompt：  
+你是一名资深 UI/UX 设计顾问。
+请为一个 SaaS Dashboard 产品写一份设计提案，
+包含：项目目标、用户画像、核心功能、设计风格建议。
+3. ChatGPT 会自动生成 **提案文案**，可直接用于客户沟通或内部说明。  
+4. 产出结果：结构完整的 **设计说明/提案文档**。  
+
+---
+
+### 🔹 Step 4. Notion 归档与知识沉淀
+1. 打开 [Notion](https://notion.so)，建立一个数据库：`设计案例库`。  
+2. 新增字段：`工具`、`Prompt`、`产出截图`、`标签`、`链接`。  
+3. 将本次工作流的 **Figma 设计系统、MidJourney 图像、ChatGPT 提案**  
+一键存入 Notion → 形成 **可复用的知识资产**。  
+4. 产出结果：一个可长期积累的 **设计工作流数据库**，方便随时调用。  
+
+---
+
+## 🧩 最终链路图解（Mermaid）
+```mermaid
+flowchart TD
+ A[Figma: 设计系统生成] --> B[MidJourney: 概念图探索]
+ B --> C[ChatGPT: 提案文案输出]
+ C --> D[Notion: 归档与知识沉淀]
+
+---
+
+✨ **效果**：  
+- 3 小时内完成从 **概念设计 → 视觉探索 → 提案文档 → 知识沉淀** 的完整闭环。  
+- 小白设计师可直接复制以上步骤，高效提升工作成果。  
+- 进阶设计师可逐步扩展 Prompt 库 & 模板库，形成个人 IP。  
+
+
 ## 实用案例
 
 ### 案例 1：Logo 设计

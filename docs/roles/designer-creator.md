@@ -1,97 +1,116 @@
-# 🎨 设计师 / 创意工作者 AI 提效指南  
+# 设计师 / 创意工作者 AI 工作流指南
 
-![cover-designer-creator.png](cover-designer-creator.png)  
-*alt: 设计师与创意工作者使用 AI 工具提高效率的封面图*  
-
----
-
-## 🔍 简介（SEO 180–220字）
-设计师与创意工作者正处在一个 AI 加速的时代。无论是平面设计、UI/UX、品牌视觉，还是创意营销活动，AI 工具都能帮助快速生成灵感、提升效率、减少重复劳动。本指南从流程、工具、Prompt 模板到应急方案，手把手带你掌握如何用 AI 做灵感探索、草图绘制、方案优化与客户沟通。无论你是独立设计师还是公司创意岗，都能一站式了解 AI 如何帮你提升竞争力。
+![封面图](./images/cover-designer-creator.png)
+*alt: 设计师与创意工作者如何用 AI 提升效率*
 
 ---
 
-## 🎯 职业定位说明
-设计师/创意工作者需要平衡“灵感 + 执行 + 沟通”。AI 的价值在于：  
-- 帮助激发灵感（Moodboard、草图生成、配色方案）。  
-- 提高执行效率（图形处理、素材扩展、快速排版）。  
-- 辅助客户沟通（方案展示、可视化 Mockup、修改迭代）。  
-适合的典型人群包括：平面设计师、UI/UX 设计师、插画师、创意总监、品牌/广告策划人员。  
+## 简介（SEO 描述）
+本页为 **设计师与创意工作者** 提供一站式 AI 使用指南，涵盖灵感管理、视觉生成、品牌设计、UI/UX、插画创作等全流程。你将学会如何通过 **AI 工具、Prompt 模板、流程优化** 来提升效率，避免常见坑，并结合实际案例快速上手。无论是个人设计师还是团队成员，都能在这里找到可落地的解决方案。
 
 ---
 
-## 🧭 核心流程（5步闭环）
-![workflow-designer-creator.png](workflow-designer-creator.png)  
-*alt: 设计师使用 AI 工具的完整闭环流程图*  
-
-1. **灵感探索** → 用 AI 快速生成草图 / 风格版图。  
-2. **概念验证** → 把想法可视化，形成 Moodboard / Mockup。  
-3. **设计执行** → 借助 AI 插件提升效率（智能排版、自动抠图）。  
-4. **优化与变体** → 自动生成多方案对比，快速找到最优。  
-5. **交付与展示** → 用 AI 辅助生成提案、案例演示、客户沟通文档。  
+## 职业定位说明
+设计师与创意工作者的工作涉及 **视觉表达、创意构思、品牌塑造**。传统方式依赖灵感与经验，而 AI 能补足以下痛点：  
+- **快速出图**：用 MidJourney、Stable Diffusion 快速产出视觉草稿；  
+- **灵感扩展**：通过 ChatGPT 生成 Moodboard 文案、色彩搭配方案；  
+- **效率提升**：批量生成 Logo、UI 组件、广告 Banner；  
+- **跨领域融合**：插画 + 动效 + 排版，一站式 AI 流程。  
 
 ---
 
-## ⚒️ 常用 AI 工具表格
+## 核心流程（流程图）
+![流程图](./images/workflow-designer-creator.png)
+*alt: 设计师如何通过 AI 进行完整的创意流程*
 
-| 工具名 | 用途说明 | 官网/入口 | 标签 |
-|--------|----------|-----------|------|
-| **MidJourney** | 文生图/风格探索 | [官网](https://www.midjourney.com) | 灵感/插画 |
-| **Stable Diffusion** | 开源 AI 绘图，适合自定义训练 | [官网](https://stability.ai) | 插画/定制 |
-| **Canva + AI** | 在线设计 + AI 自动排版 | [官网](https://www.canva.com) | 平面/排版 |
-| **Figma AI 插件** | 自动生成组件、智能排版 | [官网](https://www.figma.com/community) | UI/UX |
-| **Runway ML** | 视频创意与图像编辑 | [官网](https://runwayml.com) | 视频/视觉 |
-| **ChatGPT + Prompt** | 文案生成、创意辅助 | [官网](https://chat.openai.com) | 文案/灵感 |
-
----
-
-## 🚀 进阶玩法
-- **风格训练**：上传自己的设计案例，训练成“个人风格模型”。  
-- **客户快速提案**：用 AI 一次性生成 3–5 个风格方向，节省前期磨合时间。  
-- **跨媒体输出**：同一个设计概念自动生成海报、社交媒体图、网页 Banner。  
-- **AI + 插件**：结合 Figma/PS/AE 的 AI 插件，减少重复动作。  
+1. **需求确认**（客户 brief / 项目目标）  
+2. **灵感收集**（ChatGPT + Pinterest + MidJourney moodboard）  
+3. **初步创意**（AI 出图 → 筛选 → 人工优化）  
+4. **定稿设计**（Figma / Photoshop + AI 插件迭代）  
+5. **交付输出**（多规格适配 + 团队共享）  
 
 ---
 
-## ✍️ 高频 Prompt 模板  
+## 常用 AI 工具表格
 
-### 🎨 灵感草图  
-```
-Generate a {风格} moodboard for {项目类型}，颜色基调为 {色彩偏好}，包含 {元素}。
-```
-👉 输入提示：替换 {风格}（如极简、复古）、{项目类型}（如品牌LOGO）、{色彩偏好}（如蓝金）、{元素}（如自然、几何）。  
-
----
-
-### 🎭 插画风格探索  
-```
-Create an illustration in {画风} for {主题}，分辨率 {尺寸}，细节丰富。
-```
-👉 输入提示：替换 {画风}（如水彩、赛博朋克）、{主题}（如品牌吉祥物）。  
+| 工具名称 | 功能说明 | 标签 | 链接 |
+|----------|----------|------|------|
+| MidJourney | 高质量视觉生成，适合插画、广告创意 | 插画 / 海报 | [前往](https://www.midjourney.com) |
+| Stable Diffusion | 开源模型，自由度高，可本地化部署 | 插画 / 自定义训练 | [前往](https://stability.ai) |
+| Figma AI | 生成 UI 组件、自动布局优化 | UI / UX | [前往](https://www.figma.com) |
+| Canva AI | 在线设计 + AI 出图，适合非专业设计 | 平面 / 社交媒体 | [前往](https://www.canva.com) |
+| Runway Gen-2 | 视频生成、动态设计 | 视频 / 动效 | [前往](https://runwayml.com) |
+| Adobe Firefly | 融合 PS / AI 生成式填充 | 修图 / 海报 | [前往](https://www.adobe.com/sensei/generative-ai/firefly.html) |
 
 ---
 
-### 🖼️ 多方案设计  
-```
-Generate 5 variations of {设计类型} with {要求}，不同风格/构图。
-```
-👉 输入提示：替换 {设计类型}（LOGO、海报）、{要求}（简洁、科技感）。  
+## 实用案例
+
+### 案例 1：Logo 设计
+1. 在 ChatGPT 中输入「帮我生成一个极简风格的品牌 Logo 概念」  
+2. 用 MidJourney 生成多款风格 → 筛选 → 选出候选稿  
+3. 在 Illustrator 中手动调整线条、颜色  
+4. 输出品牌手册：字体、色卡、应用场景。  
+
+### 案例 2：电商 Banner
+1. 确认活动主题（如「双 11 限时优惠」）  
+2. ChatGPT 生成广告文案 → MidJourney 出背景图  
+3. Canva / Photoshop 中排版，AI 辅助生成装饰元素  
+4. 一键导出多平台适配图（1200×628, 1080×1920 等）。  
+
+### 案例 3：UI 界面设计
+1. 通过 Figma AI 自动生成组件库  
+2. 用 ChatGPT 辅助编写交互文案（Microcopy）  
+3. 在团队协作中共享组件 → 自动版本管理。  
 
 ---
 
-## 🧯 常见坑 / 应急方案卡  
+## 高频 Prompt 模板
 
-- **坑 1：AI 生成图不可直接商用**  
-  → 解法：用作参考/二次加工，避免直接交付。  
+:::card
+### 🎨 插画风格 Prompt  
+`/imagine prompt: {主题} in {艺术风格}, highly detailed, trending on Artstation`  
+**输入提示**：替换 {主题} 和 {艺术风格}，如「未来城市」「赛博朋克」。  
+:::
 
-- **坑 2：客户无法理解 AI 图**  
-  → 解法：用 AI 生成 Demo，再在 Photoshop/Figma 精修。  
+:::card
+### 🖼️ Logo Prompt  
+`/imagine prompt: Minimalist logo for {品牌名}, using {色彩}, vector style`  
+**输入提示**：替换 {品牌名}、{色彩}，如「TechNova」「蓝金色」。  
+:::
 
-- **坑 3：生成图细节失真**  
-  → 解法：借助 Topaz / Photoshop 插件修复细节。  
+:::card
+### 📱 UI 界面 Prompt  
+`Generate a clean modern app UI for {功能}, color scheme {色系}, responsive design`  
+**输入提示**：替换 {功能}、{色系}，如「健身追踪 App」「黑白极简」。  
+:::
 
 ---
 
-## 📚 参考资源 / 延伸阅读  
-- [Figma AI 插件合集](https://www.figma.com/community)  
-- [MidJourney Prompt 指南](https://docs.midjourney.com)  
-- [Canva AI 官方指南](https://www.canva.com/ai)  
+## 进阶玩法
+
+- **灵感管理**：用 Notion + AI 自动收集配色、版式，形成灵感库。  
+- **风格迁移**：上传自有作品 → Stable Diffusion 训练 LoRA 模型，保持品牌一致性。  
+- **批量生成**：在电商 / 海报场景下，一次生成 20 张不同排版方案。  
+- **团队协作**：在 Figma 中嵌入 AI 插件，实现「实时审稿 + 自动修改」。  
+
+---
+
+## 常见坑 / 应急方案
+
+- **AI 出图跑偏**：多用「参数 + 参考图」限制风格。  
+- **版权风险**：商用时避免使用带名人或品牌元素的 Prompt。  
+- **成品缺乏统一性**：通过「自训练模型」或「风格参考」保持一致。  
+- **客户不接受 AI**：先用 AI 出 demo → 再人工精修，降低阻力。  
+
+---
+
+## 延伸阅读
+
+- [AI 设计趋势报告](https://www.adobe.com/trends)  
+- [Figma 社区插件推荐](https://www.figma.com/community)  
+- [MidJourney Prompt 词典](https://prompt.noonshot.com)  
+
+---
+
+*最后更新：2025-08*  

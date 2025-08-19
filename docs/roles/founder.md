@@ -151,3 +151,110 @@
   推荐工具：ManyChat / Zendesk AI  
 
 ---
+
+<!-- === UX ENHANCE START: open-in-new / copy prompt / image zoom === -->
+<style>
+.copy-btn{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;
+  font-size:12px;cursor:pointer;background:#f9fafb;transition:.2s;
+}
+.copy-btn:hover{background:#eef2ff;border-color:#6366f1}
+.copy-btn.copied{background:#dcfce7;border-color:#16a34a}
+
+.prompt-card{
+  border:1px solid #e5e7eb;border-radius:12px;padding:12px 14px;margin:12px 0;background:#fafafa;
+}
+.prompt-title{font-weight:600;margin:0 0 8px 0}
+.prompt-text{white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14px;}
+
+#_lightboxBackdrop{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:9999}
+#_lightboxBackdrop img{max-width:92vw;max-height:92vh;border-radius:10px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+#_lightboxBackdrop.active{display:flex}
+.zoomable{cursor:zoom-in;transition:transform .15s}
+.zoomable:hover{transform:scale(1.01)}
+</style>
+
+<div id="_lightboxBackdrop" aria-hidden="true"><img alt=""></div>
+
+<script>
+(function(){
+  // 1) All links (except hash anchors) open in a new tab – includes nav entries
+  document.querySelectorAll('a[href]').forEach(a=>{
+    const href=(a.getAttribute('href')||'').trim();
+    if(!href || href.startsWith('#')) return;
+    a.setAttribute('target','_blank');
+    a.setAttribute('rel','noopener noreferrer');
+  });
+
+  // 2) Add Copy button to ALL code blocks and to .prompt-card .prompt-text
+  // 2A) Code blocks: <pre><code>…</code></pre>
+  document.querySelectorAll('pre > code').forEach(code=>{
+    const pre = code.parentElement;
+    if(pre.dataset._copyBound) return;
+    const btn = document.createElement('button');
+    btn.className='copy-btn'; btn.type='button'; btn.style.float='right'; btn.style.margin='6px';
+    btn.innerHTML='📋 Copy';
+    btn.addEventListener('click', async ()=>{
+      try{
+        await navigator.clipboard.writeText(code.innerText.trim());
+        const old = btn.innerHTML; btn.innerHTML='✅ Copied'; btn.classList.add('copied');
+        setTimeout(()=>{ btn.innerHTML=old; btn.classList.remove('copied'); }, 1500);
+      }catch(e){
+        btn.innerHTML='❗Failed'; setTimeout(()=>{ btn.innerHTML='📋 Copy'; }, 1500);
+      }
+    });
+    pre.insertAdjacentElement('afterbegin', btn);
+    pre.dataset._copyBound='1';
+  });
+
+  // 2B) Prompt cards
+  function mountCopyForCard(card){
+    if(card.dataset._copyBound) return;
+    const textEl = card.querySelector('.prompt-text');
+    if(!textEl) return;
+    const btn = document.createElement('button');
+    btn.className='copy-btn'; btn.type='button';
+    btn.innerHTML='📋 Copy';
+    btn.addEventListener('click', async ()=>{
+      try{
+        await navigator.clipboard.writeText(textEl.innerText.trim());
+        const old = btn.innerHTML; btn.innerHTML='✅ Copied'; btn.classList.add('copied');
+        setTimeout(()=>{ btn.innerHTML=old; btn.classList.remove('copied'); }, 1500);
+      }catch(e){
+        btn.innerHTML='❗Failed'; setTimeout(()=>{ btn.innerHTML='📋 Copy'; }, 1500);
+      }
+    });
+    const title = card.querySelector('.prompt-title');
+    (title? title: card).insertAdjacentElement(title?'afterend':'afterbegin', btn);
+    card.dataset._copyBound='1';
+  }
+  document.querySelectorAll('.prompt-card').forEach(mountCopyForCard);
+
+  // 3) Image Lightbox (click to zoom)
+  const backdrop = document.getElementById('_lightboxBackdrop');
+  const bigImg = backdrop.querySelector('img');
+  function openZoom(src, alt){ bigImg.src = src; bigImg.alt = alt||''; backdrop.classList.add('active'); }
+  function closeZoom(){ backdrop.classList.remove('active'); bigImg.src=''; bigImg.alt=''; }
+  backdrop.addEventListener('click', closeZoom);
+  document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeZoom(); });
+
+  document.querySelectorAll('img, a>img').forEach(img=>{
+    if((img.naturalWidth||img.width) >= 300) img.classList.add('zoomable');
+    img.addEventListener('click', (e)=>{
+      const a = img.closest('a');
+      if(a && a.getAttribute('href')) return;
+      e.preventDefault();
+      const src = img.currentSrc || img.src;
+      openZoom(src, img.alt || '');
+    }, {passive:false});
+  });
+
+  // 4) Observe dynamic changes (optional)
+  const mo = new MutationObserver(()=>{
+    document.querySelectorAll('.prompt-card').forEach(mountCopyForCard);
+  });
+  mo.observe(document.body, {childList:true, subtree:true});
+})();
+</script>
+<!-- === UX ENHANCE END === -->

@@ -8,7 +8,7 @@ AI 工具这么多，不知道从哪开始？
 
 ---
 
-## 👥 请选择你的角色：
+## 👥 你是谁：
 
 - [我是自媒体人](roles/media-creator.md)
 - [我是电商运营](roles/ecommerce.html)
@@ -17,6 +17,7 @@ AI 工具这么多，不知道从哪开始？
 
 ---
 
+## 🚀Prompt
 - [Prompt 模板大全](prompt.md)
 
 ---

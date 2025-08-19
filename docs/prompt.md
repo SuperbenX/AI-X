@@ -82,22 +82,26 @@ AI 新手往往会卡在“我不知道怎么写 Prompt”的门槛上。
 
 ---
 
-## 📂 模块目录结构建议
-```
-Prompt 学习路径
-│
-├── 入门玩法：照抄就能用的万能模版
-│     ├── 角色扮演模版
-│     ├── 学习场景速用
-│     └── 工作场景速用
-│
-├── 进阶玩法：掌握 Prompt 技巧
-│     ├── 分步推理
-│     ├── 输出格式控制
-│     └── 多角色协作
-│
-└── 高手玩法：打造个人 AI 工作流
-      ├── 链式 Prompt
-      ├── 多模态 Prompt
-      └── Prompt 调优与库建设
-```
+## 🌐 推荐资源
+- **开源项目**  
+  - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)  
+  - [Prompt Engineering Guide](https://www.promptingguide.ai/)  
+  - [Learn Prompting](https://learnprompting.org/)  
+
+- **Prompt 市场**  
+  - [FlowGPT](https://flowgpt.com/)  
+  - [PromptBase](https://promptbase.com/)  
+
+- **国内资源**  
+  - 知乎 / 小红书上大量的“AI 提示词合集”  
+  - B 站搜索“AI 提示词教程”  
+
+---
+
+## 🛠️ 使用方法
+1. 找到对应场景 → 复制 Prompt  
+2. 根据需求替换关键词（产品名、行业、目标）  
+3. 在 ChatGPT / Claude / MidJourney 等工具里运行  
+4. 根据输出效果进行迭代优化  
+
+---

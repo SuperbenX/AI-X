@@ -18,16 +18,90 @@
 - **跨领域融合**：插画 + 动效 + 排版，一站式 AI 流程。  
 
 ---
+# 设计师核心流程（AI 实操指南）
 
-## 核心流程（流程图）
-![流程图](./images/workflow-designer-creator.png)
-*alt: 设计师如何通过 AI 进行完整的创意流程*
+# 设计师 AI 创意工作流程
 
-1. **需求确认**（客户 brief / 项目目标）  
-2. **灵感收集**（ChatGPT + Pinterest + MidJourney moodboard）  
-3. **初步创意**（AI 出图 → 筛选 → 人工优化）  
-4. **定稿设计**（Figma / Photoshop + AI 插件迭代）  
-5. **交付输出**（多规格适配 + 团队共享）  
+本指南展示了一个设计师如何借助 AI 工具，完成从 **需求确认 → 灵感收集 → 创意生成 → 定稿设计 → 交付输出 → 后续迭代** 的完整流程。
+
+---
+
+## 核心流程图
+
+```mermaid
+flowchart TD
+    A[需求确认<br/>客户 Brief / 项目目标] --> B[灵感收集<br/>ChatGPT + Pinterest + MidJourney Moodboard]
+    B --> C[初步创意<br/>AI 出图 → 筛选 → 人工优化]
+    C --> D[定稿设计<br/>Figma / Photoshop + AI 插件迭代]
+    D --> E[交付输出<br/>多规格适配 + 团队共享]
+    E --> F[后续迭代<br/>基于反馈优化]
+
+---
+
+## 1. 需求确认（客户 brief / 项目目标）
+- **输入**：客户需求文档 / 项目简报  
+- **AI 辅助**：
+  - ChatGPT → 把客户需求转化为可执行 checklist  
+  - 自动生成「目标受众画像」「竞品分析表」  
+- **交付物**：明确的设计目标（风格方向、交付格式、时间节点）
+
+---
+
+## 2. 灵感收集（ChatGPT + Pinterest + MidJourney Moodboard）
+- **输入**：关键词（如「极简风格，黑金配色」）  
+- **AI 辅助**：
+  - ChatGPT → 扩展关键词，生成 Moodboard 提示语  
+  - MidJourney / Stable Diffusion → 批量出概念图  
+  - Pinterest / Behance → 自动收集相似风格案例  
+- **交付物**：灵感墙（Moodboard），包含配色、字体、氛围图
+
+---
+
+## 3. 初步创意（AI 出图 → 筛选 → 人工优化）
+- **输入**：灵感库 + Prompt 模板  
+- **AI 辅助**：
+  - MidJourney → 多批次出图，快速迭代风格  
+  - Photoshop AI → 修图、换背景、扩图  
+  - Runway Gen-2 → 生成短动效或交互动图  
+- **人工环节**：
+  - 筛选符合需求的 20% 图稿  
+  - 手工微调（对齐、构图、字体匹配）  
+- **交付物**：候选稿若干，供内部/客户初步选用
+
+---
+
+## 4. 定稿设计（Figma / Photoshop + AI 插件迭代）
+- **输入**：客户反馈 + 候选稿  
+- **AI 辅助**：
+  - Figma AI 插件（如 Magician） → 自动生成组件 & UI Copy  
+  - ChatGPT → 微文案（CTA、说明文案）优化  
+  - Stable Diffusion ControlNet → 保持同一风格细节统一  
+- **人工环节**：
+  - 精修图层、排版优化  
+  - 对不同终端适配（Web / App / 印刷）  
+- **交付物**：定稿设计文件（带组件库 & 风格手册）
+
+---
+
+## 5. 交付输出（多规格适配 + 团队共享）
+- **输入**：定稿文件  
+- **AI 辅助**：
+  - Canva / Figma 插件 → 一键生成多平台尺寸（如广告 Banner、社媒封面）  
+  - ChatGPT → 自动生成交付说明文档（如何使用、注意事项）  
+  - Notion / Confluence → 自动整理设计版本库  
+- **交付物**：
+  - 最终交付包（PNG / JPG / SVG / PDF）  
+  - 品牌使用手册（色卡、字体、规范）  
+  - 团队共享链接（版本库 + 在线预览）
+
+---
+
+## 6. 后续迭代（可选）
+- **输入**：用户反馈 / 数据结果（如广告点击率）  
+- **AI 辅助**：
+  - ChatGPT → 生成 A/B 测试方案  
+  - MidJourney / Stable Diffusion → 快速生成替代版本  
+- **交付物**：二次迭代方案 / 改进后的新版本
 
 ---
 

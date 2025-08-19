@@ -524,9 +524,45 @@ Minimal logo design, keyword: 【coffee shop + warm + cozy】, vector style, whi
 
 
 
-- [AI 设计趋势报告](https://www.adobe.com/trends)  
-- [Figma 社区插件推荐](https://www.figma.com/community)  
-- [MidJourney Prompt 词典](https://prompt.noonshot.com)  
+## 📚 参考资源 / 延伸阅读
+
+### 1. 工具官网 & 入门指南
+- [Figma 官方文档](https://help.figma.com/) – 从零开始学 UI/UX 的最佳入口  
+- [MidJourney 官方社区](https://discord.gg/midjourney) – 获取最新 Prompt 用法、风格趋势  
+- [ChatGPT 使用手册](https://platform.openai.com/docs/) – Prompt 技巧与 API 接入指南  
+- [Notion 官方学习中心](https://www.notion.so/help/guides) – 模板、数据库与自动化入门  
+
+---
+
+### 2. 精品教程 / 视频课程
+- **Figma**: [DesignCode Figma 课程](https://designcode.io/figma) → 系统学习 UI 设计  
+- **MidJourney**: [Prompt Engineering 课程](https://learnprompting.org/) → 学习提示词设计  
+- **ChatGPT**: [YouTube 上的 AI 工作流示例](https://www.youtube.com/@mattvidpro) → 实操案例演示  
+- **Notion**: [Notion VIP](https://notion.vip/) → 高阶用法、团队协作模板  
+
+---
+
+### 3. 灵感库 & 设计资源
+- [Behance](https://www.behance.net/) – 国际设计作品平台，找灵感必备  
+- [Dribbble](https://dribbble.com/) – UI、插画、动效灵感库  
+- [Coolors](https://coolors.co/) – 一键生成配色方案  
+- [Google Fonts](https://fonts.google.com/) – 免费字体大全  
+
+---
+
+### 4. 社区论坛 & 知识沉淀
+- **Reddit**: [r/Figma](https://www.reddit.com/r/Figma/) / [r/MidJourney](https://www.reddit.com/r/midjourney/) – 最新技巧、问题答疑  
+- **Discord**: MidJourney、Stable Diffusion 社区，活跃用户分享 Prompt  
+- **Twitter(X)**: 搜索 #AIart、#PromptEngineering 追踪最新趋势  
+- **Notion 中文社区**：微信群 / 飞书群，有大量国内实用案例  
+
+---
+
+### 5. 推荐书单
+- 《Don’t Make Me Think》– 经典 UX 设计入门读物  
+- 《The Elements of User Experience》– 系统理解用户体验  
+- 《Steal Like an Artist》– 创意与灵感捕捉必读  
+- 《Prompt Engineering for Designers》– 未来设计师的必备技能   
 
 ---
 

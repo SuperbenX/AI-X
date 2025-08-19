@@ -26,17 +26,6 @@
 
 ---
 
-## 核心流程图
-
-```mermaid
-flowchart TD
-    A[需求确认<br/>客户 Brief / 项目目标] --> B[灵感收集<br/>ChatGPT + Pinterest + MidJourney Moodboard]
-    B --> C[初步创意<br/>AI 出图 → 筛选 → 人工优化]
-    C --> D[定稿设计<br/>Figma / Photoshop + AI 插件迭代]
-    D --> E[交付输出<br/>多规格适配 + 团队共享]
-    E --> F[后续迭代<br/>基于反馈优化]
-
----
 
 ## 1. 需求确认（客户 brief / 项目目标）
 - **输入**：客户需求文档 / 项目简报  

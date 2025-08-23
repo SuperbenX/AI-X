@@ -1,0 +1,1174 @@
+{
+  "categories": [
+    {
+      "id": "creator",
+      "name": "自媒体人 / 设计创作者"
+    },
+    {
+      "id": "ecommerce",
+      "name": "电商运营"
+    },
+    {
+      "id": "founder",
+      "name": "创业者"
+    },
+    {
+      "id": "media-creator",
+      "name": "媒体创作者"
+    }
+  ],
+  "items": [
+    {
+      "id": "简介",
+      "cat": "creator",
+      "name": "简介",
+      "desc": "本页为 **设计师与创意工作者** 提供一站式 AI 使用指南，涵盖灵感管理、视觉生成、品牌设计、UI/UX、插画创作等全流程。你将学会如何通过 **AI 工具、Prompt 模板、流程优化** 来提升效率，避免常见坑，并结合实际案例快速上手。无论是个人设计师还是团队成员，都能在这里找到可落地的解决方案。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "职业定位说明",
+      "cat": "creator",
+      "name": "职业定位说明",
+      "desc": "设计师与创意工作者的工作涉及 **视觉表达、创意构思、品牌塑造**。传统方式依赖灵感与经验，而 AI 能补足以下痛点：  \n- **快速出图**：用 MidJourney、Stable Diffusion 快速产出视觉草稿；  \n- **灵感扩展**：通过 ChatGPT 生成 Moodboard 文案、色彩搭配方案；  \n- **效率提升**：批量生成 Logo、UI 组件、广告 Banner；  \n- **跨领域融合**：插画 + 动效 + 排版，一站式 AI 流程。  \n\n---\n\n# 设计师 AI 创意工作流程\n\n本指南展示了一个设计师如何借助 AI 工具，完成从 **需求确认 → 灵感收集 → 创意生成 → 定稿设计 → 交付输出 → 后续迭代** 的完整流程。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "1-需求确认-客户-brief-项目目标",
+      "cat": "creator",
+      "name": "1. 需求确认（客户 brief / 项目目标）",
+      "desc": "- **输入**：客户需求文档 / 项目简报  \n- **AI 辅助**：\n  - ChatGPT → 把客户需求转化为可执行 checklist  \n  - 自动生成「目标受众画像」「竞品分析表」  \n- **交付物**：明确的设计目标（风格方向、交付格式、时间节点）\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "2-灵感收集-chatgpt-pinterest-midjourney-moodboard",
+      "cat": "creator",
+      "name": "2. 灵感收集（ChatGPT + Pinterest + MidJourney Moodboard）",
+      "desc": "- **输入**：关键词（如「极简风格，黑金配色」）  \n- **AI 辅助**：\n  - ChatGPT → 扩展关键词，生成 Moodboard 提示语  \n  - MidJourney / Stable Diffusion → 批量出概念图  \n  - Pinterest / Behance → 自动收集相似风格案例  \n- **交付物**：灵感墙（Moodboard），包含配色、字体、氛围图\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "3-初步创意-ai-出图-筛选-人工优化",
+      "cat": "creator",
+      "name": "3. 初步创意（AI 出图 → 筛选 → 人工优化）",
+      "desc": "- **输入**：灵感库 + Prompt 模板  \n- **AI 辅助**：\n  - MidJourney → 多批次出图，快速迭代风格  \n  - Photoshop AI → 修图、换背景、扩图  \n  - Runway Gen-2 → 生成短动效或交互动图  \n- **人工环节**：\n  - 筛选符合需求的 20% 图稿  \n  - 手工微调（对齐、构图、字体匹配）  \n- **交付物**：候选稿若干，供内部/客户初步选用\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "4-定稿设计-figma-photoshop-ai-插件迭代",
+      "cat": "creator",
+      "name": "4. 定稿设计（Figma / Photoshop + AI 插件迭代）",
+      "desc": "- **输入**：客户反馈 + 候选稿  \n- **AI 辅助**：\n  - Figma AI 插件（如 Magician） → 自动生成组件 & UI Copy  \n  - ChatGPT → 微文案（CTA、说明文案）优化  \n  - Stable Diffusion ControlNet → 保持同一风格细节统一  \n- **人工环节**：\n  - 精修图层、排版优化  \n  - 对不同终端适配（Web / App / 印刷）  \n- **交付物**：定稿设计文件（带组件库 & 风格手册）\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "5-交付输出-多规格适配-团队共享",
+      "cat": "creator",
+      "name": "5. 交付输出（多规格适配 + 团队共享）",
+      "desc": "- **输入**：定稿文件  \n- **AI 辅助**：\n  - Canva / Figma 插件 → 一键生成多平台尺寸（如广告 Banner、社媒封面）  \n  - ChatGPT → 自动生成交付说明文档（如何使用、注意事项）  \n  - Notion / Confluence → 自动整理设计版本库  \n- **交付物**：\n  - 最终交付包（PNG / JPG / SVG / PDF）  \n  - 品牌使用手册（色卡、字体、规范）  \n  - 团队共享链接（版本库 + 在线预览）\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "6-后续迭代-可选",
+      "cat": "creator",
+      "name": "6. 后续迭代（可选）",
+      "desc": "- **输入**：用户反馈 / 数据结果（如广告点击率）  \n- **AI 辅助**：\n  - ChatGPT → 生成 A/B 测试方案  \n  - MidJourney / Stable Diffusion → 快速生成替代版本  \n- **交付物**：二次迭代方案 / 改进后的新版本\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "常用-ai-工具表格",
+      "cat": "creator",
+      "name": "常用 AI 工具表格",
+      "desc": "| 工具名称 | 功能说明 | 标签 | 链接 |\n|----------|----------|------|------|\n| MidJourney | 高质量视觉生成，适合插画、广告创意 | 插画 / 海报 | [前往](https://www.midjourney.com) |\n| Stable Diffusion | 开源模型，自由度高，可本地化部署 | 插画 / 自定义训练 | [前往](https://stability.ai) |\n| Figma AI | 生成 UI 组件、自动布局优化 | UI / UX | [前往](https://www.figma.com) |\n| Canva AI | 在线设计 + AI 出图，适合非专业设计 | 平面 / 社交媒体 | [前往](https://www.canva.com) |\n| Runway Gen-2 | 视频生成、动态设计 | 视频 / 动效 | [前往](https://runwayml.com) |\n| Adobe Firefly | 融合 PS / AI 生成式填充 | 修图 / 海报 | [前往](https://www.adobe.com/sensei/generative-ai/firefly.html) |\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "常用-ai-工具上手流程",
+      "cat": "creator",
+      "name": "🔧 常用 AI 工具上手流程",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "1-figma-界面设计-协作",
+      "cat": "creator",
+      "name": "1. Figma（界面设计 / 协作）",
+      "desc": "- **快速上手步骤**\n  1. 注册 [Figma](https://figma.com)，选择个人免费版即可。  \n  2. 在社区（Community）搜索关键词：`UI Kit`、`Wireframe`、`Design System`。  \n  3. 点击 **Duplicate** 一键导入到个人工作区。  \n  4. 使用 AI 插件（如 [Magician](https://magician.design/)）直接生成图标/插画。  \n\n- **标准路径**\n  - 模板导入：`Figma → Community → Duplicate → 自己的工作区`  \n  - Prompt 使用：在插件输入 `{风格/图标/布局}` → 自动生成 → 拖拽到画布  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "2-midjourney-视觉生成-概念图",
+      "cat": "creator",
+      "name": "2. MidJourney（视觉生成 / 概念图）",
+      "desc": "- **快速上手步骤**\n  1. 注册 Discord 并加入 [MidJourney](https://midjourney.com)。  \n  2. 在 `#newbies` 频道输入 `/imagine prompt: {关键词}`。  \n  3. 点击 **U**（放大）或 **V**（变体）来选择。  \n  4. 下载高清图 → 导入 Figma / Photoshop 二次修改。  \n\n- **标准路径**\n  - 模板导入：在 Notion 里建立「常用 Prompt 模板库」。  \n  - Prompt 使用：复制 `风格 + 主题 + 构图 + 色调` → 粘贴到 Discord。  \n\n**🎨 高频 Prompt 示例**\n/imagine prompt: A futuristic office interior, minimalism, white and silver color palette, wide-angle lens, cinematic lighting\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "3-chatgpt-文案-创意生成",
+      "cat": "creator",
+      "name": "3. ChatGPT（文案 / 创意生成）",
+      "desc": "- **快速上手步骤**\n  1. 打开 [ChatGPT](https://chat.openai.com)。  \n  2. 输入角色化指令，例如：  \n     ```\n     你是一个资深平面设计师，请帮我生成一组海报文案，\n     主题是 {活动名称}，风格偏向 {复古/科技/极简}。\n     ```  \n  3. 将生成的文案复制到 Figma / PPT 使用。  \n\n- **标准路径**\n  - 模板导入：在 Notion 建立「高频 Prompt 卡片库」。  \n  - Prompt 使用：结构 = `角色设定 + 任务描述 + 输出格式`  \n\n**💡 高频 Prompt 示例**\n你是一名顶级品牌设计顾问，请生成一份 LOGO 设计 briefing，\n要求包含：品牌定位、目标用户、推荐配色、可选字体。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "4-notion-知识库-模板管理",
+      "cat": "creator",
+      "name": "4. Notion（知识库 / 模板管理）",
+      "desc": "- **快速上手步骤**\n  1. 打开 [Notion](https://notion.so)，新建一个数据库。  \n  2. 建立栏目：`工具库 / Prompt 库 / 模板库 / 案例库`。  \n  3. 从 Notion Template Gallery 导入「设计工作流管理」模版。  \n  4. 每次用到的新 Prompt / 模板 → 记录到数据库，逐步沉淀。  \n\n- **标准路径**\n  - 模板导入：`Notion → Templates → Duplicate`  \n  - Prompt 使用：在数据库条目里添加「复制按钮」，一键粘贴到 ChatGPT / MidJourney  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "设计师-ai-工具使用逻辑",
+      "cat": "creator",
+      "name": "🧩 设计师 AI 工具使用逻辑",
+      "desc": "1. **Figma**：用来搭建流程 & 界面协作；  \n2. **MidJourney**：生成概念图、风格探索；  \n3. **ChatGPT**：生成文案、设计说明、客户提案；  \n4. **Notion**：做工具库 & Prompt 知识库，形成长期生产力。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "进阶案例链路-从设计到归档的一站式工作流",
+      "cat": "creator",
+      "name": "🚀 进阶案例链路：从设计到归档的一站式工作流",
+      "desc": "以下是一个设计师利用 AI 工具完成 **概念设计 → 文案输出 → 知识沉淀** 的完整链路示例。  \n适合小白直接上手，也能帮助进阶用户快速形成 **个人化的高效工作流**。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "step-1-figma-自动生成设计系统",
+      "cat": "creator",
+      "name": "🔹 Step 1. Figma 自动生成设计系统",
+      "desc": "1. 打开 [Figma](https://figma.com) 并新建项目。  \n2. 在 **Community** 搜索：`Design System` → Duplicate → 导入到自己的工作区。  \n3. 使用 AI 插件（推荐：[Magician](https://magician.design/)）输入关键词：  ## 🚀 进阶案例链路：从设计到归档的一站式工作流\n\n以下是一个设计师利用 AI 工具完成 **概念设计 → 文案输出 → 知识沉淀** 的完整链路示例。  \n适合小白直接上手，也能帮助进阶用户快速形成 **个人化的高效工作流**。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "step-1-figma-自动生成设计系统",
+      "cat": "creator",
+      "name": "🔹 Step 1. Figma 自动生成设计系统",
+      "desc": "1. 打开 [Figma](https://figma.com) 并新建项目。  \n2. 在 **Community** 搜索：`Design System` → Duplicate → 导入到自己的工作区。  \n3. 使用 AI 插件（推荐：[Magician](https://magician.design/)）输入关键词：\n   Generate a modern design system for a SaaS dashboard  \n\n即可自动生成颜色、字体、按钮、输入框等组件。  \n4. 产出结果：一份完整的 **设计系统模板**，可直接复用。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "step-2-midjourney-概念图探索",
+      "cat": "creator",
+      "name": "🔹 Step 2. MidJourney 概念图探索",
+      "desc": "1. 打开 Discord → `/imagine prompt` 输入关键词：  \nFuturistic dashboard UI, minimalism, blue and white, isometric view\n2. 选择最满意的方案 → **U（放大）** 或 **V（变体）**。  \n3. 将生成的图导入 Figma → 放在 Moodboard 中作为 **视觉灵感参考**。  \n4. 产出结果：多套风格化的 **概念图**，辅助设计决策。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "step-3-chatgpt-生成设计文案",
+      "cat": "creator",
+      "name": "🔹 Step 3. ChatGPT 生成设计文案",
+      "desc": "1. 打开 [ChatGPT](https://chat.openai.com)。  \n2. 输入角色化 Prompt：  \n你是一名资深 UI/UX 设计顾问。\n请为一个 SaaS Dashboard 产品写一份设计提案，\n包含：项目目标、用户画像、核心功能、设计风格建议。\n3. ChatGPT 会自动生成 **提案文案**，可直接用于客户沟通或内部说明。  \n4. 产出结果：结构完整的 **设计说明/提案文档**。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "step-4-notion-归档与知识沉淀",
+      "cat": "creator",
+      "name": "🔹 Step 4. Notion 归档与知识沉淀",
+      "desc": "1. 打开 [Notion](https://notion.so)，建立一个数据库：`设计案例库`。  \n2. 新增字段：`工具`、`Prompt`、`产出截图`、`标签`、`链接`。  \n3. 将本次工作流的 **Figma 设计系统、MidJourney 图像、ChatGPT 提案**  \n一键存入 Notion → 形成 **可复用的知识资产**。  \n4. 产出结果：一个可长期积累的 **设计工作流数据库**，方便随时调用。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "最终链路图解",
+      "cat": "creator",
+      "name": "🧩 最终链路图解",
+      "desc": "<div class=\"mermaid\">\nflowchart TD\n  A[Figma: 设计系统生成] --> B[MidJourney: 概念图探索]\n  B --> C[ChatGPT: 提案文案输出]\n  C --> D[Notion: 归档与知识沉淀]\n</div>\n\n---\n\n✨ **效果**：  \n- 3 小时内完成从 **概念设计 → 视觉探索 → 提案文档 → 知识沉淀** 的完整闭环。  \n- 小白设计师可直接复制以上步骤，高效提升工作成果。  \n- 进阶设计师可逐步扩展 Prompt 库 & 模板库，形成个人 IP。  \n\n\n# 📚 实用案例\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "案例-1-logo-设计",
+      "cat": "creator",
+      "name": "案例 1：Logo 设计",
+      "desc": "**目标**：从 0 到 1 快速产出一个品牌 Logo 概念，并形成基础手册。  \n\n**操作步骤**：  \n1. **ChatGPT 文案引导**  \n   - Prompt 示例：  \n     ```\n     帮我生成一个适合环保品牌的极简风 Logo 概念，关键词：绿色、循环、自然。\n     ```\n   - 输出结果：3–5 个创意方向（图形+寓意）。  \n\n2. **MidJourney 出图**  \n   - Prompt 示例：  \n     ```\n     Minimalist eco-friendly brand logo, circular design, green tones, vector style --v 6 --ar 1:1\n     ```\n   - 生成至少 4 款不同风格 → 通过「/upscale」和「/variations」反复优化。  \n\n3. **Illustrator 精修**  \n   - 调整线条粗细、字体选择、配色。  \n   - 注意保存 **AI + SVG + PNG** 三个版本。  \n\n4. **输出品牌手册**  \n   - 包含：字体、色卡（RGB/CMYK）、应用场景（名片、官网、社交媒体）。  \n\n**进阶玩法**：  \n- 用 Figma 制作「Logo 使用规范组件」，方便团队复用。  \n- 结合 Notion，存放 Logo 演变记录，便于迭代。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "案例-2-电商-banner",
+      "cat": "creator",
+      "name": "案例 2：电商 Banner",
+      "desc": "**目标**：快速生成活动 Banner，并导出适配多平台。  \n\n**操作步骤**：  \n1. **确定主题**：如「双 11 限时优惠」。  \n2. **ChatGPT 生成文案**  \n   - Prompt：  \n     ```\n     请帮我写 5 条适合双11大促的广告文案，风格年轻、紧迫感。\n     ```\n   - 输出如：「仅限 24 小时，爆款直降 50%！」  \n\n3. **MidJourney 出背景图**  \n   - Prompt 示例：  \n     ```\n     Vibrant e-commerce sale banner background, neon lights, festive atmosphere, high energy --ar 16:9\n     ```\n\n4. **Canva / Photoshop 排版**  \n   - 导入背景图 + 文案。  \n   - 套用电商 Banner 模板，调整字体和布局。  \n\n5. **导出多尺寸**：PC（1200×628）、移动端（1080×1920）、小程序封面等。  \n\n**进阶玩法**：  \n- 批量生成 10 款背景图，A/B 测试不同风格的点击率。  \n- 用 Notion + Airtable 建立「Banner 素材库」。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "案例-3-ui-界面设计",
+      "cat": "creator",
+      "name": "案例 3：UI 界面设计",
+      "desc": "**目标**：AI 辅助快速产出 UI Demo，并同步到设计系统。  \n\n**操作步骤**：  \n1. **Figma AI 生成组件**  \n   - 在 Figma 插件输入「生成移动端电商首页」 → 自动产出组件库。  \n2. **ChatGPT 辅助交互文案**  \n   - 输入：「帮我生成购物车按钮的 5 个不同文案，年轻化」  \n   - 结果：「立即抢购」「马上结算」「加入战队」。  \n3. **共享组件库**  \n   - 用 Figma Team Library 功能 → 自动版本更新。  \n\n**进阶玩法**：  \n- 配合 Zeplin → 自动导出给前端。  \n- 用 ChatGPT 写「交互说明文档」，避免沟通反复。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "案例-4-社交媒体配图",
+      "cat": "creator",
+      "name": "案例 4：社交媒体配图",
+      "desc": "**目标**：一周快速产出 10 条 Instagram/小红书图文。  \n\n**操作步骤**：  \n1. ChatGPT 输入：  \n   ```\n   帮我生成 10 条适合 Instagram 健身励志账号的文案，语气要简洁有力。\n   ```\n2. MidJourney Prompt：  \n   ```\n   Dynamic fitness photo, neon gym, motivational vibes, cinematic lighting --ar 4:5\n   ```\n3. Canva 批量套用模板，快速排版。  \n4. 用 Buffer/Notion AI 自动排程，一周全量输出。  \n\n**进阶玩法**：  \n- 用 Notion 数据库记录「文案+图片+发布时间」。  \n- MidJourney 多风格（油画/漫画/摄影），保持账号调性。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "案例-5-广告分镜草图",
+      "cat": "creator",
+      "name": "案例 5：广告分镜草图",
+      "desc": "**目标**：用 AI 快速生成广告 Demo。  \n\n**操作步骤**：  \n1. **ChatGPT 分镜脚本**  \n   - Prompt：  \n     ```\n     帮我写一个 15 秒运动鞋广告脚本，分为开头-高潮-结尾。\n     ```\n2. **MidJourney 生成关键画面**（每个分镜一张图）。  \n3. **Premiere AI / Runway Gen-2 拼接** → 出 Demo 视频。  \n4. 内部提案或客户预览用。  \n\n**进阶玩法**：  \n- 后续拍摄时直接对照分镜，降低沟通成本。  \n- 输出两版脚本（情感型 / 功能型），对比客户偏好。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "案例-6-ppt-视觉优化",
+      "cat": "creator",
+      "name": "案例 6：PPT 视觉优化",
+      "desc": "**目标**：10 分钟内从文字稿 → 精美 PPT。  \n\n**操作步骤**：  \n1. ChatGPT 输入「请帮我把以下文字转成 PPT 提纲」  \n2. MidJourney 生成统一风格插画/图标  \n3. 导入 Gamma / Beautiful.ai  \n4. 自动生成主题风格 → 导出 PPTX/PDF。  \n\n**进阶玩法**：  \n- 配合 Canva 批量生成不同配色，方便客户选择。  \n- 用 Notion 存放「常用 PPT 模板库」。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "案例-7-品牌视觉手册",
+      "cat": "creator",
+      "name": "案例 7：品牌视觉手册",
+      "desc": "**目标**：快速搭建一份「品牌手册 1.0」。  \n\n**操作步骤**：  \n1. ChatGPT 输入：「帮我生成一个咖啡品牌的调性说明」  \n2. MidJourney 输出 Key Visual（咖啡豆、咖啡杯、插画风格）。  \n3. Notion 中建立数据库：Logo、色卡、字体、示例图。  \n4. 形成可分享的在线品牌手册。  \n\n**进阶玩法**：  \n- Figma 建立「品牌 Design Token」，让前端直接调用色值/字体。  \n- 每季度复盘 → Notion 更新一版「迭代记录」。  \n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "高频-prompt-模板-设计师-创意工作者版",
+      "cat": "creator",
+      "name": "🎯 高频 Prompt 模板（设计师/创意工作者版）",
+      "desc": "以下模板分为「基础类 / 进阶类 / 链路类」，小白也能一键使用。每条 Prompt 均附带用途 + 操作步骤，帮助快速上手。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "基础类-prompt-快速上手",
+      "cat": "creator",
+      "name": "🔹 基础类 Prompt（快速上手）",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "moodboard-灵感生成",
+      "cat": "creator",
+      "name": "🎨 Moodboard 灵感生成",
+      "desc": "- **用途**：快速获得不同风格的视觉方向  \n- **操作步骤**：复制到 ChatGPT 或 MidJourney 使用  \n- **Prompt**：\n```\n帮我生成一个视觉 Moodboard，主题是【未来感+极简】，请给我 5 种不同风格关键词，并附上简短的色彩搭配说明。\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "字体搭配推荐",
+      "cat": "creator",
+      "name": "🖌 字体搭配推荐",
+      "desc": "- **用途**：解决字体选择困难症  \n- **操作步骤**：复制到 ChatGPT  \n- **Prompt**：\n```\n请为一个【环保生活方式品牌】推荐 3 组字体搭配（中文 + 英文），并说明各自适合的应用场景。\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "logo-设计方向",
+      "cat": "creator",
+      "name": "🎨 LOGO 设计方向",
+      "desc": "- **用途**：给 MidJourney 提供初始关键词  \n- **操作步骤**：复制后输入 MidJourney  \n- **Prompt**：\n```\nMinimal logo design, keyword: 【coffee shop + warm + cozy】, vector style, white background\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "进阶类-prompt-带变量-快速替换",
+      "cat": "creator",
+      "name": "🔹 进阶类 Prompt（带变量，快速替换）",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "品牌配色方案",
+      "cat": "creator",
+      "name": "🌈 品牌配色方案",
+      "desc": "- **用途**：生成可落地的色彩 HEX 代码  \n- **操作步骤**：在 ChatGPT 输入，结果粘贴到 Figma 插件（如 Color Palettes）  \n- **Prompt**：\n```\n根据品牌关键词【活力、环保、年轻】，生成一组 5 种色彩的 HEX 色值，并附上简短的使用场景说明。\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "海报设计文案-midjourney-提示词",
+      "cat": "creator",
+      "name": "🖼 海报设计文案 + MidJourney 提示词",
+      "desc": "- **用途**：产出一套能直接生成海报的组合  \n- **操作步骤**：ChatGPT → MidJourney  \n- **Prompt**：\n```\n请帮我生成一个关于【音乐节】的海报文案，并附带 3 组 MidJourney 提示词，要求：风格分别是「复古」「赛博朋克」「极简」。\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "短视频分镜头脚本",
+      "cat": "creator",
+      "name": "🎥 短视频分镜头脚本",
+      "desc": "- **用途**：创意展示、广告片策划  \n- **操作步骤**：复制到 ChatGPT  \n- **Prompt**：\n```\n请为一个【智能手表新品发布】生成一个 30 秒短视频分镜脚本，每个镜头需要画面描述 + 文案旁白。\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "链路类-prompt-跨工具全链路",
+      "cat": "creator",
+      "name": "🔹 链路类 Prompt（跨工具全链路）",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "figma-midjourney-chatgpt-notion",
+      "cat": "creator",
+      "name": "🔗 Figma → MidJourney → ChatGPT → Notion",
+      "desc": "- **用途**：完整提案链路，涵盖设计 + 文案 + 归档  \n- **操作步骤**：  \n1. ChatGPT 输入：\n```\n我需要一个关于【新锐运动品牌】的完整设计提案流程，请输出：\n① 配色方案；② 3 套字体搭配；③ 可用于 MidJourney 的视觉关键词。\n```\n2. 将关键词复制到 MidJourney → 生成概念图  \n3. ChatGPT 再写一段提案文案  \n4. 最终粘贴到 Notion → 做知识沉淀  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "交互界面-用户体验改进",
+      "cat": "creator",
+      "name": "🧩 交互界面 → 用户体验改进",
+      "desc": "- **用途**：把原型图转化为改进建议  \n- **操作步骤**：上传 Figma 截图 → ChatGPT 分析  \n- **Prompt**：\n```\n请帮我从用户体验角度分析以下界面（上传截图），指出 5 个改进点，并给出具体可操作的优化方案。\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "小结",
+      "cat": "creator",
+      "name": "📌 小结",
+      "desc": "这些 Prompt 可以帮助你完成 **设计灵感探索 → 方案产出 → 视觉呈现 → 知识沉淀** 的完整流程。建议你先从基础类开始熟悉，再逐步使用进阶与链路类，最终形成自己的 AI 工作流。\n\n\n---\n\n# 进阶玩法与常见坑指南",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "进阶玩法-更细化",
+      "cat": "creator",
+      "name": "🎯 进阶玩法（更细化）",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "1-灵感管理自动化",
+      "cat": "creator",
+      "name": "1. 灵感管理自动化",
+      "desc": "- **工具链**：Notion + ChatGPT + Pinterest API  \n- **操作路径**：  \n  1. 在 Notion 建立「灵感库」数据库 → 分类字段（配色 / 字体 / 版式 / 交互）。  \n  2. 通过 API 自动抓取 Pinterest / Behance 的设计图，定期推送到灵感库。  \n  3. ChatGPT 自动生成标签（如「极简」「复古」「电商风」），帮你快速分类。  \n- **优势**：再也不用手动截图，灵感统一归档，复盘时有迹可循。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "2-风格迁移-lora-模型训练",
+      "cat": "creator",
+      "name": "2. 风格迁移（LoRA 模型训练）",
+      "desc": "- **工具链**：Stable Diffusion + Kohya LoRA Trainer  \n- **操作路径**：  \n  1. 准备 30–50 张自家作品（保证风格一致性）。  \n  2. 用 Kohya Trainer 训练轻量 LoRA 模型（约 2–3 小时即可）。  \n  3. 在后续出图时加上 `--lora yourbrand` 参数 → 保持风格统一。  \n- **适用场景**：品牌官网视觉、电商活动海报、长期品牌 IP。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "3-批量生成营销物料",
+      "cat": "creator",
+      "name": "3. 批量生成营销物料",
+      "desc": "- **工具链**：ChatGPT + MidJourney + Photoshop 批处理插件  \n- **操作路径**：  \n  1. ChatGPT 批量生成 20 条不同的广告文案（调用「多样性」Prompt）。  \n  2. MidJourney 输出对应背景图（加上不同色彩方案）。  \n  3. Photoshop 使用 AI 批处理 → 自动合成文案 + 背景。  \n- **效果**：一次性产出几十张海报，节省 80% 时间。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "4-团队协作-实时审稿",
+      "cat": "creator",
+      "name": "4. 团队协作 + 实时审稿",
+      "desc": "- **工具链**：Figma + Magician / Genius 插件  \n- **操作路径**：  \n  1. 在 Figma 中开启「实时 AI 插件」，设计师上传草稿。  \n  2. 客户或团队成员提出修改意见，AI 自动尝试调整（颜色 / 字体 / 间距）。  \n  3. 同步生成多版本，减少「反复来回修改」的沟通成本。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "常见坑-应急方案-更细化",
+      "cat": "creator",
+      "name": "⚠️ 常见坑 / 应急方案（更细化）",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "1-ai-出图跑偏",
+      "cat": "creator",
+      "name": "1. AI 出图跑偏",
+      "desc": "- **常见问题**：提示词不精准 → 图片风格过度抽象。  \n- **解决办法**：  \n  - 加入 **参考图（Image Prompt）**，并使用 `--iw` 参数控制权重。  \n  - 分步骤 Prompt：「背景 → 主体 → 风格」，逐层生成。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "2-版权风险",
+      "cat": "creator",
+      "name": "2. 版权风险",
+      "desc": "- **常见问题**：AI 出图中包含名人、品牌 Logo → 商用违规。  \n- **解决办法**：  \n  - 使用「无版权」素材库（如 Unsplash / Pexels）作为二次训练集。  \n  - 在 MidJourney Prompt 中明确写上 `--no logo --no text --no brand`。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "3-成品缺乏统一性",
+      "cat": "creator",
+      "name": "3. 成品缺乏统一性",
+      "desc": "- **常见问题**：一次项目需要几十张图，但 AI 每次风格不一致。  \n- **解决办法**：  \n  - 使用「自训练 LoRA 模型」或「参考图」保持风格。  \n  - 在 Prompt 中加上固定品牌元素（如指定色号 `#FF6600`、固定字体名称）。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "4-客户不接受-ai",
+      "cat": "creator",
+      "name": "4. 客户不接受 AI",
+      "desc": "- **常见问题**：客户觉得 AI 出的图“不专业”。  \n- **解决办法**：  \n  - 先用 AI 生成 Demo → 过审 → 再人工精修。  \n  - 强调「AI 是提速工具，不是替代人」，让客户接受度更高。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "5-文件落地问题",
+      "cat": "creator",
+      "name": "5. 文件落地问题",
+      "desc": "- **常见问题**：AI 出图像素过低 / 不适合印刷。  \n- **解决办法**：  \n  - 使用 Topaz Gigapixel 或 Photoshop AI Upscale 放大。  \n  - 输出时提前设定高分辨率参数（如 4K 起步）。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "参考资源-延伸阅读",
+      "cat": "creator",
+      "name": "📚 参考资源 / 延伸阅读",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "1-工具官网-入门指南",
+      "cat": "creator",
+      "name": "1. 工具官网 & 入门指南",
+      "desc": "- [Figma 官方文档](https://help.figma.com/) – 从零开始学 UI/UX 的最佳入口  \n- [MidJourney 官方社区](https://discord.gg/midjourney) – 获取最新 Prompt 用法、风格趋势  \n- [ChatGPT 使用手册](https://platform.openai.com/docs/) – Prompt 技巧与 API 接入指南  \n- [Notion 官方学习中心](https://www.notion.so/help/guides) – 模板、数据库与自动化入门  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "2-精品教程-视频课程",
+      "cat": "creator",
+      "name": "2. 精品教程 / 视频课程",
+      "desc": "- **Figma**: [DesignCode Figma 课程](https://designcode.io/figma) → 系统学习 UI 设计  \n- **MidJourney**: [Prompt Engineering 课程](https://learnprompting.org/) → 学习提示词设计  \n- **ChatGPT**: [YouTube 上的 AI 工作流示例](https://www.youtube.com/@mattvidpro) → 实操案例演示  \n- **Notion**: [Notion VIP](https://notion.vip/) → 高阶用法、团队协作模板  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "3-灵感库-设计资源",
+      "cat": "creator",
+      "name": "3. 灵感库 & 设计资源",
+      "desc": "- [Behance](https://www.behance.net/) – 国际设计作品平台，找灵感必备  \n- [Dribbble](https://dribbble.com/) – UI、插画、动效灵感库  \n- [Coolors](https://coolors.co/) – 一键生成配色方案  \n- [Google Fonts](https://fonts.google.com/) – 免费字体大全  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "4-社区论坛-知识沉淀",
+      "cat": "creator",
+      "name": "4. 社区论坛 & 知识沉淀",
+      "desc": "- **Reddit**: [r/Figma](https://www.reddit.com/r/Figma/) / [r/MidJourney](https://www.reddit.com/r/midjourney/) – 最新技巧、问题答疑  \n- **Discord**: MidJourney、Stable Diffusion 社区，活跃用户分享 Prompt  \n- **Twitter(X)**: 搜索 #AIart、#PromptEngineering 追踪最新趋势  \n- **Notion 中文社区**：微信群 / 飞书群，有大量国内实用案例  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "5-推荐书单",
+      "cat": "creator",
+      "name": "5. 推荐书单",
+      "desc": "- 《Don’t Make Me Think》– 经典 UX 设计入门读物  \n- 《The Elements of User Experience》– 系统理解用户体验  \n- 《Steal Like an Artist》– 创意与灵感捕捉必读  \n- 《Prompt Engineering for Designers》– 未来设计师的必备技能   \n\n---\n\n<script type=\"module\">\n  import mermaid from \"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs\";\n  mermaid.initialize({ startOnLoad: true, theme: \"default\" });\n</script>",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "入口导航",
+      "cat": "ecommerce",
+      "name": "✨ 🚀 入口导航",
+      "desc": "---\n\n> 快速找到你需要的工具与内容，每个板块都有简短说明，帮你判断是否需要查看。  \n> 点击标题可直接跳转到对应部分。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "a-href-tools-ai-工具-a",
+      "cat": "ecommerce",
+      "name": "🔹 🤖 <a href=\"#tools\">AI 工具</a>",
+      "desc": "覆盖选品、商品优化、广告投放、客服自动化、数据分析等核心环节，每个工具都有用途说明、替代工具与上手提示。  \n**适合人群**：刚入门的卖家与希望用 AI 提效的运营者。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "a-href-prompts-高频-prompt-模板-a",
+      "cat": "ecommerce",
+      "name": "🔹 ✍️ <a href=\"#prompts\">高频 Prompt 模板</a>",
+      "desc": "按“目标 → 场景 → Prompt”组织，复制即可用，变量用 `{ }` 标注。  \n**适合人群**：想要快速产出标题、详情页、广告创意、客服话术的运营者。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "a-href-workflow-爆款运营流程-a",
+      "cat": "ecommerce",
+      "name": "🔹 🧭 <a href=\"#workflow\">爆款运营流程</a>",
+      "desc": "从选品到复盘的 5 步闭环流程，每步配操作要点与建议工具，卡片化呈现，照着做就能跑通一次。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "a-href-pitfalls-常见坑-a",
+      "cat": "ecommerce",
+      "name": "🔹 🧯 <a href=\"#pitfalls\">常见坑</a>",
+      "desc": "整理平台规则、页面转化、投放、心态等常见坑与对应解法，避免踩坑走弯路。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "ai-工具",
+      "cat": "ecommerce",
+      "name": "🤖 AI 工具",
+      "desc": "<p align=\"center\">\n  <img src=\"../assets/cover-ai-tools.png?v=20250814181437\" alt=\"AI 工具速查\" width=\"800\">\n</p>\n\n> **使用建议**：先用“选品/数据”确认方向 → “内容/设计”完善页面 → “广告/客服”放大转化 → “数据/自动化”复盘迭代。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "选品与市场调研",
+      "cat": "ecommerce",
+      "name": "🛒 选品与市场调研",
+      "desc": "- **Jungle Scout / Helium 10**（跨境）  \n  **用途**：类目热度、价格带、竞品强度、关键词挖掘  \n  **替代**：卖家精灵（淘宝/拼多多）、阿里指数、黑小马数据  \n  **上手**：输入 {关键词} → 查看 Top 产品价格带、评论数、上新速度，挑“高需求/中竞争”的切入点。  \n\n- **Google Trends / 百度指数**  \n  **用途**：趋势变化、地域偏好、关联搜索  \n  **上手**：比较 {关键词A} 与 {关键词B} 趋势，选择增长更稳健的方向。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "商品优化与内容策划",
+      "cat": "ecommerce",
+      "name": "🧩 商品优化与内容策划",
+      "desc": "- **ChatGPT / DeepSeek**  \n  **用途**：标题/五点/卖点文案、买家痛点挖掘、FAQ  \n  **替代**：Kimi、通义灵码、文心一言  \n  **上手 Prompt**：  \n  「请基于目标人群 {人群} 和核心卖点 {卖点}，产出 5 个 30 字内标题 + 5 条卖点要点，覆盖 {关键词}。」\n\n- **Midjourney / Canva**  \n  **用途**：主图、场景图、信息图、尺码表  \n  **替代**：美图设计室、图鸭、创客贴  \n  **上手**：用 Canva 模板快速替换文字与商品图，保证一屏传达“卖点+对比+信任感”。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "广告投放与创意管理",
+      "cat": "ecommerce",
+      "name": "📣 广告投放与创意管理",
+      "desc": "- **Facebook Ads / Google Ads / 巨量千川 / 京东快车**  \n  **用途**：受众定向、创意管理、预算控制、A/B 测试  \n  **上手**：先用 3–5 套文案×2–3 张图的“小规模测试”找出胜出素材，再放大预算。  \n\n- **AdCreative.ai / Vizard**  \n  **用途**：广告图/短视频批量生成与改版  \n  **替代**：CapCut、剪映专业版  \n  **上手**：导入 3 个卖点，自动生成多版创意，选 CTR/转化更高的版本。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "客服与用户运营",
+      "cat": "ecommerce",
+      "name": "💬 客服与用户运营",
+      "desc": "- **ManyChat / 企业微信 SCRM / Zendesk**  \n  **用途**：自动欢迎语、常见问题解答、线索分配、评价邀约  \n  **上手**：设置「下单后+3 天」触达满意度问卷与二次优惠券。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "数据分析与自动化",
+      "cat": "ecommerce",
+      "name": "📊 数据分析与自动化",
+      "desc": "- **Data Studio / Looker / 商家中心数据**  \n  **用途**：看板整合、漏斗分析、渠道对比  \n  **上手**：构建“广告→详情页→下单”三段式漏斗，关注跳失点并对症优化。\n\n- **Zapier / Make / iPaaS**  \n  **用途**：自动化联动（下单→入群→触达→评价邀请）  \n  **上手**：把「下单事件」连接到「企业微信欢迎语+售后提醒」。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "高频-prompt-模板",
+      "cat": "ecommerce",
+      "name": "✍️ 高频 Prompt 模板",
+      "desc": "<p align=\"center\">\n  <img src=\"../assets/cover-prompts.png?v=20250814181437\" alt=\"Prompt 模板\" width=\"800\">\n</p>\n\n> **用法**：复制后替换 `{变量}` 即可；若不满意，补充平台、受众、价格带、语气或竞争对手样例后重试。\n\n| 目标 | 场景 | Prompt（复制即用） | 标签 |\n|---|---|---|---|\n| 标题提升 CTR | 列表页标题 | 你是资深电商运营，请基于目标人群 {人群}、核心卖点 {卖点}、关键词 {关键词}，输出 10 个不超过 30 字、能提升 CTR 的商品标题。要求包含 1 个强力词（如“官方/正品/送/新款”）与 1 个差异点。 | #标题 #CTR |\n| 五点卖点 | 详情页五点 | 请围绕 {场景} 与 {痛点}，产出 5 条“痛点→效果→证据”的卖点文案，每条 ≤ 40 字，避免空话。 | #详情页 #卖点 |\n| 购买理由 | 列表页短描述 | 面向 {人群}，用 3 句话说明购买理由：功能收益、适用场景、信任背书（如质保/认证）。每句 ≤ 18 字。 | #转化 #信任 |\n| A+ 模块 | 信息图文案 | 根据 {竞品链接} 的优缺点，生成 3 张信息图的文案大纲（标题+3 bullet），突出我们的差异化。 | #A+ #对比 |\n| 广告素材 | 图片/短视频脚本 | 输出 3 个 15 秒广告脚本（开头 3 秒强钩子），分别强调「痛点解决/场景想象/价格优惠」，并给出 3 条字幕。 | #广告 #脚本 |\n| 关键词拓展 | 广告投放 | 基于主关键词 {关键词}，给出 20 个长尾词（含意图词），并按“热度/竞争/转化意图”打分。 | #投放 #关键词 |\n| 评价运营 | 私信模板 | 针对 {差评点}，生成安抚与补偿私信模板各 2 条，语气真诚，避免模板感。 | #客服 #私信 |\n| FAQ | 售前售后 | 整理 {品类} 常见 10 条售前/售后问题，每条给“简答+补充链接/证据”。 | #客服 #FAQ |\n| 海外本地化 | 跨境文案 | 将以下中文卖点转为美国英语，口语化，避免夸张宣传，限制在 80–120 chars：{中文文案} | #跨境 #本地化 |\n| 复盘报告 | 数据总结 | 请基于以下核心指标 {指标清单} 总结本周投放与销售的 5 条结论与 3 条下周行动计划。 | #复盘 #数据 |\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "三-爆款运营流程",
+      "cat": "ecommerce",
+      "name": "三、爆款运营流程",
+      "desc": "![流程图](../assets/ecommerce-workflow.png)",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "步骤-1-选品与市场调研",
+      "cat": "ecommerce",
+      "name": "**步骤 1 — 选品与市场调研**",
+      "desc": "- **工具推荐**：Jungle Scout / 卖家精灵 / 阿里指数\n- **操作要点**：\n  1. 分析热销品类与季节性趋势\n  2. 评估价格带与毛利空间\n  3. 调查竞争对手的优势与弱点\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "步骤-2-商品优化与内容策划",
+      "cat": "ecommerce",
+      "name": "**步骤 2 — 商品优化与内容策划**",
+      "desc": "- **工具推荐**：ChatGPT / Copy.ai / Canva\n- **操作要点**：\n  1. 优化标题和关键词布局\n  2. 提炼差异化卖点\n  3. 制作高转化主图与详情页\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "步骤-3-广告与投放管理",
+      "cat": "ecommerce",
+      "name": "**步骤 3 — 广告与投放管理**",
+      "desc": "- **工具推荐**：Facebook Ads Manager / Google Ads / 巨量千川\n- **操作要点**：\n  1. 精准人群定向\n  2. 广告创意 A/B 测试\n  3. 按 ROI 调整预算分配\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "步骤-4-客服与用户运营",
+      "cat": "ecommerce",
+      "name": "**步骤 4 — 客服与用户运营**",
+      "desc": "- **工具推荐**：ManyChat / Zendesk / 企业微信\n- **操作要点**：\n  1. 快速响应客户咨询\n  2. 个性化推荐与关怀\n  3. 售后挽回与差评管理\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "步骤-5-数据分析与复盘",
+      "cat": "ecommerce",
+      "name": "**步骤 5 — 数据分析与复盘**",
+      "desc": "- **工具推荐**：Data Studio / 商家后台数据中心\n- **操作要点**：\n  1. 跟踪转化率、ROI、复购率\n  2. 分析广告和内容表现\n  3. 形成优化闭环\n\n\n---\n\n> **💡 应用场景流程卡：从广告测试到放大**\n> \n> **步骤 1**：用 ChatGPT 生成 5 套标题 + 3 张主图文案 → Canva 统一风格  \n> **步骤 2**：小预算投放测试（每组 50–100 元），看 CTR 与转化  \n> **步骤 3**：保留胜出创意，拓展相似词/人群，加预算 2–3 倍  \n> **步骤 4**：每周复盘，更新 30% 创意，保持新鲜度\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "常见坑",
+      "cat": "ecommerce",
+      "name": "🧯 常见坑",
+      "desc": "<p align=\"center\">\n  <img src=\"../assets/cover-pitfalls.png?v=20250814181437\" alt=\"常见坑与解决方案\" width=\"800\">\n</p>",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "平台规则类坑",
+      "cat": "ecommerce",
+      "name": "🔹 平台规则类坑",
+      "desc": "**坑**：标题/主图违规导致降权或下架  \n**解法**：对照平台规范清单（敏感词/夸张宣传/对比用词），上架前自查一次。\n\n**坑**：低质评价集中影响转化  \n**解法**：统一差评话术与补偿方案，建立“下单+3 天满意度”触达。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "页面与内容转化类坑",
+      "cat": "ecommerce",
+      "name": "🔹 页面与内容转化类坑",
+      "desc": "**坑**：主图信息过多、一屏看不懂  \n**解法**：一屏只讲 1 个卖点；信息图用“痛点→效果→证据”三段式。\n\n**坑**：详情页碎片化，缺少对比  \n**解法**：增加“我们 vs 竞品”对比表，讲清差异。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "投放与预算类坑",
+      "cat": "ecommerce",
+      "name": "🔹 投放与预算类坑",
+      "desc": "**坑**：首次就大额投放，烧钱无果  \n**解法**：先小预算多创意测试；胜出后再放大。\n\n**坑**：只盯点击不看转化  \n**解法**：建立曝光→下单漏斗，定位掉点再优化。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "心态与节奏类坑",
+      "cat": "ecommerce",
+      "name": "🔹 心态与节奏类坑",
+      "desc": "**坑**：产品未定型就求“爆单”  \n**解法**：先跑完“选品→页面→小投放→复盘”闭环再冲量。\n\n**坑**：陷入工具焦虑与信息过载  \n**解法**：每个环节只选 1–2 个核心工具，跑通再扩展。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "五-常用工具速查表",
+      "cat": "ecommerce",
+      "name": "五、常用工具速查表",
+      "desc": "| 功能类别 | 工具名称 | 主要用途 |\n|----------|----------|----------|\n| 选品调研 | Jungle Scout / 卖家精灵 | 分析市场趋势、热销品类 |\n| 文案生成 | ChatGPT / Copy.ai | 生成标题、卖点、广告文案 |\n| 设计制作 | Canva / Figma | 制作商品图、广告图 |\n| 广告投放 | Facebook Ads Manager / 巨量千川 | 广告管理与数据分析 |\n| 客服管理 | ManyChat / Zendesk | 智能客服与私域运营 |\n| 数据分析 | Data Studio / 商家后台 | 销售、广告效果分析 |\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "六-应急方案卡",
+      "cat": "ecommerce",
+      "name": "六、应急方案卡",
+      "desc": "- **广告成本突然飙升**  \n  立即暂停低效广告，保留高 ROI 广告组\n- **转化率明显下滑**  \n  检查网站加载速度与移动端适配，优化支付流程\n- **库存告急**  \n  启动 AI 补货预测模型，提前备货\n- **客诉爆发**  \n  用 AI 客服分流，优先处理高风险投诉\n\n---\n\n\n\n<!-- Interactivity Enhancements -->\n<script>\n// Open all links in a new tab\ndocument.querySelectorAll('a').forEach(link => {\n    link.setAttribute('target', '_blank');\n});\n\n// Enable one-click copy for prompts\nfunction copyToClipboard(id) {\n    const text = document.getElementById(id).innerText;\n    navigator.clipboard.writeText(text).then(() => {\n        alert('Prompt copied to clipboard!');\n    });\n}\n\n// Enable image click to enlarge\ndocument.querySelectorAll('img').forEach(img => {\n    img.style.cursor = 'zoom-in';\n    img.addEventListener('click', () => {\n        const modal = document.createElement('div');\n        modal.style.position = 'fixed';\n        modal.style.top = 0;\n        modal.style.left = 0;\n        modal.style.width = '100%';\n        modal.style.height = '100%';\n        modal.style.background = 'rgba(0,0,0,0.8)';\n        modal.style.display = 'flex';\n        modal.style.alignItems = 'center';\n        modal.style.justifyContent = 'center';\n        modal.style.zIndex = 9999;\n\n        const imgClone = img.cloneNode();\n        imgClone.style.maxWidth = '90%';\n        imgClone.style.maxHeight = '90%';\n        modal.appendChild(imgClone);\n\n        modal.addEventListener('click', () => document.body.removeChild(modal));\n        document.body.appendChild(modal);\n    });\n});\n</script>",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "核心目标",
+      "cat": "founder",
+      "name": "核心目标",
+      "desc": "- 帮助“一人公司”从零开始建立业务结构  \n- 展示如何用 AI 工具覆盖选品、营销、运营、客户管理全链路  \n- 减少试错成本，实现可持续盈利  \n- 适配多行业创业者的工作模式\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "1-岗位常用-ai-工具",
+      "cat": "founder",
+      "name": "1. 岗位常用 AI 工具",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "市场调研-商业分析",
+      "cat": "founder",
+      "name": "**市场调研 & 商业分析**",
+      "desc": "- **ChatGPT + Perplexity AI**  \n  用途：快速了解行业动态、市场容量、竞争格局  \n  推荐原因：信息获取快、能结合多渠道数据分析  \n  替代工具：Google Bard、Claude.ai  \n\n- **SimilarWeb**  \n  用途：分析竞争对手网站流量来源与关键词  \n  推荐原因：适合评估线上市场潜力  \n  替代工具：Ahrefs、SEMrush  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "品牌与营销",
+      "cat": "founder",
+      "name": "**品牌与营销**",
+      "desc": "- **Canva Pro**  \n  用途：制作品牌 Logo、社交媒体图文、营销海报  \n  推荐原因：海量模板，AI 自动排版  \n  替代工具：Figma、VistaCreate  \n\n- **Copy.ai**  \n  用途：生成广告文案、邮件营销内容  \n  推荐原因：支持多种营销场景 Prompt  \n  替代工具：Writesonic、Jasper.ai  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "运营与自动化",
+      "cat": "founder",
+      "name": "**运营与自动化**",
+      "desc": "- **Zapier / Make.com**  \n  用途：跨平台业务流程自动化（如订单 → 发货 → 客户通知）  \n  推荐原因：减少重复劳动，提高执行速度  \n  替代工具：IFTTT、n8n  \n\n- **Notion + AI**  \n  用途：业务管理、项目规划、客户跟进  \n  推荐原因：多维数据库 + AI 自动总结  \n  替代工具：Trello、ClickUp  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "财务与数据分析",
+      "cat": "founder",
+      "name": "**财务与数据分析**",
+      "desc": "- **SheetGPT / Excel Formula Bot**  \n  用途：AI 自动生成财务表格、分析数据  \n  推荐原因：节省公式编写与分析时间  \n  替代工具：Google Sheets AI、AirTable  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "2-prompt-模板",
+      "cat": "founder",
+      "name": "2. Prompt 模板",
+      "desc": "",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "商业创意生成",
+      "cat": "founder",
+      "name": "**商业创意生成**",
+      "desc": "```\n你是一位资深创业顾问，请结合当前市场趋势，生成5个低成本启动、适合“一人公司”运营的商业创意。输出格式：\n- 项目名称\n- 核心价值\n- 启动预算\n- 预期盈利周期\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "营销文案优化",
+      "cat": "founder",
+      "name": "**营销文案优化**",
+      "desc": "```\n请作为专业文案优化师，将以下产品文案改成更有吸引力的销售文案，并包含一个强有力的购买理由。\n【产品文案】：{{你的原文案}}\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "自动化流程设计",
+      "cat": "founder",
+      "name": "**自动化流程设计**",
+      "desc": "```\n我是一位“一人公司”创业者，请帮我设计一个自动化业务流程，用于处理线上订单、库存更新和客户通知。请以步骤列表输出，并推荐可用的AI工具。\n```\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "3-流程图-爆款流程",
+      "cat": "founder",
+      "name": "3. 流程图 & 爆款流程",
+      "desc": "![流程图](../assets/workflow-entrepreneur.png)\n\n**Step 1 — 市场与机会分析**  \n工具：ChatGPT、Perplexity AI  \n要点：快速锁定蓝海市场，避开竞争红海  \n\n**Step 2 — 产品/服务设计**  \n工具：Canva、Figma、MidJourney  \n要点：低成本快速产出 MVP（最小可行产品）  \n\n**Step 3 — 营销与获客**  \n工具：Copy.ai、Facebook Ads、抖音广告  \n要点：精准投放，低预算跑出第一批客户  \n\n**Step 4 — 自动化交付**  \n工具：Zapier、Make.com、Notion  \n要点：减少人工环节，实现 7x24 小时运转  \n\n**Step 5 — 数据分析与优化**  \n工具：Google Analytics、Data Studio  \n要点：持续优化 ROI，提高复购与转介绍  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "4-常见坑与应对方案",
+      "cat": "founder",
+      "name": "4. 常见坑与应对方案",
+      "desc": "| 问题 | 原因 | 解决方案 |\n|------|------|----------|\n| 产品销量停滞 | 市场需求变化、竞争加剧 | 用 AI 工具做趋势分析，快速调整产品定位 |\n| 广告花费过高 | 投放人群不精准 | 用 Lookalike Audience 或 AI 优化定向 |\n| 精力被重复任务消耗 | 缺少自动化流程 | 建立 Zapier / Make.com 自动化场景 |\n| 缺少客户复购 | 缺乏客户维护策略 | 用 AI 驱动的邮件/私域运营，增加黏性 |\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "5-常用工具速查表",
+      "cat": "founder",
+      "name": "5. 常用工具速查表",
+      "desc": "| 工具名 | 用途 | 链接 |\n|--------|------|------|\n| ChatGPT | 商业创意、市场分析 | https://chat.openai.com |\n| Perplexity AI | 行业数据搜索 | https://www.perplexity.ai |\n| Canva | 设计营销物料 | https://www.canva.com |\n| Copy.ai | 生成营销文案 | https://www.copy.ai |\n| Zapier | 跨平台自动化 | https://zapier.com |\n| Make.com | 自动化场景搭建 | https://www.make.com |\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "6-应急方案卡",
+      "cat": "founder",
+      "name": "6. 应急方案卡",
+      "desc": "- **广告投放无转化**  \n  解决：暂停低效广告，分析数据并调整投放人群  \n  推荐工具：Facebook Ads Manager + ChatGPT  \n\n- **现金流紧张**  \n  解决：推出预售产品、优化收款周期  \n  推荐工具：Stripe / PayPal + Notion 财务模板  \n\n- **客户投诉增加**  \n  解决：用 AI 客服分流，优先处理高价值客户  \n  推荐工具：ManyChat / Zendesk AI  \n\n---\n\n<!-- === UX ENHANCE START: open-in-new / copy prompt / image zoom === -->\n<style>\n.copy-btn{\n  display:inline-flex;align-items:center;gap:6px;\n  padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;\n  font-size:12px;cursor:pointer;background:#f9fafb;transition:.2s;\n}\n.copy-btn:hover{background:#eef2ff;border-color:#6366f1}\n.copy-btn.copied{background:#dcfce7;border-color:#16a34a}\n\n.prompt-card{\n  border:1px solid #e5e7eb;border-radius:12px;padding:12px 14px;margin:12px 0;background:#fafafa;\n}\n.prompt-title{font-weight:600;margin:0 0 8px 0}\n.prompt-text{white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14px;}\n\n#_lightboxBackdrop{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:9999}\n#_lightboxBackdrop img{max-width:92vw;max-height:92vh;border-radius:10px;box-shadow:0 10px 40px rgba(0,0,0,.5)}\n#_lightboxBackdrop.active{display:flex}\n.zoomable{cursor:zoom-in;transition:transform .15s}\n.zoomable:hover{transform:scale(1.01)}\n</style>\n\n<div id=\"_lightboxBackdrop\" aria-hidden=\"true\"><img alt=\"\"></div>\n\n<script>\n(function(){\n  // 1) All links (except hash anchors) open in a new tab – includes nav entries\n  document.querySelectorAll('a[href]').forEach(a=>{\n    const href=(a.getAttribute('href')||'').trim();\n    if(!href || href.startsWith('#')) return;\n    a.setAttribute('target','_blank');\n    a.setAttribute('rel','noopener noreferrer');\n  });\n\n  // 2) Add Copy button to ALL code blocks and to .prompt-card .prompt-text\n  // 2A) Code blocks: <pre><code>…</code></pre>\n  document.querySelectorAll('pre > code').forEach(code=>{\n    const pre = code.parentElement;\n    if(pre.dataset._copyBound) return;\n    const btn = document.createElement('button');\n    btn.className='copy-btn'; btn.type='button'; btn.style.float='right'; btn.style.margin='6px';\n    btn.innerHTML='📋 Copy';\n    btn.addEventListener('click', async ()=>{\n      try{\n        await navigator.clipboard.writeText(code.innerText.trim());\n        const old = btn.innerHTML; btn.innerHTML='✅ Copied'; btn.classList.add('copied');\n        setTimeout(()=>{ btn.innerHTML=old; btn.classList.remove('copied'); }, 1500);\n      }catch(e){\n        btn.innerHTML='❗Failed'; setTimeout(()=>{ btn.innerHTML='📋 Copy'; }, 1500);\n      }\n    });\n    pre.insertAdjacentElement('afterbegin', btn);\n    pre.dataset._copyBound='1';\n  });\n\n  // 2B) Prompt cards\n  function mountCopyForCard(card){\n    if(card.dataset._copyBound) return;\n    const textEl = card.querySelector('.prompt-text');\n    if(!textEl) return;\n    const btn = document.createElement('button');\n    btn.className='copy-btn'; btn.type='button';\n    btn.innerHTML='📋 Copy';\n    btn.addEventListener('click', async ()=>{\n      try{\n        await navigator.clipboard.writeText(textEl.innerText.trim());\n        const old = btn.innerHTML; btn.innerHTML='✅ Copied'; btn.classList.add('copied');\n        setTimeout(()=>{ btn.innerHTML=old; btn.classList.remove('copied'); }, 1500);\n      }catch(e){\n        btn.innerHTML='❗Failed'; setTimeout(()=>{ btn.innerHTML='📋 Copy'; }, 1500);\n      }\n    });\n    const title = card.querySelector('.prompt-title');\n    (title? title: card).insertAdjacentElement(title?'afterend':'afterbegin', btn);\n    card.dataset._copyBound='1';\n  }\n  document.querySelectorAll('.prompt-card').forEach(mountCopyForCard);\n\n  // 3) Image Lightbox (click to zoom)\n  const backdrop = document.getElementById('_lightboxBackdrop');\n  const bigImg = backdrop.querySelector('img');\n  function openZoom(src, alt){ bigImg.src = src; bigImg.alt = alt||''; backdrop.classList.add('active'); }\n  function closeZoom(){ backdrop.classList.remove('active'); bigImg.src=''; bigImg.alt=''; }\n  backdrop.addEventListener('click', closeZoom);\n  document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeZoom(); });\n\n  document.querySelectorAll('img, a>img').forEach(img=>{\n    if((img.naturalWidth||img.width) >= 300) img.classList.add('zoomable');\n    img.addEventListener('click', (e)=>{\n      const a = img.closest('a');\n      if(a && a.getAttribute('href')) return;\n      e.preventDefault();\n      const src = img.currentSrc || img.src;\n      openZoom(src, img.alt || '');\n    }, {passive:false});\n  });\n\n  // 4) Observe dynamic changes (optional)\n  const mo = new MutationObserver(()=>{\n    document.querySelectorAll('.prompt-card').forEach(mountCopyForCard);\n  });\n  mo.observe(document.body, {childList:true, subtree:true});\n})();\n</script>\n<!-- === UX ENHANCE END === -->",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "入口导航",
+      "cat": "media-creator",
+      "name": "✨ 🚀 入口导航",
+      "desc": "---\n\n> 快速找到你需要的工具与内容，每个板块都有简短说明，帮你判断是否需要查看。  \n> 点击标题可直接跳转到对应部分。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "ai-工具-ai-工具",
+      "cat": "media-creator",
+      "name": "🔹 🤖 [AI 工具](#ai-工具)",
+      "desc": "用于不同创作场景的精选 AI 工具集合，每个工具都有使用说明和适用人群。  \n**适合人群**：想提升创作效率、快速找到合适 AI 工具的初学者。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-模板-prompt-模板",
+      "cat": "media-creator",
+      "name": "🔹 💬 [Prompt 模板](#prompt-模板)",
+      "desc": "为你准备好可直接套用的 Prompt 模板，减少摸索时间。  \n**适合人群**：想直接用现成 Prompt 开始创作的用户。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "爆款输出流程-爆款输出流程",
+      "cat": "media-creator",
+      "name": "🔹 📋 [爆款输出流程](#爆款输出流程)",
+      "desc": "分步骤教你如何从 0 到 1 产出一篇高质量作品，提升爆款几率。  \n**适合人群**：希望有清晰创作路径的用户。  \n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "常见坑与解决方案-常见坑与解决方案",
+      "cat": "media-creator",
+      "name": "🔹 ⚠️ [常见坑与解决方案](#常见坑与解决方案)",
+      "desc": "整理了初学者最容易遇到的坑，并提供简单可行的解决方案。  \n**适合人群**：想少走弯路、快速掌握要点的用户。  \n\n---\n\n\n<a id=\"sec-roadmap\"></a>",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "从-0-到-1-入门路线图",
+      "cat": "media-creator",
+      "name": "✨ 从 0 到 1 入门路线图",
+      "desc": "<p align=\"center\">\n  <img src=\"../assets/cover-roadmap.png?v=20250814155513\" alt=\"从 0 到 1 入门路线图\" width=\"800\">\n</p>\n\n---\n> 适合完全小白的自媒体 AI 工具学习路线  \n\n> ### 📌 流程卡片\n>\n> 1. **明确目标**：确定你是做短视频、图文、还是多平台运营。\n> 2. **必备账号**：注册 ChatGPT / 其他替代工具、AI 绘图工具、剪辑工具账号。\n> 3. **核心技能学习**：从内容策划、文案写作到视觉制作。\n> 4. **小规模试水**：用 AI 完成首个作品并发布。\n> 5. **数据复盘与迭代**：根据反馈调整内容方向与选题。\n\n\n> ## 📖 术语速懂（给完全新手）\n\n- **Prompt（提示词）**：给 AI 的输入指令，用来告诉它“要做什么”“怎么做”。\n- **变量占位符**：像 `{{产品}}`、`{{受众}}` 这类可替换字段，发布前换成你的实际信息。\n- **风格/语气**：文案口吻，如“专业”“幽默”“真诚”，写在 Prompt 里更容易得到想要的感觉。\n- **工作流（Workflow）**：把多步操作固定成流程，例如“选题 → 脚本 → 配图 → 发布”。\n- **A/B 测试**：准备两个版本（如标题A/标题B），小范围测试后选择更优的那个。\n\n---\n\n# 自媒体人 AI 工具指南\n![封面图](../assets/cover-media.jpg?v=20250814155513)\n\n> 🎯 **定位**：本指南专为希望通过 AI 工具提升内容创作效率、质量和影响力的自媒体人打造。  \n> 目标是让你从零开始快速搭建自己的 AI 创作体系。\n\n\n---\n\n\n\n<a id=\"sec-ai-tools\"></a>",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "必备-ai-工具推荐",
+      "cat": "media-creator",
+      "name": "✨ ##🛠 必备 AI 工具推荐",
+      "desc": "<p align=\"center\">\n  <img src=\"../assets/cover-ai-tools.png?v=20250814155513\" alt=\"AI 工具速查\" width=\"800\">\n</p>\n\n---\n\n| 工具名称 | 一句话亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 |\n|:---:|---|---|:---:|:---:|:---:|:---:|\n| **ChatGPT** | 文本生成、写作助手、脚本优化 | 视频脚本、标题文案、创意点子 | 免费+付费 | ⭐ | [访问](https://chat.openai.com) | [DeepSeek Chat](https://chat.deepseek.com/) |\n| **Claude** | 长文本处理强、逻辑严谨 | 长篇文章、策划案撰写 | 免费+付费 | ⭐⭐ | [访问](https://claude.ai) | [通义千问](https://tongyi.aliyun.com/qianwen/) |\n| **Notion AI** | 笔记与自动化写作结合 | 内容归档、创作流程管理 | 付费 | ⭐⭐ | [访问](https://www.notion.so/product/ai) | [WPS AI](https://ai.wps.cn/) |\n| **Canva** | 图文设计一体化 | 封面图、社交媒体配图 | 免费+付费 | ⭐ | [访问](https://www.canva.com) | [创客贴](https://www.chuangkit.com/) |\n| **CapCut** | 全能短视频剪辑 | 视频剪辑、字幕、特效 | 免费 | ⭐⭐ | [访问](https://www.capcut.com) | - |\n\n> 💡 **建议**：从 ChatGPT + Canva + CapCut 三件套开始，能立刻覆盖文案、设计、视频三个核心环节。\n\n\n\n---\n\n\n> **💡 应用场景流程卡：用 AI 工具完成一篇短视频脚本**\n> \n> **步骤 1**：打开 ChatGPT（或替代工具），输入你的视频主题和受众。\n> \n> **步骤 2**：在对话中加入你期望的语气（幽默、励志、专业等），并要求输出分镜脚本。\n> \n> **步骤 3**：使用 Notion AI / 飞书文档等工具进行二次编辑和排版。\n> \n> **步骤 4**：将脚本导入剪映 / CapCut，加入背景音乐和字幕。\n> \n> **结果**：从构思到成片，仅需 30-60 分钟。\n ⚡ 提升效率工具\n\n| 工具名称 | 亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 |\n|:---:|---|---|:---:|:---:|:---:|:---:|\n| **Zapier** | 多平台自动化 | 自动发帖、数据同步 | 付费 | ⭐⭐⭐ | [访问](https://zapier.com) | [简道云自动化](https://www.jiandaoyun.com/) |\n| **Make.com** | 可视化自动化流程 | 跨平台 AI 工作流 | 免费+付费 | ⭐⭐ | [访问](https://www.make.com) | [钉钉宜搭](https://www.dingtalk.com/product/yida) |\n| **Grammarly** | 英文写作优化 | 海外内容发布 | 免费+付费 | ⭐ | [访问](https://www.grammarly.com) | [秘塔写作猫](https://xiezuocat.com/) |\n| **Descript** | 音视频转文字+编辑 | 播客剪辑、配音替换 | 付费 | ⭐⭐ | [访问](https://www.descript.com) | [讯飞听见](https://www.iflyrec.com/) |\n\n> **\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "创意与设计工具",
+      "cat": "media-creator",
+      "name": "✨ 🎨 创意与设计工具",
+      "desc": "---\n\n| 工具名称 | 亮点 | 适用场景 | 费用 | 难度 | 官网 | 可替代工具 |\n|:---:|---|---|:---:|:---:|:---:|:---:|\n| **Midjourney** | 高质量 AI 绘图 | 封面图、背景图 | 付费 | ⭐⭐⭐ | [访问](https://www.midjourney.com) | [文心一格](https://yige.baidu.com/) |\n| **Leonardo AI** | 多风格插画生成 | 社交海报、插画 | 免费+付费 | ⭐⭐ | [访问](https://leonardo.ai) | [通义万相](https://tongyi.aliyun.com/wanxiang/) |\n| **Runway** | 视频生成与特效 | 短视频特效、动态背景 | 免费+付费 | ⭐⭐ | [访问](https://runwayml.com) | [万兴喵影·AI](https://www.wondershare.cn/filmora/) |\n\n\n> ### 🚀 进阶玩法（AI 工具）\n- 把你常用的 3 个工具串成“固定流程”（如：选题 → 文案 → 配图）并保存为清单。\n- 同一类工具挑 1 个主用（如写作只用 1 个），避免切换浪费时间。\n- 每周做一次“工具复盘”：保留高效工具，淘汰低效步骤。\n\n---\n\n\n<a id=\"sec-prompts\"></a>",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "高频-prompt-模板",
+      "cat": "media-creator",
+      "name": "✨ ##高频 Prompt 模板",
+      "desc": "<p align=\"center\">\n  <img src=\"../assets/cover-prompts.png?v=20250814155513\" alt=\"Prompt 模板\" width=\"800\">\n</p>\n\n---\n\n> **如何使用**：把 `{变量}` 换成你的信息即可；不满意就补充平台、受众、时长、语气，再试一次。  \n> **建议顺序**：先用“脚本/标题/排版”三张卡，马上能产出 1 条内容。\n\n\n---\n\n\n> **💡 应用场景流程卡：用 Prompt 快速生成图文内容**\n> \n> **步骤 1**：选择适合你的 Prompt 模板（如产品介绍、情感文案、热点解读）。\n> \n> **步骤 2**：将产品或主题信息替换到 Prompt 中的变量位置。\n> \n> **步骤 3**：在 ChatGPT / Claude / Gemini 等平台运行 Prompt，生成初稿。\n> \n> **步骤 4**：用美图秀秀 / Canva 调整图片视觉，与文案匹配。\n> \n> **结果**：15 分钟内即可完成一条精美的图文内容。\n<a id=\"sec-prompts\"></a>",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-1-短视频脚本生成-新手必用",
+      "cat": "media-creator",
+      "name": "✨ 🧩 Prompt 1 · 短视频脚本生成（新手必用）",
+      "desc": "---\n> 标签：#视频脚本 #内容策划  ·  适用：抖音/视频号/小红书 30–60 秒  \n**复制这个 Prompt：**  \n```\n为{平台}生成一个{时长}秒的短视频脚本，主题是「{主题}」，受众是{目标人群}，语气{风格}。请输出：①3–5秒开场钩子②主体三点（每点附一句镜头建议）③结尾互动语。\n```\n**示例输入**：平台=视频号；时长=45；主题=AI 提效；受众=上班族；风格=轻松  \n**示例输出（片段）**：开场：“每天加班？3 个 AI 小招让你准点下班。” → 主体三点… → 结尾：“收藏这条，明天就用！”\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-2-爆款标题生成-新手必试",
+      "cat": "media-creator",
+      "name": "🧩 Prompt 2 · 爆款标题生成   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n> 标签：#标题优化 #提升点击  ·  适用：短视频/图文/公众号  \n**复制这个 Prompt：**  \n```\n围绕「{主题}」生成 10 个高点击标题（≤12 字），包含【数字】【对比】【悬念】三类各≥2条，并按吸引力排序。\n```\n**示例输入**：主题=AI 办公技巧  \n**示例输出（节选）**：1）“3 天见效的 AI 提效术” 2）“别再瞎忙！这 3 招救你” …\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-3-图文排版与标题优化-新手必试",
+      "cat": "media-creator",
+      "name": "🧩 Prompt 3 · 图文排版与标题优化   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n> 标签：#图文排版 #图文文案  ·  适用：小红书/公众号/知乎  \n**复制这个 Prompt：**  \n```\n把下面内容改写为适合{平台}的图文：输出【≤16字标题】【3 段正文（短句）】【2 条配色/版式建议】。内容：{原文}\n```\n**示例输入**：平台=小红书；原文=（粘贴你的长段文字）  \n**示例输出（片段）**：标题“7 天提效计划” → 分段正文 → 视觉建议：蓝白、16:9、手账风。\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-4-封面文案-视觉建议-新手必试",
+      "cat": "media-creator",
+      "name": "🧩 Prompt 4 · 封面文案 + 视觉建议   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n> 标签：#封面文案 #视觉创意  ·  适用：封面/海报缩略图  \n**复制这个 Prompt：**  \n```\n为主题「{主题}」生成 5 条封面主标题（≤10 字）+ 1 条视觉建议（配色/元素/构图比例）。平台：{平台}；风格：{风格}。\n```\n**示例输入**：主题=AI 提升学习效率；平台=视频号；风格=商务简洁  \n**示例输出（节选）**：标题“7 天提效计划”；视觉：16:9、蓝白、桌面+便签。\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-5-评论区互动问题-新手必试",
+      "cat": "media-creator",
+      "name": "🧩 Prompt 5 · 评论区互动问题   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n> 标签：#评论互动 #提升停留  ·  适用：所有平台  \n**复制这个 Prompt：**  \n```\n围绕「{主题}」生成 6 条评论区互动问题（≤15 字），语气{风格}，适配 {平台}。\n```\n**示例输入**：主题=时间管理；风格=轻松；平台=抖音  \n**示例输出（节选）**：“你最浪费时间的习惯是？”“你更想省出早上还是晚上？”\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-6-跨平台改写-一稿多发-新手必试",
+      "cat": "media-creator",
+      "name": "🧩 Prompt 6 · 跨平台改写（一稿多发）   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n> 标签：#分发适配 #再利用  ·  适用：B 站/视频号/知乎/小红书  \n**复制这个 Prompt：**  \n```\n请把下文改写成适合{目标平台}的风格，输出：标题 / 分行正文 / 结尾互动问题。保持信息不变但语气贴合平台。文本：{原文}\n```\n**示例输入**：目标平台=知乎；原文=（贴你的公众号内容）  \n**示例输出（片段）**：更理性、更长段落、加引用与数据。\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-7-发布文案-标签-新手必试",
+      "cat": "media-creator",
+      "name": "🧩 Prompt 7 · 发布文案 + 标签   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n> 标签：#发布描述 #话题标签  ·  适用：短视频/图文平台  \n**复制这个 Prompt：**  \n```\n为{平台}生成 1 条发布文案（≤80 字）+ 10 个标签（长短词搭配），主题「{主题}」，受众{人群}，语气{风格}。请按检索量排序标签。\n```\n**示例输入**：平台=小红书；主题=提高拍照构图；人群=新手；风格=友好  \n**示例输出（片段）**：文案一句话 + 标签列表（#构图技巧 #手机摄影 …）。\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "prompt-8-数据复盘与下一步计划-进阶-新手必试",
+      "cat": "media-creator",
+      "name": "🧩 Prompt 8 · 数据复盘与下一步计划（进阶）   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n> 标签：#数据复盘 #内容优化  ·  适用：周更/日更复盘  \n**复制这个 Prompt：**  \n```\n根据下列数据（标题/播放/完播/互动），总结：①表现最佳的 3 个主题②失败共性③下周 5 条实验建议（含预期指标）。数据：{粘贴数据}\n```\n**示例输入**：粘贴你的后台数据  \n**示例输出（片段）**：主题 A 完播高 → 保留结构；主题 B 点击低 → 更换标题策略。\n\n\n\n---\n\n> ✅ **小贴士**：从上面前 3 张卡开始最划算；每发 3 条做一次小复盘，再微调 Prompt。### 🎬 视频创作类 🌟 新手必试\n> **3秒理解**：这里简述该功能的核心用途。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "视频脚本生成-新手必试",
+      "cat": "media-creator",
+      "name": "📌 视频脚本生成   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n**标签**：#视频脚本 #内容策划  \n**示例输入**：  \n```\n帮我生成一个3分钟的视频脚本，主题是“如何用AI提升工作效率”，分三段，每段30秒。\n```  \n**示例输出**：  \n- 开场（30秒）：引出AI如何改变工作方式。  \n- 中段（30秒）：介绍3个实用AI工具。  \n- 收尾（30秒）：号召观众尝试使用。  \n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "爆款标题生成-新手必试",
+      "cat": "media-creator",
+      "name": "📌 爆款标题生成   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n**标签**：#短视频 #爆款标题  \n**示例输入**：  \n```\n为一个关于ChatGPT办公技巧的视频生成10个吸引人的标题。\n```  \n**示例输出**：  \n\n> ### 📌 流程卡片\n>\n> 1. “99%的人都不知道的ChatGPT神技能！”\n> 2. “这3招让你工作效率翻倍！”\n> 3. “AI正在悄悄取代这些工作…”\n\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "图文创作类-新手必试",
+      "cat": "media-creator",
+      "name": "🔹 📝 图文创作类 🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "图文排版与标题优化-新手必试",
+      "cat": "media-creator",
+      "name": "📌 图文排版与标题优化   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n**标签**：#文章排版 #标题优化  \n**示例输入**：  \n```\n帮我优化以下标题，使其更有吸引力：\n原标题：用AI做笔记的5个方法\n```  \n**示例输出**：  \n- “5个AI做笔记的方法，让你效率飙升！”  \n- “告别低效！这5个AI笔记技巧你必须学会”  \n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "海报文案生成-新手必试",
+      "cat": "media-creator",
+      "name": "📌 海报文案生成   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n**标签**：#宣传海报 #广告文案  \n**示例输入**：  \n```\n为一款运动手表生成简洁有力的广告文案，突出健康与科技感。\n```  \n**示例输出**：  \n“让心率，见证你的每一步。”  \n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "运营与互动类-新手必试",
+      "cat": "media-creator",
+      "name": "🔹 💬 运营与互动类 🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "评论互动生成-新手必试",
+      "cat": "media-creator",
+      "name": "📌 评论互动生成   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n**标签**：#粉丝互动 #评论回复  \n**示例输入**：  \n```\n为这条粉丝评论生成3种不同风格的回复：\n评论：这个功能太强大了！\n```  \n**示例输出**：  \n\n> ### 📌 流程卡片\n>\n> 1. 亲切型：“哈哈，谢谢支持，我们会更努力！”\n> 2. 专业型：“感谢认可！更多功能即将上线。”\n> 3. 幽默型：“它还有更强的，你敢试试吗？”\n\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "活动创意生成-新手必试",
+      "cat": "media-creator",
+      "name": "📌 活动创意生成   🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n**标签**：#营销活动 #创意策划  \n**示例输入**：  \n```\n为一个科技类公众号策划3个线上互动活动。\n```  \n**示例输出**：  \n\n> ### 📌 流程卡片\n>\n> 1. “AI工具体验周”——每天介绍1款实用AI工具。\n> 2. “Prompt挑战赛”——用户提交最有创意的Prompt，评选优胜者。\n> 3. “AI办公黑科技直播”——现场演示AI工具使用方法。",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "内容创作类",
+      "cat": "media-creator",
+      "name": "✨ 📚 内容创作类",
+      "desc": "---\n\n| 任务 | 难度 | 场景说明 | 模板（变量可替换） | 风格变体示例 | 常见坑与修正版 |\n|------|------|----------|--------------------|--------------|----------------|\n| **爆款短视频脚本生成** | 🟢 新手 | 为 TikTok / 视频号 / 小红书生成高转化脚本 | 给我一个适用于 **{平台}** 的 60 秒短视频脚本，主题是 **{主题}**，受众是 **{目标人群}** | - 搞笑风格<br>- 情绪共鸣<br>- 干货直给 | ❌ 过于泛化 → ✅ 在指令中加入目标受众痛点 |\n| **长文拆分成社交帖** | 🟢 新手 | 把文章内容高效转成多条社交媒体帖子 | 将以下文章拆分为 **{条数}** 条适合 **{平台}** 的内容，每条不超过 **{字数}** 字 | - 金句提炼<br>- 问题引导<br>- 悬念式 | ❌ 原文照搬 → ✅ 用平台语言重写 |\n| **系列化内容策划** | 🟠 进阶 | 针对某个主题策划长期更新系列 | 请为主题 **{主题}** 制定一个 10 条内容的系列化计划，每条附一句吸引人的标题 | - 按时间线<br>- 按难度分级 | ❌ 主题分散 → ✅ 限定在单一核心话题 |\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "视觉创意类-新手必试",
+      "cat": "media-creator",
+      "name": "🔹 🎨 视觉创意类 🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n\n| 任务 | 难度 | 场景说明 | 模板（变量可替换） | 风格变体示例 | 常见坑与修正版 |\n|------|------|----------|--------------------|--------------|----------------|\n| **封面图创意生成** | 🟢 新手 | 快速生成匹配内容调性的封面图 | 生成一张 **{风格}** 风格的封面图，主题是 **{主题}**，适用于 **{平台}** | - 国潮风<br>- 扁平插画<br>- 高级质感 | ❌ 元素堆叠 → ✅ 聚焦1-2个核心元素 |\n| **品牌视觉统一化** | 🟠 进阶 | 保持不同内容输出的视觉一致性 | 生成一套与品牌调性一致的 **{视觉元素清单}** | - 极简黑白<br>- 高饱和色块 | ❌ 每次风格不同 → ✅ 固定一套视觉模板 |\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "传播与增长类-新手必试",
+      "cat": "media-creator",
+      "name": "🔹 📢 传播与增长类 🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n\n| 任务 | 难度 | 场景说明 | 模板（变量可替换） | 风格变体示例 | 常见坑与修正版 |\n|------|------|----------|--------------------|--------------|----------------|\n| **标题优化** | 🟢 新手 | 提高点击率的标题生成 | 为 **{平台}** 的内容生成 5 个不同风格的高点击率标题，主题是 **{主题}** | - 数据对比<br>- 吊胃口<br>- 情绪化 | ❌ 太标题党 → ✅ 标题与内容一致 |\n| **热点话题植入** | 🟠 进阶 | 将内容结合最新热点提高热度 | 将以下内容与当前热点 **{热点事件}** 结合，生成 3 个改写版本 | - 轻松调侃<br>- 正面点评 | ❌ 生搬硬套 → ✅ 先筛选高度相关的热点 |\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "运营管理类-新手必试",
+      "cat": "media-creator",
+      "name": "🔹 ⚙️ 运营管理类 🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n\n| 任务 | 难度 | 场景说明 | 模板（变量可替换） | 风格变体示例 | 常见坑与修正版 |\n|------|------|----------|--------------------|--------------|----------------|\n| **内容月度规划** | 🟢 新手 | 制定一个月的更新节奏 | 为 **{平台}** 生成一个为期 30 天的内容日历，主题方向是 **{主题}** | - 混合型<br>- 系列化<br>- 节日节点 | ❌ 每天随机发 → ✅ 按节奏递进 |\n| **数据复盘分析** | 🟠 进阶 | 优化策略的基础 | 分析以下数据，输出复盘报告并给出 5 条优化建议 | - 可视化报告<br>- 对比分析 | ❌ 只看浏览量 → ✅ 综合转化率和互动率 |\n\n\n\n---\n\n💡 **使用建议**  \n- 先用 **新手级模板** 快速上手，再逐渐引入进阶玩法  \n- 所有变量（如 `{主题}`、`{平台}`）请替换为你的真实需求  \n- 不要一次性套用所有模板，按目标选择",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "迷你-prompt-卡片-进阶用法-新手必试",
+      "cat": "media-creator",
+      "name": "🔹 迷你 Prompt 卡片（进阶用法） 🌟 新手必试",
+      "desc": "> **3秒理解**：这里简述该功能的核心用途。\n\n\n| 功能 | 使用场景 | 直接可用 Prompt |\n|------|----------|-----------------|\n| 视频脚本生成 | 为 1 分钟短视频快速写好有趣的分镜脚本 | “帮我写一个 60 秒的短视频脚本，主题是【XXX】，包括 3 个分镜，每个分镜用一句话描述，语气幽默吸引人。” |\n| 图文标题优化 | 给文章或社交媒体配一条更抓人的标题 | “帮我优化标题：【XXX】，生成 5 个更吸引人的标题，每个不超过 15 字。” |\n| 配音文案润色 | 让配音更口语化自然 | “将以下文案改成适合配音的自然口语：【XXX】。” |\n| 热点话题植入 | 将品牌内容巧妙融入当下热点 | “帮我写一篇围绕【热点事件】的 200 字短文，自然融入【品牌/产品】，保持轻松幽默。” |\n| 评论区引导语 | 在评论区引发讨论和互动 | “为【话题】生成 3 条吸引人回复的评论引导语，语气轻松有趣。” |\n\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "进阶玩法-prompt",
+      "cat": "media-creator",
+      "name": "🔹 🚀 进阶玩法（Prompt）",
+      "desc": "- 为你的账号创建**品牌口吻**：把 3 条你满意的文案当样例，放在每个 Prompt 末尾。\n- 每个 Prompt 固定 3 个变量：`{{主题}} / {{受众}} / {{风格}}`，替换即用。\n- 用“小步优化法”：每次只改一项（标题/结构/语气），对比前后效果。\n\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "常用工具速查表",
+      "cat": "media-creator",
+      "name": "✨ 💡 常用工具速查表",
+      "desc": "---\n\n> 针对自媒体人常用的AI工具精选，涵盖写作、配图、剪辑等核心环节。每个工具都附一句话用法，方便快速上手。\n\n| 场景       | 工具名称            | 一句话用法 |\n|------------|--------------------|------------|\n| **写作**   | ChatGPT / Claude   | 输入简洁的主题或大纲，快速生成可用文案。 |\n| **配图**   | Midjourney / DALL·E | 输入清晰的画面描述，生成风格一致的配图。 |\n| **剪辑**   | CapCut / Runway    | 导入素材，一键生成节奏流畅的短视频。 |\n| **字幕**   | Whisper / 讯飞听见 | 上传视频或音频，自动生成精准字幕文件。 |\n| **排版**   | Canva / Figma      | 使用预设模板快速制作封面与海报。 |\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "应急方案卡",
+      "cat": "media-creator",
+      "name": "✨ 🚑 应急方案卡",
+      "desc": "---\n\n> 当你在制作内容过程中遇到突发问题时，可以参考以下方案快速解决。\n\n- **图片生成不符合预期**  \n  → 缩短描述，明确主体和风格，多尝试不同关键词组合。\n\n- **AI 写作卡住**  \n  → 换个提问角度，或分段输入需求，让模型逐步输出。\n\n- **视频节奏太拖沓**  \n  → 使用剪辑软件的“自动节奏匹配”或添加快切过渡。\n\n- **字幕时间轴不对**  \n  → 在字幕编辑工具中批量调整时间轴偏移量。\n\n- **封面缺少吸引力**  \n  → 增加大字体标题 + 高对比度色彩，确保一眼抓住注意力。\n\n\n\n<a id=\"sec-60min\"></a>\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "爆款输出流程",
+      "cat": "media-creator",
+      "name": "✨ 💥 爆款输出流程",
+      "desc": "<p align=\"center\">\n  <img src=\"../assets/cover-workflow.png?v=20250814155513\" alt=\"爆款输出流程\" width=\"800\">\n</p>\n\n---\n\n> 统一卡片化流程版，帮助初学者快速掌握并执行。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "img-src-assets-step-1-png-v-20250814155513-width-20-步骤-1-确定主题",
+      "cat": "media-creator",
+      "name": "<img src=\"../assets/step-1.png?v=20250814155513\" width=\"20\"> 🔹 📌 步骤 1：确定主题",
+      "desc": "- 明确内容的主线（如热点话题、垂直领域知识点）。\n- 用一句话概括主题，让读者秒懂。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "img-src-assets-step-2-png-v-20250814155513-width-20-步骤-2-选择工具-prompt",
+      "cat": "media-creator",
+      "name": "<img src=\"../assets/step-2.png?v=20250814155513\" width=\"20\"> 🔹 📌 步骤 2：选择工具 & Prompt",
+      "desc": "- 选择适合的 AI 工具（文字生成 / 图像生成 / 视频剪辑等）。\n- 根据主题选择或定制 Prompt。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "img-src-assets-step-3-png-v-20250814155513-width-20-步骤-3-生成初稿",
+      "cat": "media-creator",
+      "name": "<img src=\"../assets/step-3.png?v=20250814155513\" width=\"20\"> 🔹 📌 步骤 3：生成初稿",
+      "desc": "- 在 AI 工具中运行 Prompt。\n- 不追求一次到位，先生成可用的基础版本。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "img-src-assets-step-4-png-v-20250814155513-width-20-步骤-4-人工优化",
+      "cat": "media-creator",
+      "name": "<img src=\"../assets/step-4.png?v=20250814155513\" width=\"20\"> 🔹 📌 步骤 4：人工优化",
+      "desc": "- 调整结构和细节，让内容更易读。\n- 检查是否符合你的账号风格。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "img-src-assets-step-5-png-v-20250814155513-width-20-步骤-5-排版-发布",
+      "cat": "media-creator",
+      "name": "<img src=\"../assets/step-5.png?v=20250814155513\" width=\"20\"> 🔹 📌 步骤 5：排版 & 发布",
+      "desc": "- 应用统一的排版模板（标题、配色、图片比例）。\n- 在目标平台一次性发布或定时发布。\n\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "先试一次的爆款案例路径",
+      "cat": "media-creator",
+      "name": "🔹 💡 先试一次的爆款案例路径",
+      "desc": "<div style=\"border:1px solid #ddd; border-radius:8px; padding:16px; margin-bottom:16px;\">\n<strong>📌 步骤 1：图片生成（视觉素材）</strong>  \n<b>工具：</b>Canva 或 Midjourney  \n<b>操作：</b>  \n- Canva：选择适合平台的模板（如小红书封面、视频号封面），替换图片与文字即可。  \n- Midjourney：输入指令生成图片，例如：  \n<pre><code>a minimalistic and aesthetic flatlay photo of a coffee cup and a book, warm lighting --ar 4:5</code></pre>\n</div>\n\n<div style=\"border:1px solid #ddd; border-radius:8px; padding:16px; margin-bottom:16px;\">\n<strong>📌 步骤 2：文案生成（标题 + 正文）</strong>  \n<b>工具：</b>ChatGPT（网页版或 App）  \n<b>操作：</b>  \n- 提示词示例：  \n<pre><code>请帮我写一条适合小红书发布的文案，风格温暖治愈，主题是“清晨咖啡的美好时光”，50-80字，并给我3个吸引人的标题。</code></pre>  \n- 从生成的文案中挑选最符合你调性的版本。\n</div>\n\n<div style=\"border:1px solid #ddd; border-radius:8px; padding:16px; margin-bottom:16px;\">\n<strong>📌 步骤 3：发布与优化</strong>  \n<b>平台：</b>小红书 / 微信视频号 / 抖音  \n<b>操作：</b>直接上传图片 + 文案，并加上相关话题标签（如 <code>#早晨仪式感</code> <code>#咖啡时光</code>）。\n</div>\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "常见低级错误提醒-解决方案",
+      "cat": "media-creator",
+      "name": "🔹 ⚠ 常见低级错误提醒 & 解决方案",
+      "desc": "<div style=\"border:1px solid #f5c6cb; border-radius:8px; padding:16px; margin-bottom:16px;\">\n<strong>❌ 图片被裁切</strong>  \n<b>问题：</b>发布后封面或关键信息被平台自动裁掉。  \n<b>解决：</b>在 Canva 中提前选择该平台的标准尺寸模板（如小红书 1080x1350）。\n</div>\n\n<div style=\"border:1px solid #f5c6cb; border-radius:8px; padding:16px; margin-bottom:16px;\">\n<strong>❌ 标题没有吸引力</strong>  \n<b>问题：</b>标题过长、无重点或全是大写。  \n<b>解决：</b>用 ChatGPT 生成多个标题，挑选一个简短有记忆点的。\n</div>\n\n<div style=\"border:1px solid #f5c6cb; border-radius:8px; padding:16px; margin-bottom:16px;\">\n<strong>❌ 文案与图片风格不一致</strong>  \n<b>问题：</b>温暖治愈的图片配了冷酷的文案，造成反差。  \n<b>解决：</b>发布前对照一下图片氛围，必要时用 ChatGPT 调整文案语气。\n</div>\n\n<div style=\"border:1px solid #f5c6cb; border-radius:8px; padding:16px;\">\n<strong>❌ 忘记加话题标签</strong>  \n<b>问题：</b>流量入口减少，曝光不足。  \n<b>解决：</b>发布前在平台搜索相关话题，选取 3-5 个热度适中的标签。\n</div>\n\n\n---\n\n\n✅ **小贴士**  \n- 每次执行时记录 Prompt 和调整思路，方便下次快速复用。  \n- 初期不用纠结“完美”，先跑通流程，后续再慢慢迭代。\n---\n\n\n<a id=\"sec-pitfalls\"></a>\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "常见问题-解决方案",
+      "cat": "media-creator",
+      "name": "✨ ⚠️ 常见问题 & 解决方案",
+      "desc": "---\n\n> 这里列出初学者最常遇到的问题，并给出最快的解决方法。\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "工具类坑",
+      "cat": "media-creator",
+      "name": "🔹 🛠 工具类坑",
+      "desc": "**坑**：AI 工具输出结果总是不理想  \n**解法**：换成更具体的 Prompt，并附带参考范例内容\n\n**坑**：导出的视频文件太大  \n**解法**：用免费压缩工具（如 HandBrake）压到 50MB 以下再发\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "内容类坑",
+      "cat": "media-creator",
+      "name": "🔹 💡 内容类坑",
+      "desc": "**坑**：写文案卡壳  \n**解法**：先用“谁 + 做什么 + 为什么”框架快速列三句\n\n**坑**：图片不够吸引人  \n**解法**：加一行“反差感”文案，例如“这不是广告，这是你的生活”\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "平台类坑",
+      "cat": "media-creator",
+      "name": "🔹 📱 平台类坑",
+      "desc": "**坑**：发视频总是播放量低  \n**解法**：在平台黄金时间段（如晚 8-10 点）发，配热门标签\n\n**坑**：封面没人点  \n**解法**：用大字突出关键词，留悬念\n\n---",
+      "tags": [],
+      "url": ""
+    },
+    {
+      "id": "心态类坑",
+      "cat": "media-creator",
+      "name": "🔹 ❤️ 心态类坑",
+      "desc": "**坑**：一天发不出内容就焦虑  \n**解法**：把目标从“每天发”改为“每周发 3 次”，保证稳定输出\n\n**坑**：总觉得自己不够好  \n**解法**：先发出去，后期再优化\n\n---\n\n<!-- === UX ENHANCE START: open-in-new / copy prompt / image zoom === -->\n<style>\n.copy-btn{\n  display:inline-flex;align-items:center;gap:6px;\n  padding:6px 10px;border:1px solid #d1d5db;border-radius:8px;\n  font-size:12px;cursor:pointer;background:#f9fafb;transition:.2s;\n}\n.copy-btn:hover{background:#eef2ff;border-color:#6366f1}\n.copy-btn.copied{background:#dcfce7;border-color:#16a34a}\n\n.prompt-card{\n  border:1px solid #e5e7eb;border-radius:12px;padding:12px 14px;margin:12px 0;background:#fafafa;\n}\n.prompt-title{font-weight:600;margin:0 0 8px 0}\n.prompt-text{white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14px;}\n\n#_lightboxBackdrop{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:9999}\n#_lightboxBackdrop img{max-width:92vw;max-height:92vh;border-radius:10px;box-shadow:0 10px 40px rgba(0,0,0,.5)}\n#_lightboxBackdrop.active{display:flex}\n.zoomable{cursor:zoom-in;transition:transform .15s}\n.zoomable:hover{transform:scale(1.01)}\n</style>\n\n<div id=\"_lightboxBackdrop\" aria-hidden=\"true\"><img alt=\"\"></div>\n\n<script>\n(function(){\n  // 1) All links (except hash anchors) open in a new tab – includes nav entries\n  document.querySelectorAll('a[href]').forEach(a=>{\n    const href=(a.getAttribute('href')||'').trim();\n    if(!href || href.startsWith('#')) return;\n    a.setAttribute('target','_blank');\n    a.setAttribute('rel','noopener noreferrer');\n  });\n\n  // 2) Add Copy button to ALL code blocks and to .prompt-card .prompt-text\n  // 2A) Code blocks: <pre><code>…</code></pre>\n  document.querySelectorAll('pre > code').forEach(code=>{\n    const pre = code.parentElement;\n    if(pre.dataset._copyBound) return;\n    const btn = document.createElement('button');\n    btn.className='copy-btn'; btn.type='button'; btn.style.float='right'; btn.style.margin='6px';\n    btn.innerHTML='📋 Copy';\n    btn.addEventListener('click', async ()=>{\n      try{\n        await navigator.clipboard.writeText(code.innerText.trim());\n        const old = btn.innerHTML; btn.innerHTML='✅ Copied'; btn.classList.add('copied');\n        setTimeout(()=>{ btn.innerHTML=old; btn.classList.remove('copied'); }, 1500);\n      }catch(e){\n        btn.innerHTML='❗Failed'; setTimeout(()=>{ btn.innerHTML='📋 Copy'; }, 1500);\n      }\n    });\n    pre.insertAdjacentElement('afterbegin', btn);\n    pre.dataset._copyBound='1';\n  });\n\n  // 2B) Prompt cards\n  function mountCopyForCard(card){\n    if(card.dataset._copyBound) return;\n    const textEl = card.querySelector('.prompt-text');\n    if(!textEl) return;\n    const btn = document.createElement('button');\n    btn.className='copy-btn'; btn.type='button';\n    btn.innerHTML='📋 Copy';\n    btn.addEventListener('click', async ()=>{\n      try{\n        await navigator.clipboard.writeText(textEl.innerText.trim());\n        const old = btn.innerHTML; btn.innerHTML='✅ Copied'; btn.classList.add('copied');\n        setTimeout(()=>{ btn.innerHTML=old; btn.classList.remove('copied'); }, 1500);\n      }catch(e){\n        btn.innerHTML='❗Failed'; setTimeout(()=>{ btn.innerHTML='📋 Copy'; }, 1500);\n      }\n    });\n    const title = card.querySelector('.prompt-title');\n    (title? title: card).insertAdjacentElement(title?'afterend':'afterbegin', btn);\n    card.dataset._copyBound='1';\n  }\n  document.querySelectorAll('.prompt-card').forEach(mountCopyForCard);\n\n  // 3) Image Lightbox (click to zoom)\n  const backdrop = document.getElementById('_lightboxBackdrop');\n  const bigImg = backdrop.querySelector('img');\n  function openZoom(src, alt){ bigImg.src = src; bigImg.alt = alt||''; backdrop.classList.add('active'); }\n  function closeZoom(){ backdrop.classList.remove('active'); bigImg.src=''; bigImg.alt=''; }\n  backdrop.addEventListener('click', closeZoom);\n  document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeZoom(); });\n\n  document.querySelectorAll('img, a>img').forEach(img=>{\n    // Only zoom reasonably-sized images\n    if((img.naturalWidth||img.width) >= 300) img.classList.add('zoomable');\n    img.addEventListener('click', (e)=>{\n      const a = img.closest('a');\n      if(a && a.getAttribute('href')) return; // follow link if wrapped by <a>\n      e.preventDefault();\n      const src = img.currentSrc || img.src;\n      openZoom(src, img.alt || '');\n    }, {passive:false});\n  });\n\n  // 4) Observe dynamic changes (optional)\n  const mo = new MutationObserver(()=>{\n    document.querySelectorAll('.prompt-card').forEach(mountCopyForCard);\n  });\n  mo.observe(document.body, {childList:true, subtree:true});\n})();\n</script>\n<!-- === UX ENHANCE END === -->",
+      "tags": [],
+      "url": ""
+    }
+  ]
+}

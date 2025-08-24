@@ -15,6 +15,7 @@ AI 工具这么多，不知道从哪开始？
 - [我是创业者](roles/founder.md)
 - [我是设计师](roles/designer-creator.md)
 - [Educator / 培训师](roles/educator.md)
+- [我是心理咨询师](roles/psychologist.md)
 
 ---
 

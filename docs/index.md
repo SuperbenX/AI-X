@@ -14,6 +14,7 @@ AI 工具这么多，不知道从哪开始？
 - [我是电商运营](roles/ecommerce.html)
 - [我是创业者](roles/founder.md)
 - [我是设计师](roles/designer-creator.md)
+- [我是教育工作者](educator.md)
 
 ---
 

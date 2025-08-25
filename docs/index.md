@@ -17,7 +17,7 @@ AI 工具这么多，不知道从哪开始？
 - [我是教育从业者](roles/educator.md)
 - [我是心理咨询师](roles/psychologist.md)
 - [我是人力资源](roles/hr.md)
-- [我是财务](roles/finance.md)
+- [我是财务/会计](roles/finance.md)
 - [我是法务](roles/legal.md)
 - [我是产品经理](roles/product-manager.md)
 

@@ -64,30 +64,30 @@
 
 ---
 
-## 🛠️ 常用 AI 工具推荐表格（产品经理版）
+## 🛠️ 常用 AI 工具推荐
 
 ### 入门组合（上手快、成本低）
 | 工具 | 核心用途 | 标签 | 官网 | 可替代（国内/开源） |
 |---|---|---|---|---|
-| **ChatGPT / DeepSeek** | 需求拆解、PRD 撰写、市场调研 | 文档/调研 | [chat.openai.com](https://chat.openai.com) / [chat.deepseek.com](https://chat.deepseek.com) | Kimi / 文心一言 |
-| **Perplexity** | 行业调研、竞争对手对比、引用溯源 | 调研 | [perplexity.ai](https://www.perplexity.ai) | Bing Copilot |
-| **Notion AI / 飞书文档** | PRD 模板、知识库、协作文档 | 文档/协作 | [notion.so](https://www.notion.so) / [feishu.cn](https://www.feishu.cn) | 石墨文档 |
-| **Canva** | 宣传图、简单流程图、封面设计 | 设计 | [canva.com](https://www.canva.com) | 创客贴 |
-| **Typeform / 飞书问卷** | 用户问卷、调研反馈收集 | 调研 | [typeform.com](https://www.typeform.com) / [feishu.cn](https://www.feishu.cn) | 腾讯问卷 |
-| **Bing Image Creator** | 占位图、草图快速生成 | 设计 | [bing.com/images/create](https://www.bing.com/images/create) | 360 智脑绘图 |
+| **ChatGPT / DeepSeek** | 需求拆解、PRD 撰写、市场调研 | 文档 / 调研 | [chat.openai.com](https://chat.openai.com) / [chat.deepseek.com](https://chat.deepseek.com) | Kimi / 文心一言 |
+| **Perplexity** | 行业检索、竞品对比、引用溯源 | 调研 | [perplexity.ai](https://www.perplexity.ai) | Bing Copilot |
+| **Notion AI / 飞书文档** | PRD 模板、知识库、协作文档 | 文档 / 协作 | [notion.so](https://www.notion.so) / [feishu.cn](https://www.feishu.cn) | 石墨文档 |
+| **Canva** | 宣传图、封面图、简单流程图 | 设计 | [canva.com](https://www.canva.com) | 创客贴 |
+| **Typeform / 飞书问卷** | 用户问卷、反馈收集 | 调研 | [typeform.com](https://www.typeform.com) / [feishu.cn](https://www.feishu.cn) | 腾讯问卷 |
+| **Bing Image Creator** | 占位图、氛围图、草图 | 设计 | [bing.com/images/create](https://www.bing.com/images/create) | 360 智脑绘图 |
 
 ---
 
 ### 进阶组合（团队化与专业化）
 | 工具 | 核心用途 | 标签 | 官网 | 可替代（国内/开源） |
 |---|---|---|---|---|
-| **Figma + Magician 插件** | 原型设计、组件生成、UI 草稿 | 原型/设计 | [figma.com](https://www.figma.com) / [magician.design](https://magician.design) | Pixso |
-| **Optimizely / VWO** | 在线 A/B 测试、实验管理 | 实验 | [optimizely.com](https://www.optimizely.com) / [vwo.com](https://vwo.com) | 观远实验 |
-| **Amplitude / Mixpanel** | 用户行为分析、漏斗留存分析 | 数据 | [amplitude.com](https://www.amplitude.com) / [mixpanel.com](https://mixpanel.com) | 神策分析 / GrowingIO |
-| **Jira + AI 插件** | 敏捷开发管理、任务拆解、跟踪 | 协作 | [atlassian.com](https://www.atlassian.com) | 禅道 / Teambition |
-| **GitHub Copilot** | 辅助写代码、生成脚本/工具函数 | 开发 | [github.com/features/copilot](https://github.com/features/copilot) | CodeGeeX |
-| **UsabilityHub / Maze** | 可用性测试、原型验证 | 原型/实验 | [usabilityhub.com](https://usabilityhub.com) / [maze.co](https://maze.co) | 腾讯问卷 + 线下测试 |
-| **Looker Studio (Data Studio)** | 数据可视化、看板报告 | 数据 | [lookerstudio.google.com](https://lookerstudio.google.com) | Power BI / FineReport |
+| **Figma + Magician 插件** | 原型设计、组件生成、UI 草图 | 原型 / 设计 | [figma.com](https://www.figma.com) / [magician.design](https://magician.design) | Pixso |
+| **Optimizely / VWO** | 在线 A/B 测试与实验管理 | 实验 | [optimizely.com](https://www.optimizely.com) / [vwo.com](https://vwo.com) | 观远实验 |
+| **Amplitude / Mixpanel** | 行为分析、漏斗 / 留存、分群 | 数据 | [amplitude.com](https://www.amplitude.com) / [mixpanel.com](https://mixpanel.com) | 神策分析 / GrowingIO |
+| **Jira + AI 插件** | 敏捷管理、任务拆解、进度追踪 | 协作 | [atlassian.com](https://www.atlassian.com) | 禅道 / Teambition |
+| **GitHub Copilot** | 开发脚本、工具函数、单测样例 | 开发 | [github.com/features/copilot](https://github.com/features/copilot) | CodeGeeX |
+| **UsabilityHub / Maze** | 可用性测试、原型验证 | 原型 / 实验 | [usabilityhub.com](https://usabilityhub.com) / [maze.co](https://maze.co) | 腾讯问卷 + 线下可用性测试 |
+| **Looker Studio（Data Studio）** | 可视化报表、指标看板 | 数据 | [lookerstudio.google.com](https://lookerstudio.google.com) | Power BI / FineReport |
 
 ---
 

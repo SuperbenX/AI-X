@@ -20,6 +20,11 @@ AI 工具这么多，不知道从哪开始？
 - [我是财务/会计](roles/finance.md)
 - [我是法务](roles/legal.md)
 - [我是产品经理](roles/product-manager.md)
+- [我是医生/医疗工作者](roles/doctor.md)
+- [我是工程师](roles/engineer.md)
+- [我是作家](roles/writer.md)
+- [我是科学研究人员](roles/researcher.md)
+- [我是项目经理](roles/project-manager.md)
 
 
 ---

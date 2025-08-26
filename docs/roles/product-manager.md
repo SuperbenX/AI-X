@@ -76,8 +76,6 @@
 | **Typeform / 飞书问卷** | 用户问卷、反馈收集 | 调研 | [typeform.com](https://www.typeform.com) / [feishu.cn](https://www.feishu.cn) | 腾讯问卷 |
 | **Bing Image Creator** | 占位图、氛围图、草图 | 设计 | [bing.com/images/create](https://www.bing.com/images/create) | 360 智脑绘图 |
 
----
-
 ### 进阶组合（团队化与专业化）
 | 工具 | 核心用途 | 标签 | 官网 | 可替代（国内/开源） |
 |---|---|---|---|---|
@@ -88,7 +86,6 @@
 | **GitHub Copilot** | 开发脚本、工具函数、单测样例 | 开发 | [github.com/features/copilot](https://github.com/features/copilot) | CodeGeeX |
 | **UsabilityHub / Maze** | 可用性测试、原型验证 | 原型 / 实验 | [usabilityhub.com](https://usabilityhub.com) / [maze.co](https://maze.co) | 腾讯问卷 + 线下可用性测试 |
 | **Looker Studio（Data Studio）** | 可视化报表、指标看板 | 数据 | [lookerstudio.google.com](https://lookerstudio.google.com) | Power BI / FineReport |
-
 ---
 
 ## 📌 高频 Prompt 模板（全面升级）

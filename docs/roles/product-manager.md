@@ -64,25 +64,30 @@
 
 ---
 
-## 🛠 常用 AI 工具推荐表格
+## 🛠️ 常用 AI 工具推荐表格（产品经理版）
 
-### 入门组合
-| 工具        | 用途            | 链接 | 标签 |
-|-------------|----------------|------|------|
-| **ChatGPT** | 需求分析 / 文案输出 | [chat.openai.com](https://chat.openai.com) | 需求 / 文案 |
-| **Notion AI** | 用户画像 / 产品规划 | [notion.so](https://notion.so) | 文档 / 协同 |
-| **Figma AI** | 原型设计 / 交互方案 | [figma.com](https://figma.com) | 原型 / 设计 |
-| **Google Trends** | 市场趋势分析 | [trends.google.com](https://trends.google.com) | 调研 / 数据 |
+### 入门组合（上手快、成本低）
+| 工具 | 核心用途 | 标签 | 官网 | 可替代（国内/开源） |
+|---|---|---|---|---|
+| **ChatGPT / DeepSeek** | 需求拆解、PRD 撰写、市场调研 | 文档/调研 | [chat.openai.com](https://chat.openai.com) / [chat.deepseek.com](https://chat.deepseek.com) | Kimi / 文心一言 |
+| **Perplexity** | 行业调研、竞争对手对比、引用溯源 | 调研 | [perplexity.ai](https://www.perplexity.ai) | Bing Copilot |
+| **Notion AI / 飞书文档** | PRD 模板、知识库、协作文档 | 文档/协作 | [notion.so](https://www.notion.so) / [feishu.cn](https://www.feishu.cn) | 石墨文档 |
+| **Canva** | 宣传图、简单流程图、封面设计 | 设计 | [canva.com](https://www.canva.com) | 创客贴 |
+| **Typeform / 飞书问卷** | 用户问卷、调研反馈收集 | 调研 | [typeform.com](https://www.typeform.com) / [feishu.cn](https://www.feishu.cn) | 腾讯问卷 |
+| **Bing Image Creator** | 占位图、草图快速生成 | 设计 | [bing.com/images/create](https://www.bing.com/images/create) | 360 智脑绘图 |
 
 ---
 
-### 进阶组合
-| 工具        | 用途               | 链接 | 标签 |
-|-------------|-------------------|------|------|
-| **Magician (Figma 插件)** | 自动生成 UI 元素 / 图标 | [magician.design](https://magician.design) | 设计 / 插件 |
-| **Tableau** | 数据可视化 & 仪表盘 | [tableau.com](https://tableau.com) | 数据 / 分析 |
-| **Slack GPT** | 跨团队沟通 / 自动纪要 | [slack.com](https://slack.com) | 协同 / 通讯 |
-| **SurveyMonkey** | 调研问卷 / 用户反馈 | [surveymonkey.com](https://surveymonkey.com) | 调研 / 用户 |
+### 进阶组合（团队化与专业化）
+| 工具 | 核心用途 | 标签 | 官网 | 可替代（国内/开源） |
+|---|---|---|---|---|
+| **Figma + Magician 插件** | 原型设计、组件生成、UI 草稿 | 原型/设计 | [figma.com](https://www.figma.com) / [magician.design](https://magician.design) | Pixso |
+| **Optimizely / VWO** | 在线 A/B 测试、实验管理 | 实验 | [optimizely.com](https://www.optimizely.com) / [vwo.com](https://vwo.com) | 观远实验 |
+| **Amplitude / Mixpanel** | 用户行为分析、漏斗留存分析 | 数据 | [amplitude.com](https://www.amplitude.com) / [mixpanel.com](https://mixpanel.com) | 神策分析 / GrowingIO |
+| **Jira + AI 插件** | 敏捷开发管理、任务拆解、跟踪 | 协作 | [atlassian.com](https://www.atlassian.com) | 禅道 / Teambition |
+| **GitHub Copilot** | 辅助写代码、生成脚本/工具函数 | 开发 | [github.com/features/copilot](https://github.com/features/copilot) | CodeGeeX |
+| **UsabilityHub / Maze** | 可用性测试、原型验证 | 原型/实验 | [usabilityhub.com](https://usabilityhub.com) / [maze.co](https://maze.co) | 腾讯问卷 + 线下测试 |
+| **Looker Studio (Data Studio)** | 数据可视化、看板报告 | 数据 | [lookerstudio.google.com](https://lookerstudio.google.com) | Power BI / FineReport |
 
 ---
 

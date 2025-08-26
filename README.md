@@ -63,23 +63,30 @@ AI X 是一个 **AI 工具与 Prompt 应用指南** 项目，面向不同职业�
 ---
 
 ## 📂 项目结构
+
+```plaintext
 .
 ├── roles/               # 各个岗位内容
 │   ├── media-creator.md
 │   ├── ecommerce.md
 │   ├── founder.md
-│   ├── …
-│   └── role-template.md
+│   ├── designer-creator.md
+│   ├── educator.md
+│   ├── psychologist.md
+│   ├── hr.md
+│   ├── finance.md
+│   ├── legal.md
+│   ├── product-manager.md
+│   ├── doctor.md
+│   ├── engineer.md
+│   ├── writer.md
+│   ├── researcher.md
+│   └── project-manager.md
 ├── assets/              # 图片资源
 ├── index.md             # 首页导航
 └── README.md            # 项目说明
-
 ---
 
 ## 🙏 致谢
-
-本项目灵感来源于：
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)  
-- 开源社区的贡献者们  
 
 如果你也想让更多人学会用 AI 提高效率，欢迎一起来共创 🚀

@@ -25,6 +25,16 @@ AI 工具这么多，不知道从哪开始？
 - [我是作家](roles/writer.md)
 - [我是科学研究人员](roles/researcher.md)
 - [我是项目经理](roles/project-manager.md)
+- [我是市场营销](roles/marketing.md)
+- [我是数据科学家](roles/data-scientist.md)
+- [我是产品设计师](roles/product-designer.md)
+- [我是运营经理](roles/operations.md)
+- [我是客服专员](roles/customer-support.md)
+- [我是销售人员](roles/sales.md)
+- [我是内容编辑](roles/content-editor.md)
+- [我是艺术创作者](roles/artist.md)
+- [我是分析师](roles/analyst.md)
+- [我是翻译工作者](roles/translator.md)
 
 ---
 

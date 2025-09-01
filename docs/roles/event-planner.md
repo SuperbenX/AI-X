@@ -273,4 +273,50 @@
 
 ---
 
-**推荐图片占位**：`../assets/cover-event-planner.png`、`../assets/workflow-event-planner.png`（16:9，1200–1600px 宽）。
+## 📚 延伸资源
+
+### 📖 推荐书籍
+- 《活动的力量》—— 深入解析活动策划的底层逻辑。  
+- 《体验经济》—— 如何通过沉浸式活动提升用户感知价值。  
+- 《Event Marketing Handbook》—— 国际通用的活动营销指南。  
+- 《现场力》—— 关注执行细节，提升活动落地力。  
+
+---
+
+### 🌐 平台与工具
+- **Eventbrite** → 全球活动策划与报名平台 [访问](https://www.eventbrite.com)  
+- **Meetup** → 社群活动聚合平台 [访问](https://www.meetup.com)  
+- **钉钉会议 / 腾讯会议** → 中国常用线上活动平台  
+- **活动行** → 国内活动发布 & 报名平台 [访问](https://www.huodongxing.com)  
+
+---
+
+### 🎓 学习课程
+- **Coursera – Event Marketing** → 系统学习活动营销与策划。  
+- **HubSpot Academy – Event Promotion** → 免费入门课程，教你如何用数字工具推广活动。  
+- **Udemy – Event Planning Masterclass** → 涵盖预算、物料、执行全流程。  
+- **本地高校继续教育课程** → 如复旦大学/中大继续教育活动策划与会展管理班。  
+
+---
+
+### 👥 社区与交流
+- **知乎「活动策划」话题** → 国内策划人经验分享。  
+- **Reddit r/eventprofs** → 国际活动策划人专业社区。  
+- **Event Manager Blog 社群** → 专注活动营销与创新玩法。  
+- **微信群 / Slack 社群** → 垂直行业活动交流群（会议 / 教育 / 公益）。  
+
+---
+
+### 🛠️ 工具箱
+- **Notion AI 模板库** → 活动执行清单、倒计时表、复盘模板。  
+- **Canva 模板库** → 海报、邀请函、易拉宝一键生成。  
+- **Power BI 模板** → 活动数据看板，自动计算 ROI。  
+- **Figma 社区资源** → 舞美、展台、流程设计元件库。  
+
+---
+
+### 💡 灵感库
+- **Pinterest – Event Design** → 海量舞美 & 物料灵感。  
+- **Behance – Event Branding** → 国际优秀活动视觉案例。  
+- **小红书「活动策划」** → 中国本土实战分享，案例贴近落地。  
+- **YouTube 频道 – Endless Events** → 海外活动策划公司分享的实战案例。  

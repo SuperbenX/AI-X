@@ -38,6 +38,7 @@ AI 工具这么多，不知道从哪开始？
 - [我是建筑师](roles/architect.md)
 - [我是记者](roles/journalist.md)
 - [我是活动策划](roles/event-planner.md)
+- [我是健身教练](roles/fitness-coach.md)
 
 ---
 

@@ -33,7 +33,7 @@ AI 工具这么多，不知道从哪开始？
 - [我是销售人员](roles/sales.md)
 - [我是内容编辑](roles/content-editor.md)
 - [我是艺术创作者](roles/artist.md)
-- [我是分析师](roles/analyst.md)
+- [我是分析师](roles/data-analyst.md)
 - [我是翻译工作者](roles/translator.md)
 - [我是建筑师](roles/architect.md)
 - [我是记者](roles/journalist.md)

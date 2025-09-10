@@ -311,31 +311,44 @@
 
 ## 📚 延伸资源
 
-### 📖 书籍
-- 《数据分析实战》  
-- 《Python 数据科学手册》  
-- 《Storytelling with Data》  
-- 《Data Science for Business》  
+### 📖 推荐书籍  
+- 《数据分析实战》 – 从入门案例到商业落地的完整路径。  
+- 《Python 数据分析基础教程》 – 面向初学者的代码入门。  
+- 《商业数据分析》 – 聚焦如何用数据驱动业务增长。  
+- 《Storytelling with Data》 – 学习如何用图表讲故事。  
+- 《Naked Statistics》 – 通俗易懂的统计学入门。  
 
-### 🌐 平台
-- Kaggle → 数据竞赛 & 公共数据集  
-- DataCamp / LeetCode SQL → 在线练习  
-- Google Dataset Search → 数据集搜索  
+---
 
-### 🎓 课程
-- Coursera – Data Analysis with Python  
-- MIT OpenCourseWare – Data Science  
-- Udemy – Excel to MySQL  
+### 🌐 在线平台  
+- [Kaggle](https://www.kaggle.com) → 数据竞赛与公开数据集。  
+- [Google Dataset Search](https://datasetsearch.research.google.com/) → 数据集搜索引擎。  
+- [Tableau Public](https://public.tableau.com/) → 免费数据可视化作品库。  
+- [Power BI](https://powerbi.microsoft.com) → 微软官方商业智能工具。  
+- [Statista](https://www.statista.com) → 各类市场与行业数据。  
 
-### 👥 社区
-- 知乎「数据分析」话题  
-- Reddit r/datascience  
-- Kaggle Discussion  
+---
 
-### 🧰 工具箱
-- Pandas Cookbook  
-- Tableau Public 模板库  
-- SQL Prompt 库  
-- Notion 分析周报模板  
+### 🎓 推荐课程  
+- [Coursera – Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)  
+- [Udemy – SQL for Data Science](https://www.udemy.com/course/sql-for-data-science/)  
+- [edX – Data Science MicroMasters (MIT)](https://micromasters.mit.edu/ds/)  
+- [DataCamp](https://www.datacamp.com) – 在线交互式课程平台。  
 
+---
+
+### 👥 社区 & 讨论区  
+- [Reddit r/datascience](https://www.reddit.com/r/datascience/) → 全球数据科学社区。  
+- [Stack Overflow](https://stackoverflow.com/) → 技术问答与代码调试。  
+- [知乎 – 数据分析话题](https://www.zhihu.com/topic/19554181) → 中文社区经验分享。  
+- [Data Science Central](https://www.datasciencecentral.com/) → 数据科学综合社区。  
+
+---
+
+### 🧰 工具箱  
+- [Zotero](https://www.zotero.org/) → 文献与数据引用管理。  
+- [Notion AI](https://www.notion.so/product/ai) → 数据分析笔记与报告管理。  
+- [Google Colab](https://colab.research.google.com/) → 免费在线 Python 分析环境。  
+- [Jupyter Notebook](https://jupyter.org/) → 开源数据科学工作流工具。  
+- [BioRender](https://biorender.com/) → 专业科研/数据可视化插图。  
 ---
